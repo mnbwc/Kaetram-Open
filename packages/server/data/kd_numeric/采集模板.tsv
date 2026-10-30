@@ -1,0 +1,19 @@
+# 数值采集模板 —— 请按行填写，填完发我即可校准
+# 说明: 每行一个观测；不确定的留空；来源写 截图/实机/服务端
+#
+# 【表1】升级经验（最关键，用来定死经验曲线低段）
+# 角色面板里那个「升级经验」字段 —— 只要 1/5/10/20 这几个等级的值就够
+# role_level	upgrade_exp	source
+# 1		
+# 5		
+# 10		
+# 20		
+#
+# 【表2】怪物经验（按地图，不按等级）
+# map_level	map_name	monster_name	exp	source
+# 12	尸王殿		1600	截图
+#
+# 【表3】怪物属性（服务端数值，客户端没有）
+# monster_name	level	hp	atk	def	exp	source
+#
+# 已填部分见 monster_exp.tsv / exp_curve.tsv

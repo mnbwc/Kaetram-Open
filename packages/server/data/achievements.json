@@ -1,0 +1,585 @@
+{
+    "firstrock": {
+        "name": "第一块矿石",
+        "description": "开采你的第一块矿石！"
+    },
+
+    "firstfish": {
+        "name": "第一条鱼",
+        "description": "钓上你的第一条鱼！"
+    },
+
+    "ratinfestation": {
+        "name": "普通任务 1",
+        "description": "壮汉博根需要你消灭 20 只老鼠！",
+        "region": "Mudwich",
+        "npc": "forestnpc",
+        "dialogueHidden": [
+            "Hello there fellow adventurer!",
+            "Please...",
+            "Please help me with these rats!",
+            "If you slay 20 of them, I'll su-",
+            "Reward you with something special!"
+        ],
+        "dialogueStarted": [
+            "Please, those rats are really annoying!",
+            "They won't let me be."
+        ],
+        "mob": ["rat", "icerat"],
+        "mobCount": 20,
+        "rewardSkill": "strength",
+        "rewardExperience": 369
+    },
+
+    "examiner10": {
+        "name": "鉴定师",
+        "description": "检查世界上 10 处随机物件。"
+    },
+
+    "lumberjacking10": {
+        "name": "伐木工",
+        "description": "砍倒 10 棵树。"
+    },
+
+    "mining10": {
+        "name": "矿工",
+        "description": "获得 10 块矿石。"
+    },
+
+    "fishing10": {
+        "name": "渔夫",
+        "description": "钓上 10 条小鱼。"
+    },
+
+    "boxingman": {
+        "name": "普通任务 2",
+        "description": "去泥桥镇找拜克·莱森，聊聊打架的事。",
+        "region": "Mudwich",
+        "npc": "boxingman",
+        "dialogueHidden": [
+            "Hey there, you look like you can take a punch!",
+            "I'm looking for someone to beat up some stuff for me.",
+            "If you go and beat up 25 snakes, I have a special reward for you!"
+        ],
+        "dialogueStarted": [
+            "Beat up 25 sneks for me!",
+            "I'll show you something special if you do!"
+        ],
+        "mob": ["snek"],
+        "mobCount": 25,
+        "rewardAbility": "run",
+        "rewardSkill": "strength",
+        "rewardExperience": 2000
+    },
+
+    "ahiddenpath": {
+        "name": "隐秘小径",
+        "description": "发现隐秘的小径。",
+        "region": "Mudwich"
+    },
+
+    "hiddenreward": {
+        "name": "隐藏的奖励",
+        "description": "在某个地方干掉一些秘密的诡异骷髅。",
+        "region": "Mudwich"
+    },
+
+    "wormholes": {
+        "name": "虫洞",
+        "description": "调查泥桥镇里的诡异事件。",
+        "region": "Mudwich",
+        "hidden": true,
+        "rewardAbility": "precognition"
+    },
+
+    "ancientwizard": {
+        "name": "远古法师",
+        "description": "击败泥桥镇的远古法师！"
+    },
+
+    "crabproblem": {
+        "name": "哦，螃蟹！",
+        "description": "帮布巴消灭 10 只螃蟹！",
+        "region": "Mudwich",
+        "hidden": true,
+        "npc": "beachnpc",
+        "dialogueHidden": [
+            "Wassup man!",
+            "Listen, could you lend me a hand?",
+            "I see you're pretty good with the killing stuff.",
+            "Mind killing 10 crabs for me?"
+        ],
+        "dialogueStarted": [
+            "C'mon man, please kill me 10 crabs."
+        ],
+        "mob": ["crab", "hermitcrab"],
+        "mobCount": 10,
+        "rewardSkill": "accuracy",
+        "rewardExperience": 696
+    },
+
+    "warriorcrab": {
+        "name": "战士蟹",
+        "description": "击败藏在沙滩上的寄居蟹战士。",
+        "region": "Mudwich"
+    },
+
+    "sandtreasure": {
+        "name": "沙滩宝藏",
+        "description": "找到藏在沙滩某处的宝藏。",
+        "region": "Mudwich"
+    },
+
+    "waterguardian": {
+        "name": "水之守卫",
+        "description": "击败水之守卫！",
+        "region": "Mudwich",
+        "hidden": true
+    },
+
+    "mermaidguard": {
+        "name": "美人鱼守卫",
+        "description": "击败守卫海参的美人鱼！",
+        "region": "Under the Sea",
+        "hidden": true
+    },
+
+    "pirates": {
+        "name": "海盗",
+        "description": "海底下居然有骷髅海盗？",
+        "region": "Under the Sea"
+    },
+
+    "piratestreasure": {
+        "name": "海盗的宝藏",
+        "description": "找到藏在海盗船里的宝藏。",
+        "region": "Under the Sea",
+        "hidden": true
+    },
+
+    "zombielovers": {
+        "name": "僵尸恋人",
+        "description": "忧心忡忡的僵尸女友需要你的帮助！",
+        "region": "Under the Sea",
+        "npc": "zombiegf",
+        "dialogueHidden": [
+            "You! Please, you need to help me!",
+            "My boyfriend went down in that mine below and got stuck!",
+            "He looks just like one of those zombies!",
+            "Slay 20 of them just to make sure they're not my boyfriend.",
+            "What? I gotta give you a task, isn't that why you talked to me?"
+        ],
+        "dialogueStarted": [
+            "Please, slay 20 zombies for me!"
+        ],
+        "mob": ["zombie"],
+        "mobCount": 20,
+        "rewardSkill": "strength",
+        "rewardExperience": 4269
+    },
+
+    "babyseadragon": {
+        "name": "小海龙",
+        "description": "击败幼年海龙守卫！",
+        "region": "Under the Sea"
+    },
+
+    "underwatertreasure": {
+        "name": "水底宝箱",
+        "description": "找到藏在水下的宝藏。",
+        "region": "Under the Sea"
+    },
+
+    "patsow": {
+        "name": "帕索高原",
+        "description": "抵达帕索高原！",
+        "region": "Patsow",
+        "hidden": true
+    },
+
+    "ogreguardian": {
+        "name": "食人魔守卫",
+        "description": "击败食人魔守卫！",
+        "region": "Patsow",
+        "rewardExperience": 1420
+    },
+
+    "pathofdeath": {
+        "name": "死亡之路",
+        "description": "击败守卫食人魔王的食人魔。",
+        "region": "Patsow",
+        "hidden": true
+    },
+
+    "treadcarefully": {
+        "name": "小心脚下",
+        "description": "我真说了让你小心脚下。",
+        "region": "Patsow",
+        "hidden": true
+    },
+
+    "goldengolem": {
+        "name": "黄金魔像",
+        "description": "击败黄金魔像！",
+        "region": "Patsow"
+    },
+
+    "skeletonking": {
+        "name": "骷髅王",
+        "description": "击败骷髅王！",
+        "region": "Patsow",
+        "hidden": true,
+        "rewardSkill": "strength",
+        "rewardExperience": 12560
+    },
+
+    "ogrelord": {
+        "name": "食人魔王",
+        "description": "击败食人魔王！",
+        "region": "Patsow",
+        "hidden": true,
+        "rewardSkill": "strength",
+        "rewardExperience": 12560
+    },
+
+    "queenant": {
+        "name": "蚁后",
+        "description": "击败蚁后！",
+        "region": "Crullfeld",
+        "hidden": true,
+        "rewardSkill": "health",
+        "rewardExperience": 33560
+    },
+
+    "notwhatitseems": {
+        "name": "吓人的替身",
+        "description": "发现一只宝箱怪。",
+        "hidden": true,
+        "rewardSkill": "health",
+        "rewardExperience": 240
+    },
+
+    "webdeveloper": {
+        "name": "网站开发者",
+        "description": "蜘蛛们正在四处结网！",
+        "region": "Lakesworld"
+    },
+
+    "vulture": {
+        "name": "秃鹫",
+        "description": "击败一只秃鹫！",
+        "region": "Crullfeld",
+        "hidden": true
+    },
+
+    "ogresgateway": {
+        "name": "食人魔之门",
+        "description": "在击败食人魔后发现秘密传送门。",
+        "region": "Crullfeld"
+    },
+
+    "frozentundra": {
+        "name": "冰封苔原",
+        "description": "击败守卫，获得进入冰之国的资格。",
+        "region": "Lakesworld",
+        "hidden": true
+    },
+
+    "iceworld": {
+        "name": "冰雪世界",
+        "description": "获得进入冰雪世界的资格！",
+        "region": "Yontil Pass",
+        "hidden": true
+    },
+
+    "forestdragon": {
+        "name": "森林之龙",
+        "description": "击败沉睡在泥桥镇地底的巨龙。",
+        "region": "Mudwich",
+        "hidden": true,
+        "rewardSkill": "health",
+        "rewardExperience": 52600
+    },
+
+    "getmaxlevel": {
+        "name": "满级达成！",
+        "description": "与地狱里的这位居民交谈，即可获得满额经验值。",
+        "region": "Kingdom of Kaetram",
+        "npc": "rick"
+    },
+
+    "roadtohell": {
+        "name": "地狱之路",
+        "description": "击败守卫地狱犬入口的暗黑狼。",
+        "region": "Kingdom of Kaetram",
+        "hidden": true,
+        "rewardSkill": "health",
+        "rewardExperience": 4000
+    },
+
+    "hellhound": {
+        "name": "地狱犬",
+        "description": "在地牢中击败地狱犬！",
+        "region": "Kingdom of Kaetram",
+        "hidden": true,
+        "rewardSkill": "strength",
+        "rewardExperience": 25600
+    },
+
+    "miniemperor": {
+        "name": "迷你皇帝",
+        "description": "在迷你骑士的国度击败迷你皇帝！",
+        "region": "Chymos",
+        "hidden": true,
+        "rewardSkill": "loitering",
+        "rewardExperience": 3000
+    },
+
+    "examiner25": {
+        "name": "鉴定师",
+        "description": "检查世界上 25 处随机物件。",
+        "secret": true
+    },
+
+    "examiner50": {
+        "name": "鉴定师",
+        "description": "检查世界上 50 处随机物件。",
+        "secret": true
+    },
+
+    "lumberjacking50": {
+        "name": "伐木工",
+        "description": "砍倒 50 棵树。",
+        "secret": true
+    },
+
+    "lumberjacking100": {
+        "name": "伐木工",
+        "description": "砍倒 100 棵树。",
+        "secret": true
+    },
+
+    "lumberjacking500": {
+        "name": "伐木工",
+        "description": "砍倒 500 棵树。",
+        "secret": true
+    },
+
+    "lumberjacking1000": {
+        "name": "伐木工",
+        "description": "砍倒 1000 棵树。",
+        "secret": true
+    },
+
+    "lumberjacking5000": {
+        "name": "伐木工",
+        "description": "砍倒 5000 棵树。",
+        "secret": true
+    },
+
+    "lumberjacking10000": {
+        "name": "伐木工",
+        "description": "砍倒 10000 棵树。",
+        "secret": true
+    },
+
+    "mining50": {
+        "name": "矿工",
+        "description": "获得 50 块矿石。",
+        "secret": true
+    },
+
+    "mining100": {
+        "name": "矿工",
+        "description": "获得 100 块矿石。",
+        "secret": true
+    },
+
+    "mining500": {
+        "name": "矿工",
+        "description": "获得 500 块矿石。",
+        "secret": true
+    },
+
+    "mining1000": {
+        "name": "矿工",
+        "description": "获得 1000 块矿石。",
+        "secret": true
+    },
+
+    "mining5000": {
+        "name": "矿工",
+        "description": "获得 5000 块矿石。",
+        "secret": true
+    },
+
+    "mining10000": {
+        "name": "矿工",
+        "description": "获得 10000 块矿石。",
+        "secret": true
+    },
+
+    "fishing50": {
+        "name": "渔夫",
+        "description": "钓上 50 条小鱼。",
+        "secret": true
+    },
+
+    "fishing100": {
+        "name": "渔夫",
+        "description": "钓上 100 条小鱼。",
+        "secret": true
+    },
+
+    "fishing500": {
+        "name": "渔夫",
+        "description": "钓上 500 条小鱼。",
+        "secret": true
+    },
+
+    "fishing1000": {
+        "name": "渔夫",
+        "description": "钓上 1000 条小鱼。",
+        "secret": true
+    },
+
+    "fishing5000": {
+        "name": "渔夫",
+        "description": "钓上 5000 条小鱼。",
+        "secret": true
+    },
+
+    "fishing10000": {
+        "name": "渔夫",
+        "description": "钓上 10000 条小鱼。",
+        "secret": true
+    },
+
+    "gravemystery": {
+        "name": "坟墓之谜",
+        "description": "发现了一组神秘的墓碑。",
+        "secret": true
+    },
+
+    "kaetramdungeon": {
+        "name": "Kaetram 地牢",
+        "description": "发现了通往 Kaetram 地牢的秘密梯子！",
+        "secret": true
+    },
+
+    "masterofcrafts": {
+        "name": "工艺大师",
+        "description": "制作 100 件物品。",
+        "secret": true
+    },
+
+    "gildedhands": {
+        "name": "鎏金之手",
+        "description": "制作 500 件黄金物品。",
+        "secret": true
+    },
+
+    "traveller15": {
+        "name": "环球旅者",
+        "description": "前往 15 个不同的地点。",
+        "secret": true
+    },
+
+    "traveller50": {
+        "name": "资深探险家",
+        "description": "前往 50 个不同的地点。",
+        "secret": true
+    },
+
+    "treasurehunter": {
+        "name": "寻宝猎人",
+        "description": "找到 50 处隐藏的宝藏。",
+        "secret": true
+    },
+
+    "cultbuster": {
+        "name": "邪教终结者",
+        "description": "瓦解 5 个黑暗教团。",
+        "region": "Hellgate Marsh"
+    },
+
+    "darkruins": {
+        "name": "遗迹探索者",
+        "description": "发现 Zanrik 的远古遗迹。",
+        "region": "Zanrik Plains"
+    },
+
+    "arenamaster": {
+        "name": "竞技场大师",
+        "description": "赢得 20 场竞技场战斗。",
+        "secret": true
+    },
+
+    "potionmaster": {
+        "name": "药水大师",
+        "description": "制作 1000 瓶药水。",
+        "secret": true
+    },
+
+    "bookworm": {
+        "name": "书虫",
+        "description": "阅读世界中的 100 本书。",
+        "secret": true
+    },
+
+    "ancientsecrets": {
+        "name": "远古秘密",
+        "description": "破译 5 卷远古卷轴。",
+        "region": "Valus Temples",
+        "hidden": true
+    },
+
+    "darkhorse": {
+        "name": "黑马",
+        "description": "驯服难得一见的暗影梦魇。",
+        "region": "Mystic Woods"
+    },
+
+    "merchantprince": {
+        "name": "商界贵胄",
+        "description": "交易价值 10 万金币的商品。",
+        "secret": true
+    },
+
+    "merchantlord": {
+        "name": "商业大亨",
+        "description": "交易价值 100 万金币的商品。",
+        "secret": true
+    },
+
+    "craigslist": {
+        "name": "交易老手",
+        "description": "与 10 名不同的玩家交易。",
+        "secret": true
+    },
+
+    "socialite": {
+        "name": "社交名流",
+        "description": "与 500 名不同的玩家互动。",
+        "secret": true
+    },
+
+    "errandboy": {
+        "name": "跑腿小伙",
+        "description": "完成 10 个任务。",
+        "secret": true
+    },
+
+    "questmaster": {
+        "name": "任务大师",
+        "description": "完成 Kaetram 中的所有任务。",
+        "secret": true
+    },
+
+    "dungeoncrawler": {
+        "name": "地城行者",
+        "description": "完成 50 个不同的地城。",
+        "secret": true
+    }
+
+}

@@ -1,0 +1,336 @@
+{
+    "259-435": {
+        "name": "远古法师",
+        "roaming": true,
+        "miniboss": true,
+        "hitPoints": 250,
+        "level": 10,
+        "projectileName": "fireball2",
+        "achievement": "ancientwizard"
+    },
+
+    "320-455": {
+        "name": "寄居蟹战士",
+        "drops": [
+            {
+                "key": "flask",
+                "chance": 2000
+            },
+            {
+                "key": "gold",
+                "chance": 7500
+            },
+            {
+                "key": "ironspear",
+                "chance": 750
+            },
+            {
+                "key": "platearmor",
+                "chance": 1000
+            }
+        ],
+        "dropTables": ["ordinary", "unusual", "warriorcrab"],
+        "roaming": true,
+        "miniboss": true,
+        "hitPoints": 300,
+        "level": 30,
+        "aggroRange": 3,
+        "aggressive": true,
+        "achievement": "warriorcrab"
+    },
+
+    "293-729": {
+        "name": "水之守卫",
+        "drops": [
+            {
+                "key": "ring1",
+                "chance": 1000
+            }
+        ],
+        "miniboss": true,
+        "level": 36,
+        "hitPoints": 350,
+        "achievement": "waterguardian"
+    },
+
+    "387-740": {
+        "name": "食人魔守卫",
+        "miniboss": true,
+        "level": 32,
+        "hitPoints": 650,
+        "defenseLevel": 8,
+        "experience": 120,
+        "respawnDelay": 180000,
+        "achievement": "ogreguardian"
+    },
+
+    "271-731": {
+        "name": "宝箱怪",
+        "achievement": "notwhatitseems",
+        "drops": [
+            {
+                "key": "gold",
+                "chance": 7000
+            },
+            {
+                "key": "bigflask",
+                "chance": 3000
+            },
+            {
+                "key": "crystalspear",
+                "chance": 1000
+            },
+            {
+                "key": "ring1",
+                "chance": 1000
+            },
+            {
+                "key": "pendant1",
+                "chance": 1000
+            },
+            {
+                "key": "goldnugget",
+                "chance": 1000
+            }
+        ]
+    },
+
+    "507-828": {
+        "name": "宝箱怪",
+        "achievement": "treadcarefully",
+        "drops": [
+            {
+                "key": "gold",
+                "chance": 7000
+            },
+            {
+                "key": "bigflask",
+                "chance": 3000
+            },
+            {
+                "key": "crystalspear",
+                "chance": 1000
+            },
+            {
+                "key": "ring1",
+                "chance": 1000
+            },
+            {
+                "key": "pendant1",
+                "chance": 1000
+            },
+            {
+                "key": "goldnugget",
+                "chance": 1000
+            }
+        ]
+    },
+
+    "324-252": {
+        "name": "宝箱怪",
+        "achievement": "notwhatitseems",
+        "hitPoints": 1500,
+        "level": 30,
+        "defenseLevel": 10,
+        "drops": [
+            {
+                "key": "gold",
+                "chance": 7000
+            },
+            {
+                "key": "bigflask",
+                "chance": 3000
+            },
+            {
+                "key": "crystalspear",
+                "chance": 1000
+            },
+            {
+                "key": "ring1",
+                "chance": 1000
+            },
+            {
+                "key": "pendant1",
+                "chance": 1000
+            },
+            {
+                "key": "goldnugget",
+                "chance": 1000
+            }
+        ]
+    },
+
+    "556-821": {
+        "name": "宝箱怪",
+        "achievement": "notwhatitseems",
+        "hitPoints": 2200,
+        "level": 84,
+        "defenseLevel": 10,
+        "drops": [
+            {
+                "key": "gold",
+                "chance": 7000
+            },
+            {
+                "key": "manaflask",
+                "chance": 3000
+            },
+            {
+                "key": "sproutring",
+                "chance": 100
+            },
+            {
+                "key": "shardt2",
+                "chance": 3000
+            }
+        ]
+    },
+
+    "951-707": {
+        "name": "宝箱怪",
+        "achievement": "notwhatitseems",
+        "hitPoints": 2200,
+        "level": 84,
+        "defenseLevel": 10,
+        "drops": [
+            {
+                "key": "gold",
+                "chance": 8000
+            },
+            {
+                "key": "cure",
+                "chance": 3000
+            },
+            {
+                "key": "greenpendant",
+                "chance": 500
+            }
+        ]
+    },
+
+    "773-767": {
+        "name": "宝箱怪",
+        "achievement": "notwhatitseems",
+        "hitPoints": 2200,
+        "level": 84,
+        "defenseLevel": 10,
+        "drops": [
+            {
+                "key": "gold",
+                "chance": 8000
+            },
+            {
+                "key": "cure",
+                "chance": 3000
+            },
+            {
+                "key": "greenpendant",
+                "chance": 500
+            }
+        ]
+    },
+
+    "802-651": {
+        "name": "宝箱怪",
+        "achievement": "notwhatitseems",
+        "hitPoints": 1300,
+        "level": 62,
+        "defenseLevel": 15,
+        "drops": [
+            {
+                "key": "gold",
+                "chance": 8000
+            },
+            {
+                "key": "cure",
+                "chance": 3000
+            },
+            {
+                "key": "greenpendant",
+                "chance": 500
+            }
+        ]
+    },
+
+    "264-127": {
+        "name": "老年食人魔",
+        "miniboss": true
+    },
+
+    "355-247": {
+        "name": "冰之守卫",
+        "miniboss": true,
+        "defenseLevel": 15,
+        "level": 35
+    },
+
+    "356-252": {
+        "name": "冰之守卫",
+        "miniboss": true,
+        "defenseLevel": 15,
+        "level": 35
+    },
+
+    "398-135": {
+        "name": "秃鹫",
+        "achievement": "vulture"
+    },
+
+    "334-144": {
+        "name": "钢铁食人魔",
+        "miniboss": true,
+        "level": 25,
+        "achievement": "pathofdeath"
+    },
+
+    "149-402": {
+        "name": "小海龙",
+        "miniboss": true,
+        "achievement": "babyseadragon"
+    },
+
+    "808-813": {
+        "name": "寒冰骑士",
+        "miniboss": true,
+        "level": 62,
+        "drops": [
+            {
+                "key": "gold",
+                "chance": 3000
+            },
+            {
+                "key": "icesword",
+                "chance": 10000
+            }
+        ]
+    },
+
+    "880-772": {
+        "name": "黄金魔像",
+        "miniboss": true,
+        "achievement": "goldengolem"
+    },
+
+    "865-753": {
+        "name": "大号小蜘蛛",
+        "miniboss": true,
+        "achievement": "webdeveloper",
+        "level": 45
+    },
+
+    "676-851": {
+        "name": "美人鱼",
+        "miniboss": true,
+        "achievement": "mermaidguard",
+        "defenseLevel": 28,
+        "level": 55
+    },
+
+    "1112-778": {
+        "name": "暗黑狼",
+        "miniboss": true,
+        "achievement": "roadtohell",
+        "hitPoints": 1050,
+        "attackRate": 800
+    }
+}

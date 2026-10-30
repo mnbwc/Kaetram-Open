@@ -1,0 +1,84 @@
+{
+    "name": "元素箭术",
+    "description": "传说中有蕴含自然元素精华的箭。神射手艾兰德瑞尔掌握着制作这些箭的秘密，但需要有人帮忙收集材料。",
+    "rewards": ["制作元素之箭的能力", "3000 射箭经验"],
+    "skillRequirements": {
+        "archery": 25
+    },
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "elandrial",
+            "text": [
+                "啊，弓箭手同行！我一直在尝试复刻传说中的元素之箭。",
+                "这些箭曾被远古的弓箭手用来对抗黑暗势力。",
+                "要制作它们，我需要取自大地的特殊元素。你愿意帮我吗？"
+            ],
+            "completedText": ["这段旅程不会轻松。", "你确定能胜任这个任务吗？"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "elandrial",
+            "text": [
+                "首先，我们需要炼狱洞窟深处的火焰坑中取来的“烈焰之心”。",
+                "它将被用来制作火焰之箭。小心，那些洞穴十分凶险。"
+            ],
+            "completedText": ["拿到烈焰之心了吗？", "它是制作火焰之箭的关键。"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "elandrial",
+            "hasItemText": [
+                "干得漂亮！接下来，我们需要住在霜峰之巅的冰之灵的“寒霜之泪”。",
+                "有了它，我们就能制作冰之箭了。"
+            ],
+            "itemRequirements": [
+                {
+                    "key": "heartofflame",
+                    "count": 1
+                }
+            ]
+        },
+        "3": {
+            "task": "talk",
+            "npc": "elandrial",
+            "hasItemText": [
+                "你已经证明了自己的执着！最后一味元素：「风的低语」。",
+                "它可以在低语之林中找到，那里的树会与风交谈。",
+                "把它取回来，制作风之箭的材料就齐了。"
+            ],
+            "itemRequirements": [
+                {
+                    "key": "tearoffrost",
+                    "count": 1
+                }
+            ]
+        },
+        "4": {
+            "task": "talk",
+            "npc": "elandrial",
+            "hasItemText": [
+                "有了风的低语，所有材料就都齐了。",
+                "现在我将把制作元素之箭的方法传授给你。",
+                "明智地使用它们，能力越大，责任越大。"
+            ],
+            "itemRequirements": [
+                {
+                    "key": "whisperofwind",
+                    "count": 1
+                }
+            ],
+            "skillRewards": [
+                {
+                    "key": "archery",
+                    "experience": 3000
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@元素箭术@green@。你获得了@crimson@3000@green@点射箭经验和@crimson@制作元素之箭的能力@green@！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

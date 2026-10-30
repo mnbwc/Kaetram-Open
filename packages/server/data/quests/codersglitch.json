@@ -1,0 +1,78 @@
+{
+    "name": "程序员的小故障",
+    "description": "程序员需要你帮忙清理他的 bug。|程序员（如果你没跳过教程，应该已经听说过他了）需要你帮忙击败他制造出的 bug。他想要前三位首领的战利品。",
+    "rewards": ["5000 力量经验", "一件惊喜武器"],
+    "questRequirements": ["foresting", "desertquest", "sorcery"],
+    "skillRequirements": {
+        "accuracy": 15,
+        "strength": 20,
+        "defense": 15
+    },
+
+    "stages": {
+        "0": {
+            "task": "talk",
+            "noc": "coder",
+            "text": [
+                "好极了，看来你已经摸清这个世界是怎么运转的了。",
+                "我最初的几个故障之一就是骷髅王。",
+                "我创造这个存在是因为这个游——我是说，这个世界需要一个首领。",
+                "结果他相当不稳定，总在他的",
+                "长得非常可疑、一看就像首领的房间。我要你击败他，把",
+                "把他的脑袋当战利品带回来。",
+                "骷髅王就住在沙漠东边那个",
+                "那片被称为帕索的火山之地。"
+            ],
+
+            "completedText": [
+                "找到并击败骷髅王。他就在沙漠东边。",
+                "就在那片叫帕索的火山之地里。把他的护符带给我。"
+            ]
+        },
+
+        "1": {
+            "task": "kill",
+            "mob": ["skeletonking"]
+        },
+
+        "2": {
+            "task": "talk",
+            "npc": "coder",
+            "hasItemText": [
+                "哇，我真没想到还能再见到——",
+                "抱歉，恭喜你，英雄！谢谢你为我完成这个任务。",
+                "这件事对我超级重要，因为我需要测试",
+                "真正程序员——我是说，这个世界的极限。",
+                "嗯，无论如何。不久后我也许还有别的任务给你。",
+                "不如去外面多探索探索世界？我相信你",
+                "发现点什么或什么有趣的人……"
+            ],
+            "itemRequirements": [
+                {
+                    "key": "skeletonkingtalisman",
+                    "count": 1
+                }
+            ],
+
+            "itemRewards": [
+                {
+                    "key": "club",
+                    "count": 1
+                }
+            ],
+
+            "skillRewards": [
+                {
+                    "key": "strength",
+                    "experience": 5000
+                }
+            ],
+
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@程序员的小故障@green@。你获得了@crimson@5000@green@点力量经验！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

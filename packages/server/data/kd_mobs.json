@@ -1,0 +1,3306 @@
+{
+ "kd_mob_1": {
+  "name": "鸡",
+  "level": 1,
+  "hitPoints": 12,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_2": {
+  "name": "鹿",
+  "level": 3,
+  "hitPoints": 16,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 2,
+   "slash": 2,
+   "stab": 2,
+   "archery": 0,
+   "magic": 1
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_3": {
+  "name": "稻草人",
+  "level": 6,
+  "hitPoints": 20,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 4,
+   "slash": 4,
+   "stab": 4,
+   "archery": 0,
+   "magic": 2
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": -1,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_4": {
+  "name": "钉耙猫",
+  "level": 8,
+  "hitPoints": 24,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 6,
+   "slash": 6,
+   "stab": 6,
+   "archery": 0,
+   "magic": 3
+  },
+  "defenseStats": {
+   "crush": -1,
+   "slash": -1,
+   "stab": -1,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_5": {
+  "name": "森林雪人",
+  "level": 11,
+  "hitPoints": 28,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 8,
+   "slash": 8,
+   "stab": 8,
+   "archery": 0,
+   "magic": 4
+  },
+  "defenseStats": {
+   "crush": -1,
+   "slash": -2,
+   "stab": -1,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_6": {
+  "name": "半兽战士",
+  "level": 13,
+  "hitPoints": 33,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 6
+  },
+  "defenseStats": {
+   "crush": -1,
+   "slash": -2,
+   "stab": -1,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_7": {
+  "name": "半兽勇士",
+  "level": 16,
+  "hitPoints": 37,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 0,
+   "magic": 7
+  },
+  "defenseStats": {
+   "crush": -2,
+   "slash": -3,
+   "stab": -2,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_8": {
+  "name": "毒蜘蛛",
+  "level": 18,
+  "hitPoints": 41,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 14,
+   "slash": 14,
+   "stab": 14,
+   "archery": 0,
+   "magic": 8
+  },
+  "defenseStats": {
+   "crush": -2,
+   "slash": -3,
+   "stab": -2,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_9": {
+  "name": "红蛇",
+  "level": 21,
+  "hitPoints": 45,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 16,
+   "slash": 16,
+   "stab": 16,
+   "archery": 0,
+   "magic": 9
+  },
+  "defenseStats": {
+   "crush": -3,
+   "slash": -4,
+   "stab": -3,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_10": {
+  "name": "虎蛇",
+  "level": 23,
+  "hitPoints": 49,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 18,
+   "slash": 18,
+   "stab": 18,
+   "archery": 0,
+   "magic": 10
+  },
+  "defenseStats": {
+   "crush": -3,
+   "slash": -4,
+   "stab": -3,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_11": {
+  "name": "山洞蝙蝠",
+  "level": 26,
+  "hitPoints": 54,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 12
+  },
+  "defenseStats": {
+   "crush": -3,
+   "slash": -5,
+   "stab": -3,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_12": {
+  "name": "掷斧骷髅",
+  "level": 28,
+  "hitPoints": 58,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 22,
+   "slash": 22,
+   "stab": 22,
+   "archery": 0,
+   "magic": 13
+  },
+  "defenseStats": {
+   "crush": -4,
+   "slash": -5,
+   "stab": -4,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_13": {
+  "name": "骷髅战士",
+  "level": 31,
+  "hitPoints": 62,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 24,
+   "slash": 24,
+   "stab": 24,
+   "archery": 0,
+   "magic": 14
+  },
+  "defenseStats": {
+   "crush": -4,
+   "slash": -6,
+   "stab": -4,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_14": {
+  "name": "骷髅战将",
+  "level": 34,
+  "hitPoints": 66,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 0,
+   "magic": 16
+  },
+  "defenseStats": {
+   "crush": -5,
+   "slash": -6,
+   "stab": -5,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_15": {
+  "name": "骷髅精灵",
+  "level": 36,
+  "hitPoints": 70,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 28,
+   "slash": 28,
+   "stab": 28,
+   "archery": 0,
+   "magic": 16
+  },
+  "defenseStats": {
+   "crush": -5,
+   "slash": -7,
+   "stab": -5,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_16": {
+  "name": "和尚僵尸",
+  "level": 39,
+  "hitPoints": 75,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 31,
+   "slash": 31,
+   "stab": 31,
+   "archery": 0,
+   "magic": 18
+  },
+  "defenseStats": {
+   "crush": -5,
+   "slash": -7,
+   "stab": -5,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_17": {
+  "name": "僵尸",
+  "level": 41,
+  "hitPoints": 79,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 32,
+   "slash": 32,
+   "stab": 32,
+   "archery": 0,
+   "magic": 19
+  },
+  "defenseStats": {
+   "crush": -6,
+   "slash": -8,
+   "stab": -6,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_18": {
+  "name": "蜈蚣",
+  "level": 44,
+  "hitPoints": 83,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 35,
+   "slash": 35,
+   "stab": 35,
+   "archery": 0,
+   "magic": 21
+  },
+  "defenseStats": {
+   "crush": -6,
+   "slash": -8,
+   "stab": -6,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_19": {
+  "name": "黑色恶蛆",
+  "level": 46,
+  "hitPoints": 87,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 36,
+   "slash": 36,
+   "stab": 36,
+   "archery": 0,
+   "magic": 21
+  },
+  "defenseStats": {
+   "crush": -6,
+   "slash": -9,
+   "stab": -6,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_20": {
+  "name": "巨型蠕虫",
+  "level": 49,
+  "hitPoints": 91,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 39,
+   "slash": 39,
+   "stab": 39,
+   "archery": 0,
+   "magic": 23
+  },
+  "defenseStats": {
+   "crush": -7,
+   "slash": -9,
+   "stab": -7,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_21": {
+  "name": "钳虫",
+  "level": 51,
+  "hitPoints": 96,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 40,
+   "slash": 40,
+   "stab": 40,
+   "archery": 0,
+   "magic": 24
+  },
+  "defenseStats": {
+   "crush": -7,
+   "slash": -10,
+   "stab": -7,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_22": {
+  "name": "邪恶钳虫",
+  "level": 54,
+  "hitPoints": 100,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 43,
+   "slash": 43,
+   "stab": 43,
+   "archery": 0,
+   "magic": 25
+  },
+  "defenseStats": {
+   "crush": -8,
+   "slash": -10,
+   "stab": -8,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_23": {
+  "name": "触龙神",
+  "level": 56,
+  "hitPoints": 3132,
+  "isBoss": true,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 44,
+   "slash": 44,
+   "stab": 44,
+   "archery": 0,
+   "magic": 26
+  },
+  "defenseStats": {
+   "crush": -8,
+   "slash": -11,
+   "stab": -8,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_24": {
+  "name": "火焰沃玛",
+  "level": 59,
+  "hitPoints": 108,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 47,
+   "slash": 47,
+   "stab": 47,
+   "archery": 0,
+   "magic": 28
+  },
+  "defenseStats": {
+   "crush": -8,
+   "slash": -11,
+   "stab": -8,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_25": {
+  "name": "沃玛勇士",
+  "level": 62,
+  "hitPoints": 112,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 49,
+   "slash": 49,
+   "stab": 49,
+   "archery": 0,
+   "magic": 29
+  },
+  "defenseStats": {
+   "crush": -9,
+   "slash": -12,
+   "stab": -9,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_26": {
+  "name": "沃玛战将",
+  "level": 64,
+  "hitPoints": 117,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 51,
+   "slash": 51,
+   "stab": 51,
+   "archery": 0,
+   "magic": 30
+  },
+  "defenseStats": {
+   "crush": -9,
+   "slash": -12,
+   "stab": -9,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_27": {
+  "name": "沃玛教主",
+  "level": 67,
+  "hitPoints": 3636,
+  "isBoss": true,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 53,
+   "slash": 53,
+   "stab": 53,
+   "archery": 0,
+   "magic": 31
+  },
+  "defenseStats": {
+   "crush": -10,
+   "slash": -13,
+   "stab": -10,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_28": {
+  "name": "红野猪",
+  "level": 69,
+  "hitPoints": 125,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 55,
+   "slash": 55,
+   "stab": 55,
+   "archery": 0,
+   "magic": 33
+  },
+  "defenseStats": {
+   "crush": -10,
+   "slash": -13,
+   "stab": -10,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_29": {
+  "name": "黑野猪",
+  "level": 72,
+  "hitPoints": 129,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 57,
+   "slash": 57,
+   "stab": 57,
+   "archery": 0,
+   "magic": 34
+  },
+  "defenseStats": {
+   "crush": -10,
+   "slash": -14,
+   "stab": -10,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_30": {
+  "name": "白野猪",
+  "level": 74,
+  "hitPoints": 133,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 59,
+   "slash": 59,
+   "stab": 59,
+   "archery": 0,
+   "magic": 35
+  },
+  "defenseStats": {
+   "crush": -11,
+   "slash": -14,
+   "stab": -11,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_31": {
+  "name": "大老鼠",
+  "level": 77,
+  "hitPoints": 138,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 61,
+   "slash": 61,
+   "stab": 61,
+   "archery": 0,
+   "magic": 36
+  },
+  "defenseStats": {
+   "crush": -11,
+   "slash": -15,
+   "stab": -11,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_32": {
+  "name": "祖玛弓箭手",
+  "level": 79,
+  "hitPoints": 142,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 63,
+   "slash": 63,
+   "stab": 63,
+   "archery": 0,
+   "magic": 37
+  },
+  "defenseStats": {
+   "crush": -11,
+   "slash": -15,
+   "stab": -11,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_33": {
+  "name": "祖玛雕像",
+  "level": 82,
+  "hitPoints": 146,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 65,
+   "slash": 65,
+   "stab": 65,
+   "archery": 0,
+   "magic": 39
+  },
+  "defenseStats": {
+   "crush": -12,
+   "slash": -16,
+   "stab": -12,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_34": {
+  "name": "祖玛卫士",
+  "level": 84,
+  "hitPoints": 150,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 67,
+   "slash": 67,
+   "stab": 67,
+   "archery": 0,
+   "magic": 40
+  },
+  "defenseStats": {
+   "crush": -12,
+   "slash": -16,
+   "stab": -12,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_35": {
+  "name": "祖玛教主",
+  "level": 87,
+  "hitPoints": 4643,
+  "isBoss": true,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 69,
+   "slash": 69,
+   "stab": 69,
+   "archery": 0,
+   "magic": 41
+  },
+  "defenseStats": {
+   "crush": -13,
+   "slash": -17,
+   "stab": -13,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_36": {
+  "name": "虹魔蝎卫",
+  "level": 89,
+  "hitPoints": 159,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 71,
+   "slash": 71,
+   "stab": 71,
+   "archery": 0,
+   "magic": 42
+  },
+  "defenseStats": {
+   "crush": -13,
+   "slash": -17,
+   "stab": -13,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_37": {
+  "name": "虹魔猪卫",
+  "level": 92,
+  "hitPoints": 163,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 73,
+   "slash": 73,
+   "stab": 73,
+   "archery": 0,
+   "magic": 43
+  },
+  "defenseStats": {
+   "crush": -13,
+   "slash": -18,
+   "stab": -13,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_38": {
+  "name": "虹魔教主",
+  "level": 95,
+  "hitPoints": 5022,
+  "isBoss": true,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 76,
+   "slash": 76,
+   "stab": 76,
+   "archery": 0,
+   "magic": 45
+  },
+  "defenseStats": {
+   "crush": -14,
+   "slash": -19,
+   "stab": -14,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_39": {
+  "name": "牛魔斗士",
+  "level": 97,
+  "hitPoints": 171,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 77,
+   "slash": 77,
+   "stab": 77,
+   "archery": 0,
+   "magic": 46
+  },
+  "defenseStats": {
+   "crush": -14,
+   "slash": -19,
+   "stab": -14,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_40": {
+  "name": "牛魔侍卫",
+  "level": 100,
+  "hitPoints": 175,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 80,
+   "slash": 80,
+   "stab": 80,
+   "archery": 0,
+   "magic": 48
+  },
+  "defenseStats": {
+   "crush": -15,
+   "slash": -20,
+   "stab": -15,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_41": {
+  "name": "牛魔将军",
+  "level": 102,
+  "hitPoints": 180,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 81,
+   "slash": 81,
+   "stab": 81,
+   "archery": 0,
+   "magic": 48
+  },
+  "defenseStats": {
+   "crush": -15,
+   "slash": -20,
+   "stab": -15,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_42": {
+  "name": "牛魔法师",
+  "level": 105,
+  "hitPoints": 184,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 84,
+   "slash": 84,
+   "stab": 84,
+   "archery": 0,
+   "magic": 50
+  },
+  "defenseStats": {
+   "crush": -15,
+   "slash": -21,
+   "stab": -15,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_43": {
+  "name": "牛魔祭司",
+  "level": 107,
+  "hitPoints": 188,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 85,
+   "slash": 85,
+   "stab": 85,
+   "archery": 0,
+   "magic": 51
+  },
+  "defenseStats": {
+   "crush": -16,
+   "slash": -21,
+   "stab": -16,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_44": {
+  "name": "牛魔王",
+  "level": 110,
+  "hitPoints": 5777,
+  "isBoss": true,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 88,
+   "slash": 88,
+   "stab": 88,
+   "archery": 0,
+   "magic": 52
+  },
+  "defenseStats": {
+   "crush": -16,
+   "slash": -22,
+   "stab": -16,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_45": {
+  "name": "月魔蜘蛛",
+  "level": 112,
+  "hitPoints": 196,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 89,
+   "slash": 89,
+   "stab": 89,
+   "archery": 0,
+   "magic": 53
+  },
+  "defenseStats": {
+   "crush": -16,
+   "slash": -22,
+   "stab": -16,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_46": {
+  "name": "血僵尸",
+  "level": 115,
+  "hitPoints": 201,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 92,
+   "slash": 92,
+   "stab": 92,
+   "archery": 0,
+   "magic": 55
+  },
+  "defenseStats": {
+   "crush": -17,
+   "slash": -23,
+   "stab": -17,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_47": {
+  "name": "花吻蜘蛛",
+  "level": 117,
+  "hitPoints": 205,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 93,
+   "slash": 93,
+   "stab": 93,
+   "archery": 0,
+   "magic": 55
+  },
+  "defenseStats": {
+   "crush": -17,
+   "slash": -23,
+   "stab": -17,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_48": {
+  "name": "黑锷蜘蛛",
+  "level": 120,
+  "hitPoints": 209,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 96,
+   "slash": 96,
+   "stab": 96,
+   "archery": 0,
+   "magic": 57
+  },
+  "defenseStats": {
+   "crush": -18,
+   "slash": -24,
+   "stab": -18,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_49": {
+  "name": "双头血魔",
+  "level": 123,
+  "hitPoints": 213,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 98,
+   "slash": 98,
+   "stab": 98,
+   "archery": 0,
+   "magic": 58
+  },
+  "defenseStats": {
+   "crush": -18,
+   "slash": -24,
+   "stab": -18,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_50": {
+  "name": "双头金刚",
+  "level": 125,
+  "hitPoints": 217,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 100,
+   "slash": 100,
+   "stab": 100,
+   "archery": 0,
+   "magic": 60
+  },
+  "defenseStats": {
+   "crush": -18,
+   "slash": -25,
+   "stab": -18,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_51": {
+  "name": "赤月恶魔",
+  "level": 128,
+  "hitPoints": 6660,
+  "isBoss": true,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 102,
+   "slash": 102,
+   "stab": 102,
+   "archery": 0,
+   "magic": 61
+  },
+  "defenseStats": {
+   "crush": -19,
+   "slash": -25,
+   "stab": -19,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_52": {
+  "name": "魔龙教主",
+  "level": 130,
+  "hitPoints": 6785,
+  "isBoss": true,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 104,
+   "slash": 104,
+   "stab": 104,
+   "archery": 0,
+   "magic": 62
+  },
+  "defenseStats": {
+   "crush": -19,
+   "slash": -26,
+   "stab": -19,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_53": {
+  "name": "魔龙巨蛾",
+  "level": 133,
+  "hitPoints": 230,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 106,
+   "slash": 106,
+   "stab": 106,
+   "archery": 0,
+   "magic": 63
+  },
+  "defenseStats": {
+   "crush": -19,
+   "slash": -26,
+   "stab": -19,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_54": {
+  "name": "多角虫",
+  "level": 135,
+  "hitPoints": 234,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 108,
+   "slash": 108,
+   "stab": 108,
+   "archery": 0,
+   "magic": 64
+  },
+  "defenseStats": {
+   "crush": -20,
+   "slash": -27,
+   "stab": -20,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_55": {
+  "name": "巨型多角虫",
+  "level": 138,
+  "hitPoints": 238,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 110,
+   "slash": 110,
+   "stab": 110,
+   "archery": 0,
+   "magic": 66
+  },
+  "defenseStats": {
+   "crush": -20,
+   "slash": -27,
+   "stab": -20,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_56": {
+  "name": "骷髅",
+  "level": 140,
+  "hitPoints": 243,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 112,
+   "slash": 112,
+   "stab": 112,
+   "archery": 0,
+   "magic": 67
+  },
+  "defenseStats": {
+   "crush": -21,
+   "slash": -28,
+   "stab": -21,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_57": {
+  "name": "强化骷髅",
+  "level": 143,
+  "hitPoints": 247,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 114,
+   "slash": 114,
+   "stab": 114,
+   "archery": 0,
+   "magic": 68
+  },
+  "defenseStats": {
+   "crush": -21,
+   "slash": -28,
+   "stab": -21,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_58": {
+  "name": "超强骷髅",
+  "level": 145,
+  "hitPoints": 251,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 116,
+   "slash": 116,
+   "stab": 116,
+   "archery": 0,
+   "magic": 69
+  },
+  "defenseStats": {
+   "crush": -21,
+   "slash": -29,
+   "stab": -21,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_59": {
+  "name": "神兽",
+  "level": 148,
+  "hitPoints": 255,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 118,
+   "slash": 118,
+   "stab": 118,
+   "archery": 0,
+   "magic": 70
+  },
+  "defenseStats": {
+   "crush": -22,
+   "slash": -29,
+   "stab": -22,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_60": {
+  "name": "魔龙射手",
+  "level": 151,
+  "hitPoints": 259,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 120,
+   "slash": 120,
+   "stab": 120,
+   "archery": 0,
+   "magic": 72
+  },
+  "defenseStats": {
+   "crush": -22,
+   "slash": -30,
+   "stab": -22,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_61": {
+  "name": "魔龙破甲兵",
+  "level": 153,
+  "hitPoints": 264,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 122,
+   "slash": 122,
+   "stab": 122,
+   "archery": 0,
+   "magic": 73
+  },
+  "defenseStats": {
+   "crush": -22,
+   "slash": -30,
+   "stab": -22,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_62": {
+  "name": "魔龙刀兵",
+  "level": 156,
+  "hitPoints": 268,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 124,
+   "slash": 124,
+   "stab": 124,
+   "archery": 0,
+   "magic": 74
+  },
+  "defenseStats": {
+   "crush": -23,
+   "slash": -31,
+   "stab": -23,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_63": {
+  "name": "雷龙蜘蛛",
+  "level": 158,
+  "hitPoints": 272,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 126,
+   "slash": 126,
+   "stab": 126,
+   "archery": 0,
+   "magic": 75
+  },
+  "defenseStats": {
+   "crush": -23,
+   "slash": -31,
+   "stab": -23,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_64": {
+  "name": "月灵",
+  "level": 161,
+  "hitPoints": 276,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 128,
+   "slash": 128,
+   "stab": 128,
+   "archery": 0,
+   "magic": 76
+  },
+  "defenseStats": {
+   "crush": -24,
+   "slash": -32,
+   "stab": -24,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_65": {
+  "name": "尸王",
+  "level": 163,
+  "hitPoints": 280,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 130,
+   "slash": 130,
+   "stab": 130,
+   "archery": 0,
+   "magic": 78
+  },
+  "defenseStats": {
+   "crush": -24,
+   "slash": -32,
+   "stab": -24,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_66": {
+  "name": "楔蛾",
+  "level": 166,
+  "hitPoints": 285,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 132,
+   "slash": 132,
+   "stab": 132,
+   "archery": 0,
+   "magic": 79
+  },
+  "defenseStats": {
+   "crush": -24,
+   "slash": -33,
+   "stab": -24,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_67": {
+  "name": "石墓尸王",
+  "level": 168,
+  "hitPoints": 8675,
+  "isBoss": true,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 134,
+   "slash": 134,
+   "stab": 134,
+   "archery": 0,
+   "magic": 80
+  },
+  "defenseStats": {
+   "crush": -25,
+   "slash": -33,
+   "stab": -25,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_68": {
+  "name": "雷炎狼蛛",
+  "level": 171,
+  "hitPoints": 293,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 136,
+   "slash": 136,
+   "stab": 136,
+   "archery": 0,
+   "magic": 81
+  },
+  "defenseStats": {
+   "crush": -25,
+   "slash": -34,
+   "stab": -25,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_69": {
+  "name": "金仗蜘蛛",
+  "level": 173,
+  "hitPoints": 297,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 138,
+   "slash": 138,
+   "stab": 138,
+   "archery": 0,
+   "magic": 82
+  },
+  "defenseStats": {
+   "crush": -25,
+   "slash": -34,
+   "stab": -25,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_70": {
+  "name": "地狱蜘蛛",
+  "level": 176,
+  "hitPoints": 301,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 140,
+   "slash": 140,
+   "stab": 140,
+   "archery": 0,
+   "magic": 84
+  },
+  "defenseStats": {
+   "crush": -26,
+   "slash": -35,
+   "stab": -26,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_71": {
+  "name": "巨链蜘蛛",
+  "level": 178,
+  "hitPoints": 306,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 142,
+   "slash": 142,
+   "stab": 142,
+   "archery": 0,
+   "magic": 85
+  },
+  "defenseStats": {
+   "crush": -26,
+   "slash": -35,
+   "stab": -26,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_72": {
+  "name": "超级火龙",
+  "level": 181,
+  "hitPoints": 9305,
+  "isBoss": true,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 144,
+   "slash": 144,
+   "stab": 144,
+   "archery": 0,
+   "magic": 86
+  },
+  "defenseStats": {
+   "crush": -27,
+   "slash": -36,
+   "stab": -27,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_73": {
+  "name": "火翼龙",
+  "level": 184,
+  "hitPoints": 314,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 147,
+   "slash": 147,
+   "stab": 147,
+   "archery": 0,
+   "magic": 88
+  },
+  "defenseStats": {
+   "crush": -27,
+   "slash": -36,
+   "stab": -27,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_74": {
+  "name": "火龙守卫",
+  "level": 186,
+  "hitPoints": 318,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 148,
+   "slash": 148,
+   "stab": 148,
+   "archery": 0,
+   "magic": 88
+  },
+  "defenseStats": {
+   "crush": -27,
+   "slash": -37,
+   "stab": -27,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_75": {
+  "name": "火龙蜘蛛",
+  "level": 189,
+  "hitPoints": 322,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 151,
+   "slash": 151,
+   "stab": 151,
+   "archery": 0,
+   "magic": 90
+  },
+  "defenseStats": {
+   "crush": -28,
+   "slash": -37,
+   "stab": -28,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_76": {
+  "name": "龙",
+  "level": 191,
+  "hitPoints": 327,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 152,
+   "slash": 152,
+   "stab": 152,
+   "archery": 0,
+   "magic": 91
+  },
+  "defenseStats": {
+   "crush": -28,
+   "slash": -38,
+   "stab": -28,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_77": {
+  "name": "狂热火蜥蜴",
+  "level": 194,
+  "hitPoints": 331,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 155,
+   "slash": 155,
+   "stab": 155,
+   "archery": 0,
+   "magic": 93
+  },
+  "defenseStats": {
+   "crush": -29,
+   "slash": -38,
+   "stab": -29,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_78": {
+  "name": "火狐狼妖",
+  "level": 196,
+  "hitPoints": 335,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 156,
+   "slash": 156,
+   "stab": 156,
+   "archery": 0,
+   "magic": 93
+  },
+  "defenseStats": {
+   "crush": -29,
+   "slash": -39,
+   "stab": -29,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_79": {
+  "name": "白狐狸",
+  "level": 199,
+  "hitPoints": 339,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 159,
+   "slash": 159,
+   "stab": 159,
+   "archery": 0,
+   "magic": 95
+  },
+  "defenseStats": {
+   "crush": -29,
+   "slash": -39,
+   "stab": -29,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_80": {
+  "name": "弓箭怪",
+  "level": 201,
+  "hitPoints": 343,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 160,
+   "slash": 160,
+   "stab": 160,
+   "archery": 0,
+   "magic": 96
+  },
+  "defenseStats": {
+   "crush": -30,
+   "slash": -40,
+   "stab": -30,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_81": {
+  "name": "银斧狐卫",
+  "level": 204,
+  "hitPoints": 348,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 163,
+   "slash": 163,
+   "stab": 163,
+   "archery": 0,
+   "magic": 97
+  },
+  "defenseStats": {
+   "crush": -30,
+   "slash": -40,
+   "stab": -30,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_82": {
+  "name": "云霄鹿龙",
+  "level": 206,
+  "hitPoints": 352,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 164,
+   "slash": 164,
+   "stab": 164,
+   "archery": 0,
+   "magic": 98
+  },
+  "defenseStats": {
+   "crush": -30,
+   "slash": -41,
+   "stab": -30,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_83": {
+  "name": "幽甲龙鼋",
+  "level": 209,
+  "hitPoints": 356,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 167,
+   "slash": 167,
+   "stab": 167,
+   "archery": 0,
+   "magic": 100
+  },
+  "defenseStats": {
+   "crush": -31,
+   "slash": -41,
+   "stab": -31,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_84": {
+  "name": "狞尾狮魔",
+  "level": 212,
+  "hitPoints": 360,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 169,
+   "slash": 169,
+   "stab": 169,
+   "archery": 0,
+   "magic": 101
+  },
+  "defenseStats": {
+   "crush": -31,
+   "slash": -42,
+   "stab": -31,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_85": {
+  "name": "黑熊精",
+  "level": 214,
+  "hitPoints": 364,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 171,
+   "slash": 171,
+   "stab": 171,
+   "archery": 0,
+   "magic": 102
+  },
+  "defenseStats": {
+   "crush": -32,
+   "slash": -42,
+   "stab": -32,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_86": {
+  "name": "虎先锋",
+  "level": 217,
+  "hitPoints": 368,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 173,
+   "slash": 173,
+   "stab": 173,
+   "archery": 0,
+   "magic": 103
+  },
+  "defenseStats": {
+   "crush": -32,
+   "slash": -43,
+   "stab": -32,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_87": {
+  "name": "金池长老",
+  "level": 219,
+  "hitPoints": 373,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 175,
+   "slash": 175,
+   "stab": 175,
+   "archery": 0,
+   "magic": 105
+  },
+  "defenseStats": {
+   "crush": -32,
+   "slash": -43,
+   "stab": -32,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_88": {
+  "name": "猪八戒",
+  "level": 222,
+  "hitPoints": 377,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 177,
+   "slash": 177,
+   "stab": 177,
+   "archery": 0,
+   "magic": 106
+  },
+  "defenseStats": {
+   "crush": -33,
+   "slash": -44,
+   "stab": -33,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_89": {
+  "name": "超级牛魔王",
+  "level": 224,
+  "hitPoints": 11447,
+  "isBoss": true,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 179,
+   "slash": 179,
+   "stab": 179,
+   "archery": 0,
+   "magic": 107
+  },
+  "defenseStats": {
+   "crush": -33,
+   "slash": -44,
+   "stab": -33,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_90": {
+  "name": "东方持国天王",
+  "level": 227,
+  "hitPoints": 385,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 181,
+   "slash": 181,
+   "stab": 181,
+   "archery": 0,
+   "magic": 108
+  },
+  "defenseStats": {
+   "crush": -34,
+   "slash": -45,
+   "stab": -34,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_91": {
+  "name": "南方增长天王",
+  "level": 229,
+  "hitPoints": 390,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 183,
+   "slash": 183,
+   "stab": 183,
+   "archery": 0,
+   "magic": 109
+  },
+  "defenseStats": {
+   "crush": -34,
+   "slash": -45,
+   "stab": -34,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_92": {
+  "name": "西方广目天王",
+  "level": 232,
+  "hitPoints": 394,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 185,
+   "slash": 185,
+   "stab": 185,
+   "archery": 0,
+   "magic": 111
+  },
+  "defenseStats": {
+   "crush": -34,
+   "slash": -46,
+   "stab": -34,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_93": {
+  "name": "北方多闻天王",
+  "level": 234,
+  "hitPoints": 398,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 187,
+   "slash": 187,
+   "stab": 187,
+   "archery": 0,
+   "magic": 112
+  },
+  "defenseStats": {
+   "crush": -35,
+   "slash": -46,
+   "stab": -35,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_94": {
+  "name": "秦始皇",
+  "level": 237,
+  "hitPoints": 12077,
+  "isBoss": true,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 189,
+   "slash": 189,
+   "stab": 189,
+   "archery": 0,
+   "magic": 113
+  },
+  "defenseStats": {
+   "crush": -35,
+   "slash": -47,
+   "stab": -35,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_95": {
+  "name": "秦俑甲士",
+  "level": 239,
+  "hitPoints": 406,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 191,
+   "slash": 191,
+   "stab": 191,
+   "archery": 0,
+   "magic": 114
+  },
+  "defenseStats": {
+   "crush": -35,
+   "slash": -47,
+   "stab": -35,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_96": {
+  "name": "破阵锐士",
+  "level": 242,
+  "hitPoints": 411,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 193,
+   "slash": 193,
+   "stab": 193,
+   "archery": 0,
+   "magic": 115
+  },
+  "defenseStats": {
+   "crush": -36,
+   "slash": -48,
+   "stab": -36,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_97": {
+  "name": "财神",
+  "level": 245,
+  "hitPoints": 415,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 196,
+   "slash": 196,
+   "stab": 196,
+   "archery": 0,
+   "magic": 117
+  },
+  "defenseStats": {
+   "crush": -36,
+   "slash": -49,
+   "stab": -36,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_98": {
+  "name": "苦行僧",
+  "level": 247,
+  "hitPoints": 419,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 197,
+   "slash": 197,
+   "stab": 197,
+   "archery": 0,
+   "magic": 118
+  },
+  "defenseStats": {
+   "crush": -37,
+   "slash": -49,
+   "stab": -37,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_99": {
+  "name": "伏魔金刚",
+  "level": 250,
+  "hitPoints": 423,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 200,
+   "slash": 200,
+   "stab": 200,
+   "archery": 0,
+   "magic": 120
+  },
+  "defenseStats": {
+   "crush": -37,
+   "slash": -50,
+   "stab": -37,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_100": {
+  "name": "金翼武僧",
+  "level": 252,
+  "hitPoints": 427,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 201,
+   "slash": 201,
+   "stab": 201,
+   "archery": 0,
+   "magic": 120
+  },
+  "defenseStats": {
+   "crush": -37,
+   "slash": -50,
+   "stab": -37,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_101": {
+  "name": "大日如来",
+  "level": 255,
+  "hitPoints": 12960,
+  "isBoss": true,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 204,
+   "slash": 204,
+   "stab": 204,
+   "archery": 0,
+   "magic": 122
+  },
+  "defenseStats": {
+   "crush": -38,
+   "slash": -51,
+   "stab": -38,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_102": {
+  "name": "变异月灵",
+  "level": 257,
+  "hitPoints": 436,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 205,
+   "slash": 205,
+   "stab": 205,
+   "archery": 0,
+   "magic": 123
+  },
+  "defenseStats": {
+   "crush": -38,
+   "slash": -51,
+   "stab": -38,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_103": {
+  "name": "世界BOSS",
+  "level": 260,
+  "hitPoints": 13211,
+  "isBoss": true,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 208,
+   "slash": 208,
+   "stab": 208,
+   "archery": 0,
+   "magic": 124
+  },
+  "defenseStats": {
+   "crush": -39,
+   "slash": -52,
+   "stab": -39,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_104": {
+  "name": "棘刺海螺",
+  "level": 262,
+  "hitPoints": 444,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 209,
+   "slash": 209,
+   "stab": 209,
+   "archery": 0,
+   "magic": 125
+  },
+  "defenseStats": {
+   "crush": -39,
+   "slash": -52,
+   "stab": -39,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_105": {
+  "name": "巨腹魔鱼",
+  "level": 265,
+  "hitPoints": 448,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 212,
+   "slash": 212,
+   "stab": 212,
+   "archery": 0,
+   "magic": 127
+  },
+  "defenseStats": {
+   "crush": -39,
+   "slash": -53,
+   "stab": -39,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_106": {
+  "name": "岩甲龟",
+  "level": 267,
+  "hitPoints": 453,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 213,
+   "slash": 213,
+   "stab": 213,
+   "archery": 0,
+   "magic": 127
+  },
+  "defenseStats": {
+   "crush": -40,
+   "slash": -53,
+   "stab": -40,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_107": {
+  "name": "蓝瞳深渊兽",
+  "level": 270,
+  "hitPoints": 457,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 216,
+   "slash": 216,
+   "stab": 216,
+   "archery": 0,
+   "magic": 129
+  },
+  "defenseStats": {
+   "crush": -40,
+   "slash": -54,
+   "stab": -40,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_108": {
+  "name": "银鳞叉卫",
+  "level": 273,
+  "hitPoints": 461,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 218,
+   "slash": 218,
+   "stab": 218,
+   "archery": 0,
+   "magic": 130
+  },
+  "defenseStats": {
+   "crush": -40,
+   "slash": -54,
+   "stab": -40,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_109": {
+  "name": "碧鳞龙蜥",
+  "level": 275,
+  "hitPoints": 465,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 220,
+   "slash": 220,
+   "stab": 220,
+   "archery": 0,
+   "magic": 132
+  },
+  "defenseStats": {
+   "crush": -41,
+   "slash": -55,
+   "stab": -41,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_110": {
+  "name": "远古海尊者",
+  "level": 278,
+  "hitPoints": 469,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 222,
+   "slash": 222,
+   "stab": 222,
+   "archery": 0,
+   "magic": 133
+  },
+  "defenseStats": {
+   "crush": -41,
+   "slash": -55,
+   "stab": -41,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_111": {
+  "name": "守卫",
+  "level": 280,
+  "hitPoints": 474,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 224,
+   "slash": 224,
+   "stab": 224,
+   "archery": 0,
+   "magic": 134
+  },
+  "defenseStats": {
+   "crush": -42,
+   "slash": -56,
+   "stab": -42,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_112": {
+  "name": "校尉",
+  "level": 283,
+  "hitPoints": 478,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 226,
+   "slash": 226,
+   "stab": 226,
+   "archery": 0,
+   "magic": 135
+  },
+  "defenseStats": {
+   "crush": -42,
+   "slash": -56,
+   "stab": -42,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_113": {
+  "name": "虎豹骑",
+  "level": 285,
+  "hitPoints": 482,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 228,
+   "slash": 228,
+   "stab": 228,
+   "archery": 0,
+   "magic": 136
+  },
+  "defenseStats": {
+   "crush": -42,
+   "slash": -57,
+   "stab": -42,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_114": {
+  "name": "超级虎卫",
+  "level": 288,
+  "hitPoints": 486,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 230,
+   "slash": 230,
+   "stab": 230,
+   "archery": 0,
+   "magic": 138
+  },
+  "defenseStats": {
+   "crush": -43,
+   "slash": -57,
+   "stab": -43,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_115": {
+  "name": "超级鹰卫",
+  "level": 290,
+  "hitPoints": 490,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 232,
+   "slash": 232,
+   "stab": 232,
+   "archery": 0,
+   "magic": 139
+  },
+  "defenseStats": {
+   "crush": -43,
+   "slash": -58,
+   "stab": -43,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_116": {
+  "name": "暴风斧灵",
+  "level": 293,
+  "hitPoints": 495,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 234,
+   "slash": 234,
+   "stab": 234,
+   "archery": 0,
+   "magic": 140
+  },
+  "defenseStats": {
+   "crush": -43,
+   "slash": -58,
+   "stab": -43,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_117": {
+  "name": "幻音笛灵",
+  "level": 295,
+  "hitPoints": 499,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 236,
+   "slash": 236,
+   "stab": 236,
+   "archery": 0,
+   "magic": 141
+  },
+  "defenseStats": {
+   "crush": -44,
+   "slash": -59,
+   "stab": -44,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ },
+ "kd_mob_118": {
+  "name": "梦幻龙神",
+  "level": 298,
+  "hitPoints": 503,
+  "isBoss": false,
+  "aggroRange": 4,
+  "attackRate": 1400,
+  "movementSpeed": 450,
+  "respawnDelay": 30000,
+  "attackStats": {
+   "crush": 238,
+   "slash": 238,
+   "stab": 238,
+   "archery": 0,
+   "magic": 142
+  },
+  "defenseStats": {
+   "crush": -44,
+   "slash": -59,
+   "stab": -44,
+   "archery": 0,
+   "magic": 0
+  },
+  "drops": [],
+  "dropTables": [
+   "ordinary"
+  ]
+ }
+}

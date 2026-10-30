@@ -1,0 +1,74 @@
+{
+    "name": "手工艺",
+    "description": "帮大山上的老太太做手工。|大山上的老太太冻坏了，需要一位勇敢的冒险者替她跑腿。作为交换，她会教你如何开始制作物品。",
+    "rewards": ["使用制作台"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "iamverycoldnpc",
+            "text": [
+                "你好啊，年轻人……",
+                "有兴趣学学怎么做东西吗？",
+                "我可以教你，但你得先给我带些材料来。",
+                "我要教你制作吊坠。",
+                "先给我带些线绳，你可以通过采集蓝百合来制作。",
+                "其次我需要一些绿柱石，你可以在各个洞穴里找到。",
+                "你可以用制作台做一枚绿柱石吊坠。"
+            ],
+            "completedText": ["给我带些线绳和绿柱石宝石，用它做一枚吊坠。"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "iamverycoldnpc",
+            "hasItemText": [
+                "好极了，现在你可以把制作和其他技能结合使用了",
+                "来制作更复杂的物品。给我加工一个小碗并带过来。"
+            ],
+            "completedText": ["给我加工一个小碗并带过来。"],
+            "itemRequirements": [
+                {
+                    "key": "berylpendant",
+                    "count": 1
+                }
+            ]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "iamverycoldnpc",
+            "hasItemText": [
+                "完美，我偏要拿走那只碗气气你。再去做一个",
+                "个，再用这个番茄和坩埚炖一锅菜。",
+                "剩下的材料可能得你自己去找了，我老啦。"
+            ],
+            "completedText": ["试着用碗、番茄和坩埚炖一道菜。"],
+            "itemRequirements": [
+                {
+                    "key": "bowlsmall",
+                    "count": 1
+                }
+            ],
+            "itemRewards": [
+                {
+                    "key": "tomato",
+                    "count": 1
+                }
+            ]
+        },
+        "3": {
+            "task": "talk",
+            "npc": "iamverycoldnpc",
+            "hasItemText": ["好极了，瞧，你上手了。"],
+            "itemRequirements": [
+                {
+                    "key": "stew",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@手工艺@green@任务。",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

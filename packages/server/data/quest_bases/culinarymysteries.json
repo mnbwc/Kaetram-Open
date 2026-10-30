@@ -1,0 +1,76 @@
+{
+    "name": "烹饪之谜",
+    "description": "古斯塔沃主厨的美食闻名全国。然而，他在复刻一份传世食谱时遇到了瓶颈。你能帮他解开这个烹饪难题吗？",
+    "rewards": ["主厨特制围裙", "2500 烹饪经验"],
+    "skillRequirements": {
+        "cooking": 20
+    },
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "chefgustavo",
+            "text": [
+                "啊，烹饪同好！我最近发现了一份古老的配方",
+                "我一直在尝试复刻的配方。但还缺几样食材。",
+                "配方需要一种稀有的月光蘑菇。你能帮我取来吗？"
+            ],
+            "completedText": [
+                "找到月光蘑菇了吗？",
+                "它对我正在复刻的菜肴至关重要。"
+            ]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "chefgustavo",
+            "hasItemText": [
+                "啊，月光蘑菇！太好了！不过还有一件事……",
+                "配方里提到了一种“秘密香料”。似乎没人知道它是什么。",
+                "不过，古老传说提到雪山之巅住着一位隐士，",
+                "也许知道些什么。你能去请教他吗？"
+            ],
+            "itemRequirements": [
+                {
+                    "key": "moonlitmushroom",
+                    "count": 1
+                }
+            ]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "snowyhermit",
+            "text": [
+                "啊，古斯塔沃主厨的“秘密香料”。它根本不是什么香料！",
+                "那是一朵寒冰玫瑰的干花瓣，藏在这群山深处。",
+                "把它取回来，配方就齐了。"
+            ],
+            "completedText": ["寒冰玫瑰是一种稀有的花。", "寻找它的时候务必当心。"]
+        },
+        "3": {
+            "task": "talk",
+            "npc": "chefgustavo",
+            "hasItemText": [
+                "寒冰玫瑰花瓣！最后一样食材！",
+                "现在，见证我创造烹饪史……",
+                "谢谢你，亲爱的冒险者。为了答谢你的帮助，我赠予你",
+                "主厨特制围裙。愿它助你在烹饪之路上一帆风顺！"
+            ],
+            "itemRequirements": [
+                {
+                    "key": "frozenrosepetal",
+                    "count": 1
+                }
+            ],
+            "skillRewards": [
+                {
+                    "key": "cooking",
+                    "experience": 2500
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@烹饪之谜@green@。你获得了@crimson@2500@green@点烹饪经验和一条@crimson@主厨特制围裙@green@！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

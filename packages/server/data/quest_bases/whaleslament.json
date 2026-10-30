@@ -1,0 +1,65 @@
+{
+    "name": "鲸鱼的哀歌",
+    "description": "一头孤独的鲸鱼在求援。|巨鲸沃利被一股神秘的海底暗流与家人冲散了。穿越凶险的水域，帮他找回失散的族群。",
+    "rewards": ["2000 金币", "whalecompanion"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "wally",
+            "text": [
+                "哦，亲爱的冒险者！我在这些水域里迷路了。",
+                "一股急流把我和家人冲散了。",
+                "你能帮我找到它们吗？"
+            ],
+            "completedText": ["请找找我家人下落的线索。"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "merfolkelder",
+            "text": [
+                "啊，沃利的家人？我记得他们被卷进了深渊海沟。",
+                "那是个危险的地方，年轻人。当心潜伏在那里的生物！"
+            ],
+            "completedText": ["谨慎地深入深渊海沟。"]
+        },
+        "2": {
+            "task": "kill",
+            "mob": ["abyssalhunters"],
+            "mobCountRequirement": 5
+        },
+        "3": {
+            "task": "talk",
+            "npc": "lostwhale",
+            "text": [
+                "你是谁？哦，你是来帮忙的？",
+                "我被那些深渊猎手追杀，躲进洞里后被困住了。",
+                "谢谢你击败了它们。"
+            ],
+            "completedText": ["求你带我回到沃利身边！"]
+        },
+        "4": {
+            "task": "talk",
+            "npc": "wally",
+            "text": [
+                "我的家人！你找到了！",
+                "我的感激之情无以言表。",
+                "聊表谢意，请收下这份礼物。"
+            ],
+            "itemRewards": [
+                {
+                    "key": "gold",
+                    "count": 2000
+                },
+                {
+                    "key": "whalecompanion",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@鲸鱼的哀歌@green@。你获得了 2000 金币和一位鲸鱼伙伴！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

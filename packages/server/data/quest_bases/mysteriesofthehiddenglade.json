@@ -1,0 +1,65 @@
+{
+    "name": "隐秘林间空地之谜",
+    "description": "一片封闭的森林在等你。|传闻有一处与世隔绝的封闭空地。在它深处，一个强大的生物守卫着无价的宝藏。",
+    "rewards": ["gladering"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "villagehistorian",
+            "text": [
+                "你好，冒险者。听说过隐秘空地吗？",
+                "那是我们的祖先因其中危险而封印的神秘森林。",
+                "你能进去探个究竟，揭开它的秘密吗？"
+            ],
+            "completedText": ["找到隐秘空地的入口。"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "gladeentrance",
+            "text": [
+                "一扇封闭的大门矗立在你面前，饰有远古符文。",
+                "解开谜语后，大门缓缓开启，露出了里面的空地。"
+            ],
+            "completedText": ["进入隐秘空地。"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "mysteriousaltar",
+            "text": ["空地深处有一座祭坛在召唤。献上祭品或许能保你平安通过。"],
+            "completedText": ["寻找看守宝藏的生物。"]
+        },
+        "3": {
+            "task": "talk",
+            "npc": "gladeboss",
+            "text": [
+                "一只拥有无穷力量的生物站在你面前，它的眼睛注视着你的一举一动。",
+                "要拿到宝藏，你必须先击败这位守卫。"
+            ],
+            "completedText": ["准备战斗！"]
+        },
+        "4": {
+            "task": "kill",
+            "mob": ["gladeboss"],
+            "mobCountRequirement": 1
+        },
+        "5": {
+            "task": "talk",
+            "npc": "gladetreasure",
+            "text": [
+                "击败守卫后，一个宝箱在你面前显现。",
+                "在里头，你发现了一枚散发着能量的戒指。"
+            ],
+            "itemRewards": [
+                {
+                    "key": "gladering",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你完成了@crimson@隐秘林间空地之谜@green@。空地的宝藏——空地之戒，现在归你了！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "辉光灵药",
+    "description": "炼金大师奥登需要稀有原料来炼制辉光灵药。帮助他，并习得这瓶药水的秘密。",
+    "rewards": ["辉光灵药配方", "3200 炼金经验"],
+    "skillRequirements": {
+        "alchemy": 38
+    },
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "alden",
+            "text": [
+                "冒险者，我需要有人帮我炼制辉光灵药。",
+                "能帮我取来月影草吗？"
+            ],
+            "completedText": ["寻找难得一见的月影草。"]
+        },
+        "1": {
+            "task": "collect",
+            "itemRequirements": [{ "key": "moonshadeherb", "count": 3 }],
+            "completedText": ["带着草药回去见奥登大师。"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "alden",
+            "hasItemText": [
+                "你做到了！现在，看我炼制灵药。",
+                "我会与你分享它的秘密。"
+            ],
+            "skillRewards": [
+                {
+                    "key": "alchemy",
+                    "experience": 3200
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你解锁了@crimson@辉光灵药配方@green@，并获得@crimson@3200 炼金经验@green@。",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

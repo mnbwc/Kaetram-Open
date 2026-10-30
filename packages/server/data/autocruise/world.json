@@ -1,0 +1,25 @@
+{
+  "map": "world",
+  "name": "比奇省外围巡航",
+  "waypoints": [
+    {
+      "x": 290,
+      "y": 860
+    },
+    {
+      "x": 370,
+      "y": 910
+    },
+    {
+      "x": 300,
+      "y": 920
+    },
+    {
+      "x": 350,
+      "y": 850
+    }
+  ],
+  "potionThreshold": 0.5,
+  "aggroRadius": 30,
+  "respawnStrategy": "home"
+}

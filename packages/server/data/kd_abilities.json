@@ -1,0 +1,379 @@
+{
+  "kd_ab_1": {
+    "name": "基本剑术",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_2": {
+    "name": "攻杀剑术",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_3": {
+    "name": "刺杀剑术",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_4": {
+    "name": "半月弯刀",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_5": {
+    "name": "野蛮冲撞",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_6": {
+    "name": "烈火剑法",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_7": {
+    "name": "逐日剑法",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_8": {
+    "name": "开天斩",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_9": {
+    "name": "火球术",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_10": {
+    "name": "雷电术",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_11": {
+    "name": "疾光电影",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_12": {
+    "name": "爆裂火焰",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_13": {
+    "name": "诱惑之光",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_14": {
+    "name": "火墙",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_15": {
+    "name": "地狱雷光",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_16": {
+    "name": "魔法盾",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_17": {
+    "name": "冰咆哮",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_18": {
+    "name": "流星火雨",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_19": {
+    "name": "治愈术",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_20": {
+    "name": "精神力战法",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_21": {
+    "name": "施毒术",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_22": {
+    "name": "灵魂火符",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_23": {
+    "name": "召唤骷髅",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_24": {
+    "name": "隐身术",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_25": {
+    "name": "幽灵盾",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_26": {
+    "name": "神圣战甲术",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_27": {
+    "name": "召唤神兽",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_28": {
+    "name": "飓风破",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  },
+  "kd_ab_29": {
+    "name": "无极真气",
+    "cooldown": 800,
+    "description": "",
+    "type": "active",
+    "levels": {
+      "1": {
+        "cooldown": 800,
+        "duration": 0,
+        "mana": 0
+      }
+    }
+  }
+}

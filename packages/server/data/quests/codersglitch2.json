@@ -1,0 +1,101 @@
+{
+    "name": "程序员的小故障 II",
+    "description": "程序员又需要你帮他处理那些蠢蠢的小故障了。|他又搞出事了。嗯，确切说是早就搞出来了，正在等你变强，好让你能帮他处理眼前的任务。大概又是打打杀杀之类的，你懂的，都是些常规操作。",
+    "rewards": ["7500 精准经验", "4500 力量经验", "3000 防御经验", "一件惊喜护盾"],
+    "questRequirements": ["codersglitch", "minersquest", "scavenger"],
+    "skillRequirements": {
+        "accuracy": 25,
+        "strength": 40,
+        "defense": 30
+    },
+
+    "hideNPCs": {
+        "coder": "after",
+        "villager4": "before"
+    },
+
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "coder",
+            "text": [
+                "那个，我还需要你多干掉一些那些故障玩意儿。",
+                "听着，它们正在慢慢毁坏这片土地，我们得抓紧。",
+                "因为我希望这个任务尽可能浪费你的时间，",
+                "要继续的话，你得给我带三枚护符来。",
+                "但有个条件，我还要你把上述首领全都击败。",
+                "这样一来，你就不能偷偷溜进去捡护符了。",
+                "我不确定你能怎么做，但我相信你总能想到办法。",
+                "总之，我要你击败以下首领：",
+                "食人魔王、蚁后，还有森林之龙。",
+                "你必须按顺序击败首领。"
+            ],
+            "completedText": [
+                "出发吧，击败食人魔王、蚁后和森林之龙。",
+                "你必须按顺序击败首领。"
+            ]
+        },
+        "1": {
+            "task": "kill",
+            "mob": ["ogrelord"],
+            "mobCountRequirement": 1
+        },
+        "2": {
+            "task": "kill",
+            "mob": ["queenant"],
+            "mobCountRequirement": 1
+        },
+        "3": {
+            "task": "kill",
+            "mob": ["forestdragon"],
+            "mobCountRequirement": 1
+        },
+        "4": {
+            "task": "talk",
+            "npc": "coder",
+            "hasItemText": [
+                "好极了，反程序员肯定要气坏——哦抱歉，干得漂亮兄弟！",
+                "不得不说，你的手艺真是精湛绝伦。",
+                "不，我没疯，哈哈，疯的是你。我现在这样好得很。",
+                "无论如何，谢谢你的帮助。"
+            ],
+
+            "itemRequirements": [
+                {
+                    "key": "ogrelordtalisman",
+                    "count": 1
+                },
+                {
+                    "key": "queenanttalisman",
+                    "count": 1
+                },
+                {
+                    "key": "forestdragontalisman",
+                    "count": 1
+                }
+            ],
+
+            "skillRewards": [
+                {
+                    "key": "accuracy",
+                    "experience": 7500
+                },
+                {
+                    "key": "strength",
+                    "experience": 4500
+                },
+                {
+                    "key": "defense",
+                    "experience": 3000
+                }
+            ],
+
+            "itemRewards": [
+                {
+                    "key": "ironroundshield",
+                    "count": 1
+                }
+            ]
+        }
+    }
+}

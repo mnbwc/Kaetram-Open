@@ -1,0 +1,72 @@
+{
+    "name": "绿洲守卫",
+    "description": "沙漠的秘密等你揭开。|传说有一处隐秘的绿洲，由一位威严的生物守护。村民们的水快用尽了，如今只有绿洲能救他们。",
+    "rewards": ["elixiroflife"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "villageelder",
+            "text": [
+                "勇敢的旅人，我们的村庄危在旦夕。",
+                "我们听说沙漠深处藏着一片绿洲。",
+                "但它由一只生物看守着。你愿意帮忙吗？"
+            ],
+            "completedText": ["深入沙漠。"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "deserthermit",
+            "text": [
+                "啊，在找绿洲？它确实存在，但可不好找。",
+                "沿着午夜盛开的仙人掌所指的路走。"
+            ],
+            "completedText": ["寻找盛开的仙人掌。"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "bloomingcacti",
+            "text": [
+                "仙人掌神秘地发着光，指引着通往沙漠深处的路。",
+                "你感到有什么东西在注视着你。"
+            ],
+            "completedText": ["继续沿小路前进。"]
+        },
+        "3": {
+            "task": "talk",
+            "npc": "oasisguardian",
+            "text": [
+                "你找到了绿洲，它的守卫正站在你面前。",
+                "你为何而来？唯有心怀纯粹者方可取用这圣水。"
+            ],
+            "completedText": ["说说你的来意。"]
+        },
+        "4": {
+            "task": "talk",
+            "npc": "oasisguardian",
+            "text": [
+                "好吧。我听出你话中的真诚。",
+                "取水吧，但记住：只取你所需。"
+            ],
+            "completedText": ["采集绿洲之水。"]
+        },
+        "5": {
+            "task": "talk",
+            "npc": "villageelder",
+            "itemRequirements": [
+                {
+                    "key": "oasiswater",
+                    "count": 1
+                }
+            ],
+            "text": [
+                "你回来了！还带着绿洲之水！",
+                "我们的村庄得救了。为表谢意，请收下这瓶生命灵药。"
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你完成了@crimson@绿洲守卫@green@。村民们将生命灵药赠予了你！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

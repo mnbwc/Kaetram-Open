@@ -1,0 +1,112 @@
+{
+    "name": "命运锻炉",
+    "description": "传奇铁匠塞恩需要独特的材料。|塞恩的雄心是铸造前所未有的最强武器。但为此，他需要散落各地、极其稀有的材料。踏上旅途，替他收集这些材料。",
+    "rewards": ["3500 金币", "weaponoflegends"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "thrain",
+            "text": [
+                "啊，冒险者！你来得正是时候。",
+                "我要打造一件传奇武器，但需要特殊的材料。",
+                "你愿意助我完成这项崇高的事业吗？"
+            ],
+            "completedText": ["第一种材料叫辉光矿石，产于发光洞窟。"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "caveguardian",
+            "text": [
+                "你来找辉光矿石？为它来的可不多。",
+                "击败发光魔像以证明你的实力，我就放你进去。"
+            ],
+            "completedText": ["直面发光魔像！"]
+        },
+        "2": {
+            "task": "kill",
+            "mob": ["luminescentgolems"],
+            "mobCountRequirement": 4
+        },
+        "3": {
+            "task": "talk",
+            "npc": "caveguardian",
+            "text": ["你证明了自己。给，收下辉光矿石。"],
+            "itemRewards": [
+                {
+                    "key": "luminiteore",
+                    "count": 3
+                }
+            ],
+            "completedText": ["带着辉光矿石回去见塞恩。"]
+        },
+        "4": {
+            "task": "talk",
+            "npc": "thrain",
+            "text": [
+                "干得漂亮！下一种材料是森林之心。",
+                "那是一颗藏在魔法森林深处的魔法宝石。"
+            ],
+            "completedText": ["深入魔法之林，取回森林之心。"]
+        },
+        "5": {
+            "task": "talk",
+            "npc": "treantelder",
+            "text": [
+                "你为何寻找森林之心？哦，是为了塞恩的任务？",
+                "解开森林的谜题，森林之心便归你所有。"
+            ],
+            "completedText": ["解开谜题，穿行魔法之林。"]
+        },
+        "6": {
+            "task": "talk",
+            "npc": "woodsspirit",
+            "text": ["你解开了谜题。这是森林之心。"],
+            "itemRewards": [
+                {
+                    "key": "heartoftheforest",
+                    "count": 1
+                }
+            ],
+            "completedText": ["带着森林之心回去见塞恩。"]
+        },
+        "7": {
+            "task": "talk",
+            "npc": "thrain",
+            "text": [
+                "你表现出色。我还差最后一样：永恒余烬。",
+                "据说它在烈焰之塔顶端的凤凰爪中。"
+            ],
+            "completedText": ["登上烈焰之塔，取回永恒余烬。"]
+        },
+        "8": {
+            "task": "kill",
+            "mob": ["flamephoenix"],
+            "mobCountRequirement": 1
+        },
+        "9": {
+            "task": "talk",
+            "npc": "thrain",
+            "itemRequirements": [
+                {
+                    "key": "emberofeternity",
+                    "count": 1
+                }
+            ],
+            "itemRewards": [
+                {
+                    "key": "gold",
+                    "count": 3500
+                },
+                {
+                    "key": "weaponoflegends",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@命运锻炉@green@。你获得了 3500 金币和传奇武器！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

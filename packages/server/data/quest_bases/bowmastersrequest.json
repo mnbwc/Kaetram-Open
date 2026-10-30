@@ -1,0 +1,41 @@
+{
+    "name": "神射手大师的请求",
+    "description": "神射手大师需要一把非凡的弓。帮他打造传说中的月光之弓。",
+    "rewards": ["月光之弓设计图", "2500 制弓经验"],
+    "skillRequirements": {
+        "fletching": 30
+    },
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "bowmaster",
+            "text": [
+                "冒险者！我需要一把用难得一见的月木树制成的弓。",
+                "你愿意助我完成此事吗？"
+            ],
+            "completedText": ["去午夜林间寻找月木树。"]
+        },
+        "1": {
+            "task": "collect",
+            "itemRequirements": [{ "key": "moonwood", "count": 10 }],
+            "completedText": ["带着月木回去见神射手大师。"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "bowmaster",
+            "hasItemText": ["啊，完美！有了它，我就能教你制作月光之弓了。"],
+
+            "skillRewards": [
+                {
+                    "key": "fletching",
+                    "experience": 2500
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你获得了@crimson@2500 制弓经验@green@和@crimson@月光之弓设计图@green@。",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

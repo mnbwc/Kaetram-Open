@@ -1,0 +1,46 @@
+{
+    "name": "侏儒的麻烦还没完",
+    "description": "吹牛大话。|侏儒加里声称自己曾经和巨人一样高！去从偷走“身高药水”的淘气松鼠手里把它取回来。",
+    "rewards": ["giant-hat", "3 颗橡果"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "garygnome",
+            "text": [
+                "啊，冒险者！我曾经比最挺拔的树还高！",
+                "那些该死的松鼠偷走了我的身高药水！",
+                "能帮帮我这个老侏儒把它取回来吗？"
+            ],
+            "completedText": ["从那些鬼鬼祟祟的松鼠手里夺回身高药水。"]
+        },
+        "1": {
+            "task": "kill",
+            "mob": ["sneakysquirrel"],
+            "mobCountRequirement": 5
+        },
+        "2": {
+            "task": "talk",
+            "npc": "garygnome",
+            "text": [
+                "你拿到了！看我变得……还是原来那么大。",
+                "呃，八成过期了。不过还是谢啦！",
+                "给，收下这顶巨型帽和一些橡果！"
+            ],
+            "itemRewards": [
+                {
+                    "key": "giant-hat",
+                    "count": 1
+                },
+                {
+                    "key": "acorn",
+                    "count": 3
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@加里还是侏儒那么小，但你交到了一个一辈子的迷你朋友！享用你的@crimson@巨型帽@green@和橡果吧。",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

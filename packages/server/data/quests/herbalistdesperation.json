@@ -1,0 +1,77 @@
+{
+    "name": "药草师的绝望",
+    "description": "一位本地药草师急需稀有草药。|湖畔小村湖畔镇的日常所需全靠本地药草师的药水。然而药草师最重要的原料用尽了，正寻求一位勇敢冒险者的帮助。前往迷雾沼泽，为他取得这些难得一见的草药。",
+    "rewards": ["神秘药水", "1500 采集经验"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "herbalist",
+            "text": [
+                "啊，冒险者！我正盼着见到你呢。",
+                "是这样，我遇到了点麻烦。",
+                "我制药水要用的草药全没了！",
+                "能帮我采 3 朵蓝百合吗？",
+                "我本想亲自去，但沼泽凶险，我又不善战斗。"
+            ],
+            "completedText": [
+                "村民们正手指脚趾交织、意面般祈祷着。",
+                "请带回 3 朵蓝百合。"
+            ]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "herbalist",
+            "hasItemText": [
+                "啊！完美！不过……",
+                "看来我漏提了几样材料。",
+                "我的错，今天过得太魔幻了。",
+                "能帮我弄 2 个红椒粉和 2 个番茄吗？",
+                "我有种预感，它们就潜伏在附近",
+                "我保证，这是最后一个请求。"
+            ],
+            "completedText": ["村民们开始躁动不安了。", "请带回 2 个红椒粉和 2 个番茄。"],
+            "itemRequirements": [
+                {
+                    "key": "bluelily",
+                    "count": 3
+                }
+            ]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "herbalist",
+            "hasItemText": [
+                "你做到了！现在可以制药水了。",
+                "谢谢你，勇敢的冒险者。收下这瓶药水，它承载着我无尽的感激。",
+                "回头见！"
+            ],
+            "itemRequirements": [
+                {
+                    "key": "tomato",
+                    "count": 2
+                },
+                {
+                    "key": "paprika",
+                    "count": 2
+                }
+            ],
+            "skillRewards": [
+                {
+                    "key": "foraging",
+                    "experience": 1500
+                }
+            ],
+            "itemRewards": [
+                {
+                    "key": "hotsauce",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@药草师的绝望@green@。你获得了一瓶@crimson@辣酱@green@和@crimson@1500@green@点采集经验！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

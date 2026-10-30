@@ -1,0 +1,89 @@
+{
+    "name": "元素美食学",
+    "description": "大厨艾兰德瑞尔在寻找极致食材。|艾兰德瑞尔主厨相信，通过烹饪融合元素之力能做出带有魔力的菜肴。为验证他的理论，他需要一位多才多艺的冒险者帮忙收集并制作所需食材。",
+    "rewards": ["元素佳肴", "烹饪、制弓与魔法经验"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "elandrial",
+            "text": [
+                "啊，冒险者！久闻你多才多艺。",
+                "我有一个理论：把元素之力融入食物，能造出非同凡响的东西。",
+                "首先，我要你探索冰封洞窟，找到冰盖蘑菇。",
+                "但要小心，那些洞穴可是出了名的凶险！"
+            ],
+            "completedText": ["冰封洞窟在等着你。", "寻找冰盖蘑菇。"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "elandrial",
+            "hasItemText": [
+                "完美！现在，下一种食材。",
+                "我们需要一支带火焰属性的箭。但不是随便一支，而是一支用凤凰羽毛制成的箭。",
+                "你需要用你的制弓技艺来制作这支箭。"
+            ],
+            "completedText": ["将凤凰羽毛和箭杆组合起来。", "制作炽焰凤凰之箭。"],
+            "itemRequirements": [
+                {
+                    "key": "icecapmushroom",
+                    "count": 1
+                }
+            ]
+        },
+        "2": {
+            "task": "fletching",
+            "item": "fieryphoenixarrow",
+            "npc": "elandrial",
+            "completedText": ["一旦你做好炽焰凤凰之箭，", "回来找我。"]
+        },
+        "3": {
+            "task": "talk",
+            "npc": "elandrial",
+            "hasItemText": [
+                "太棒了！最后一步，我们要给这支箭附上魔法。",
+                "用你的魔法给这支箭施一个悬浮咒。",
+                "它会变成漂浮炽焰凤凰之箭！"
+            ],
+            "completedText": ["善用你的魔法。", "制作漂浮炽焰凤凰之箭。"],
+            "itemRequirements": [
+                {
+                    "key": "fieryphoenixarrow",
+                    "count": 1
+                }
+            ]
+        },
+        "4": {
+            "task": "magic",
+            "spell": "levitation",
+            "item": "levitatingfieryphoenixarrow",
+            "npc": "elandrial",
+            "completedText": ["附魔完成后，带着箭回来找我。", "这道菜马上就大功告成了！"]
+        },
+        "5": {
+            "task": "talk",
+            "npc": "elandrial",
+            "hasItemText": [
+                "就是现在，冒险者！最后一步。",
+                "现在，用你的烹饪技艺，把冰盖蘑菇和漂浮炽焰凤凰之箭组合起来。",
+                "成品将是一道前所未见的佳肴！"
+            ],
+            "completedText": ["用烹饪融合元素。", "制作元素佳肴。"],
+            "itemRequirements": [
+                {
+                    "key": "levitatingfieryphoenixarrow",
+                    "count": 1
+                }
+            ]
+        },
+        "6": {
+            "task": "cooking",
+            "recipe": "elementaldish",
+            "npc": "elandrial",
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@元素美食学@green@。你获得了一份@crimson@元素佳肴@green@以及烹饪、制弓和魔法经验！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

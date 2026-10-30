@@ -1,0 +1,38 @@
+{
+    "name": "永提尔水晶",
+    "description": "永提尔矿脉深处发现了神秘矿石。去开采它们，探究其秘密。",
+    "rewards": ["神秘矿石的开采权", "3500 采矿经验"],
+    "skillRequirements": {
+        "mining": 40
+    },
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "oldminer",
+            "text": ["冒险者！永提尔矿脉里藏着神秘矿石。", "如果你能帮我取来，我就为你引路。"],
+            "completedText": ["深入永提尔矿脉。"]
+        },
+        "1": {
+            "task": "collect",
+            "itemRequirements": [{ "key": "mysticore", "count": 5 }],
+            "completedText": ["把神秘矿石带给老矿工。"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "oldminer",
+            "hasItemText": ["你做到了！这矿石十分珍贵。让我教你如何善用它。"],
+
+            "skillRewards": [
+                {
+                    "key": "mining",
+                    "experience": 3500
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你获得了@crimson@神秘矿石知识@green@和@crimson@3500 采矿经验@green@。",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

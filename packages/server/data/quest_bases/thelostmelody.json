@@ -1,0 +1,60 @@
+{
+    "name": "失落的旋律",
+    "description": "一首被遗忘的歌需要复活。|古老的传说讲述着一段能唤雨愈地的旋律。村里的吟游诗人相信音符散落各处，等待被重新拼合。",
+    "rewards": ["ancientlute"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "villagebard",
+            "text": [
+                "你好，旅人。我一直在努力回忆一段旋律。",
+                "据说它的音符藏在大陆各处的古老纪念碑里。",
+                "你能帮我收集吗？"
+            ],
+            "completedText": ["寻找第一座纪念碑。"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "stonepillar",
+            "text": [
+                "这块石头上隐约刻着一个音符。它在轻轻共鸣。",
+                "你发现了第一个音符！"
+            ],
+            "completedText": ["寻找下一座纪念碑。"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "ancientstatue",
+            "text": [
+                "水从雕像上滴落，露出一个隐藏的音符。",
+                "又拼上一块拼图！"
+            ],
+            "completedText": ["寻找第三个音符。"]
+        },
+        "3": {
+            "task": "talk",
+            "npc": "cavepainting",
+            "text": ["洞壁间回荡着一种独特的音调。", "你找到了第三个音符！"],
+            "completedText": ["回到吟游诗人那里。"]
+        },
+        "4": {
+            "task": "talk",
+            "npc": "villagebard",
+            "itemRequirements": [
+                {
+                    "key": "musicalnotes",
+                    "count": 3
+                }
+            ],
+            "text": [
+                "啊，这些就是音符！让我把它们拼起来……",
+                "太了不起了！作为感谢，请收下这把古鲁特琴。"
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你完成了@crimson@失落的旋律@green@。村里的吟游诗人将一把古鲁特琴赠予了你！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

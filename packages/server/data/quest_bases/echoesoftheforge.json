@@ -1,0 +1,122 @@
+{
+    "name": "锻炉回响",
+    "description": "传奇武器唤醒了远古的邪恶。|铸造这件神器的过程不小心释放了古老而强大的力量。它们威胁着这片土地，唯有塞恩与玩家携手才能将其平息。",
+    "rewards": ["5000 金币", "legendaryarmorset"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "thrain",
+            "text": [
+                "看来锻造这件武器惊动了古老的力量。",
+                "黑暗生物被武器的能量吸引，纷纷现身。",
+                "我们必须趁来得及，想办法封印这股力量。"
+            ],
+            "completedText": ["去请教神谕者的智慧，寻找解决之道。"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "oracle",
+            "text": [
+                "你锻造的武器既是祝福，也是诅咒。",
+                "要封印它的力量，你必须找到平衡印章。",
+                "它们散落在三座均衡神殿中。"
+            ],
+            "completedText": ["从土之神殿取回第一枚印章。"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "earthpriest",
+            "text": ["想要印章？击败石魔像，证明你与大地的联结。"],
+            "completedText": ["击败石魔像，夺取印章。"]
+        },
+        "3": {
+            "task": "kill",
+            "mob": ["stonegolems"],
+            "mobCountRequirement": 5
+        },
+        "4": {
+            "task": "talk",
+            "npc": "earthpriest",
+            "text": ["你已经证明了自己的实力。这是大地印章。"],
+            "itemRewards": [
+                {
+                    "key": "sealofearth",
+                    "count": 1
+                }
+            ],
+            "completedText": ["现在前往水之神殿。"]
+        },
+        "5": {
+            "task": "talk",
+            "npc": "waterpriestess",
+            "text": ["想获得水之印章，就穿过水之迷宫，直面其中的试炼。"],
+            "completedText": ["穿过迷宫，取回水之印章。"]
+        },
+        "6": {
+            "task": "talk",
+            "npc": "waterguardian",
+            "text": ["了不起。你走到了这一步。这是水之印章。"],
+            "itemRewards": [
+                {
+                    "key": "sealofwater",
+                    "count": 1
+                }
+            ],
+            "completedText": ["最后，前往风之神殿。"]
+        },
+        "7": {
+            "task": "talk",
+            "npc": "windshaman",
+            "text": [
+                "穿过天空之环飞行，证明你对风之力的掌握。",
+                "完成后，风之印章就归你了。"
+            ],
+            "completedText": ["穿过天空之环飞行。"]
+        },
+        "8": {
+            "task": "talk",
+            "npc": "windshaman",
+            "text": ["你有一颗雄鹰之心。风之印章归你了。"],
+            "itemRewards": [
+                {
+                    "key": "sealofwind",
+                    "count": 1
+                }
+            ],
+            "completedText": ["带着所有印章回去见塞恩。"]
+        },
+        "9": {
+            "task": "talk",
+            "npc": "thrain",
+            "itemRequirements": [
+                {
+                    "key": "sealofearth",
+                    "count": 1
+                },
+                {
+                    "key": "sealofwater",
+                    "count": 1
+                },
+                {
+                    "key": "sealofwind",
+                    "count": 1
+                }
+            ],
+            "itemRewards": [
+                {
+                    "key": "gold",
+                    "count": 5000
+                },
+                {
+                    "key": "legendaryarmorset",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@锻炉回响@green@。你获得了 5000 金币和传奇护甲套装！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

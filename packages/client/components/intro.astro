@@ -1,0 +1,400 @@
+---
+import { t, getLanguage } from '@kaetram/common/i18n';
+
+let currentLanguage = getLanguage(),
+    languages = [
+        { locale: 'zh', name: '简体中文' },
+        { locale: 'en', name: 'English' },
+        { locale: 'de', name: 'Deutsch' },
+        { locale: 'es', name: 'Español' },
+        { locale: 'fr', name: 'Français' },
+        { locale: 'pt', name: 'Português' },
+        { locale: 'ro', name: 'Română' },
+        { locale: 'ru', name: 'Русский' },
+        { locale: 'tl', name: 'Tagalog'}
+    ];
+---
+
+<div id="intro">
+    <section id="parchment" class="load-character slice-menu-fancy">
+        <article id="load-character">
+            <h1 class="title-decoration">{t('game:NAME')}</h1>
+
+            <form onsubmit={'return false'}>
+                <input
+                    type="text"
+                    id="login-name-input"
+                    class="stroke slice-input"
+                    name="player-name"
+                    placeholder="用户名"
+                    aria-label="用户名"
+                    maxlength="32"
+                    autocomplete="off"
+                />
+                <input
+                    type="password"
+                    id="login-password-input"
+                    class="stroke slice-input"
+                    name="player-password"
+                    placeholder="密码"
+                    aria-label="密码"
+                    maxlength="64"
+                    autocomplete="off"
+                />
+
+                <div class="validation-summary"></div>
+
+                <div class="button-row">
+                    <label id="remember-me" class="check">
+                        <input type="checkbox" aria-labelledby="remember-me-text" />
+                        <span class="checkmark"></span>
+
+                        <span id="remember-me-text">记住我</span>
+                    </label>
+                    <label id="guest" class="check">
+                        <input type="checkbox" aria-labelledby="guest-text" />
+                        <span class="checkmark"></span>
+
+                        <span id="guest-text">游客登录</span>
+                    </label>
+                </div>
+
+                <div class="button-row">
+                    <button
+                        title="登录"
+                        aria-label="登录"
+                        type="submit"
+                        id="login"
+                        class="stroke slice-button"
+                        disabled
+                    >
+                        登录
+                    </button>
+                    <button
+                        title="注册新号"
+                        aria-label="注册新号"
+                        type="button"
+                        id="new-account"
+                        class="stroke slice-button"
+                    >
+                        注册新号
+                    </button>
+                </div>
+            </form>
+        </article>
+
+        <article id="create-character">
+            <h1 class="title-decoration">创建角色</h1>
+
+            <form onsubmit={'return false'}>
+                <input
+                    type="text"
+                    id="register-name-input"
+                    class="stroke slice-input"
+                    name="player-name"
+                    placeholder="用户名"
+                    aria-label="用户名"
+                    maxlength="32"
+                    autocomplete="off"
+                />
+                <input
+                    type="password"
+                    id="register-password-input"
+                    class="stroke slice-input"
+                    name="player-password"
+                    placeholder="密码"
+                    aria-label="密码"
+                    maxlength="64"
+                    autocomplete="off"
+                />
+                <input
+                    type="password"
+                    id="register-password-confirmation-input"
+                    class="stroke slice-input"
+                    name="player-password2"
+                    placeholder="确认密码"
+                    aria-label="确认密码"
+                    maxlength="64"
+                    autocomplete="off"
+                />
+                <input
+                    type="email"
+                    id="register-email-input"
+                    class="stroke slice-input"
+                    name="player-email"
+                    placeholder="邮箱地址"
+                    aria-label="邮箱地址"
+                    maxlength="64"
+                    autocomplete="off"
+                />
+
+                <div class="validation-summary"></div>
+
+                <div class="button-row">
+                    <button
+                        title="取消"
+                        aria-label="取消"
+                        type="button"
+                        id="cancel-register"
+                        class="stroke slice-button"
+                    >
+                        取消
+                    </button>
+                    <button
+                        title="开始游戏"
+                        aria-label="开始游戏"
+                        type="submit"
+                        id="play"
+                        class="stroke slice-button"
+                    >
+                        开始游戏
+                    </button>
+                </div>
+            </form>
+        </article>
+
+        <article id="reset-password">
+            <h1>
+                <span class="left-ornament"></span>
+                 重置密码
+                <span class="right-ornament"></span>
+            </h1>
+
+            <form onsubmit={'return false'}>
+                <input
+                    type="text"
+                    id="email-reset-input"
+                    class="stroke slice-input"
+                    name="player-email"
+                    placeholder="邮箱地址"
+                    aria-label="邮箱地址"
+                    maxlength="32"
+                    autocomplete="off"
+                />
+
+                <div class="validation-summary"></div>
+
+                <div class="button-row">
+                    <button
+                        title="取消"
+                        aria-label="取消"
+                        type="button"
+                        id="cancel-forget"
+                        class="stroke slice-button"
+                    >
+                        取消
+                    </button>
+                    <button
+                        title="提交"
+                        aria-label="提交"
+                        type="submit"
+                        id="continue-forget"
+                        class="stroke slice-button"
+                    >
+                        继续
+                    </button>
+                </div>
+            </form>
+        </article>
+
+        <article id="world-select">
+            <h1>
+                <span class="left-ornament"></span>
+                 选择服务器
+                <span class="right-ornament"></span>
+            </h1>
+
+            <form onsubmit={'return false'}>
+                <ol id="worlds"></ol>
+
+                <div class="button-row">
+                    <button
+                        title="取消"
+                        aria-label="取消"
+                        type="button"
+                        id="cancel-worlds"
+                        class="stroke slice-button"
+                    >
+                        取消
+                    </button>
+                    <button
+                        title="继续"
+                        aria-label="继续"
+                        type="submit"
+                        id="continue-worlds"
+                        class="stroke slice-button"
+                    >
+                        继续
+                    </button>
+                </div>
+            </form>
+        </article>
+
+        <article id="credits">
+            <h1 class="title-decoration">制作名单</h1>
+
+            <p>
+                <br />
+                 特别感谢
+                <a
+                    rel="noopener noreferrer"
+                    class="clickable"
+                    target="_blank"
+                    href="https://www.littleworkshop.fr/">Little Workshop</a
+                >
+                 提供的像素素材，
+                <br />
+                <br />
+                 以及 Asky 团队。
+                <br />
+                <br />
+                 更多像素素材来自
+                <a
+                    rel="noopener noreferrer"
+                    class="clickable"
+                    target="_blank"
+                    href="https://opengameart.org/users/buch">Buch</a
+                >,
+                <a
+                    rel="noopener noreferrer"
+                    class="clickable"
+                    target="_blank"
+                    href="https://shikashiassets.itch.io/shikashis-fantasy-icons-pack">Shikashi</a
+                >,
+                <a
+                    rel="noopener noreferrer"
+                    class="clickable"
+                    target="_blank"
+                    href="https://opengameart.org/content/kyrises-free-16x16-rpg-icon-pack"
+                    >Kyrise</a
+                >,
+                <a
+                    rel="noopener noreferrer"
+                    class="clickable"
+                    target="_blank"
+                    href="https://game-icons.net">Game-Icons.net</a
+                >, 以及 Boo
+                <br />
+                <br />
+                 音乐由
+                <a
+                    rel="noopener noreferrer"
+                    class="clickable"
+                    target="_blank"
+                    href="https://soundcloud.com/gyrowolf">Terrel O'Brien</a
+                >,
+                <a
+                    rel="noopener noreferrer"
+                    class="clickable"
+                    target="_blank"
+                    href="https://blog.dayjo.org">Joel Day</a
+                >,
+                <a
+                    rel="noopener noreferrer"
+                    class="clickable"
+                    target="_blank"
+                    href="https://www.dantilden.com">Dan Tilden</a
+                >, 以及
+                <a
+                    rel="noopener noreferrer"
+                    target="_blank"
+                    class="clickable"
+                    href="https://soundcloud.com/aaron-anderson-11">Aaron Krogh</a
+                >
+            </p>
+
+            <div class="close-about">
+                <span>-- 点击任意处关闭 --</span>
+            </div>
+        </article>
+
+        <article id="about">
+            <h1 class="title-decoration">关于</h1>
+
+            <p>
+                凯特拉姆（Kaetram）是一款基于浏览器的 2D 大型多人在线角色扮演游戏。你将扮演一名冒险者，与其他玩家一起探索凯特拉姆的世界。本项目最初是
+                BrowserQuest 的一个分支，如今已发展成一款独立的游戏。为了致敬最初的理念，我们保留并扩展了原有的素材。我们是少数几个由开源社区驱动的游戏项目之一。我们随时欢迎在编程、美术设计和/或音乐创作方面提供帮助。我们的源代码可以在我们的
+                <a target="_blank" href="https://github.com/Kaetram/Kaetram-Open"
+                    >GitHub 仓库</a
+                >中找到。如果你想及时了解项目的最新动态，欢迎加入我们的
+                <a target="_blank" href="https://discord.gg/MmbGAaw">Discord 服务器</a>。
+            </p>
+
+            <div class="close-about">
+                <span>-- 点击任意处关闭 --</span>
+            </div>
+        </article>
+
+        <article id="git">Structure this later</article>
+
+        <article id="death">
+            <h1>你死了……</h1>
+            <button
+                title="重生"
+                id="respawn"
+                title="重生"
+                aria-label="重生"
+                class="stroke slice-button">重生</button
+            >
+        </article>
+
+        <span class="loader" hidden>
+            连接中<span class="loader-dot">.</span><span class="loader-dot">.</span><span
+                class="loader-dot">.</span
+            >
+        </span>
+    </section>
+
+    <select id="lang-select" oninput={'location = "/" + this.value + "/"'}>
+        {
+            languages.map(({ locale, name }) => (
+                <option value={locale} selected={locale === currentLanguage}>
+                    {name}
+                </option>
+            ))
+        }
+    </select>
+
+    <button id="world-select-button" class="slice-button" hidden>
+        <strong class="stroke"></strong>
+        <span class="stroke"></span>
+    </button>
+
+    <span id="game-version" class="version"></span>
+
+    <footer>
+        <div id="about-link" class="clickable">
+            <span id="toggle-about">关于</span>
+        </div>
+        <span>&ndash;</span>
+        <div id="credits-link" class="clickable">
+            <span id="toggle-credits">制作名单</span>
+        </div>
+        <span>&ndash;</span>
+        <div id="discord-link" class="clickable">
+            <a class="footer-button" target="_blank" href="https://discord.gg/MmbGAaw">
+                <span>Discord</span>
+            </a>
+        </div>
+        <span>&ndash;</span>
+        <div class="clickable">
+            <a
+                class="footer-button"
+                target="_blank"
+                href="https://www.patreon.com/bePatron?u=29287394"
+            >
+                <span>Patreon</span>
+            </a>
+        </div>
+        <span>&ndash;</span>
+        <div id="privacy" class="clickable">
+            <a class="footer-button" href="/privacy/">
+                <span>隐私政策</span>
+            </a>
+        </div>
+        <span>&ndash;</span>
+        <div id="reset" class="clickable">
+            <span id="toggle-reset-password">重置密码</span>
+        </div>
+    </footer>
+</div>

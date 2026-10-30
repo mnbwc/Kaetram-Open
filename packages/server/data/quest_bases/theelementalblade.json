@@ -1,0 +1,144 @@
+{
+    "name": "元素之刃",
+    "description": "世界四大元素在寻找配得上它们的主人。|传说中有一把凝聚土、火、水、风本源的利刃。踏上锻造这件元素杰作的旅程，掌控它无穷的力量吧。",
+    "rewards": ["elementalsword"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "eldersmith",
+            "text": [
+                "啊，冒险者！你听说过元素之刃吗？",
+                "那是一把能引动自然之力的剑。",
+                "要打造它，你必须集齐散落各地的四枚元素碎片。"
+            ],
+            "completedText": ["你的旅程从大地洞窟开始。"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "earthguard",
+            "text": [
+                "想要土之碎片？击败土元素证明你的实力。",
+                "带着它们的精华回来，我就把碎片给你。"
+            ],
+            "completedText": ["击败土元素。"]
+        },
+        "2": {
+            "task": "kill",
+            "mob": ["earthelementals"],
+            "mobCountRequirement": 5
+        },
+        "3": {
+            "task": "talk",
+            "npc": "earthguard",
+            "text": [
+                "你干得很好。这是土之碎片。",
+                "现在，去熔岩坑寻找烈焰之灵，夺取火之碎片。"
+            ],
+            "itemRewards": [
+                {
+                    "key": "earthshard",
+                    "count": 1
+                }
+            ]
+        },
+        "4": {
+            "task": "talk",
+            "npc": "flamespirit",
+            "text": [
+                "想要我的火之碎片，就穿越熔岩迷宫吧。",
+                "经受住它的试炼，碎片便归你所有。"
+            ],
+            "completedText": ["穿越熔岩迷宫。"]
+        },
+        "5": {
+            "task": "talk",
+            "npc": "flamespirit",
+            "text": [
+                "你燃着坚定的火焰。收下火之碎片吧。",
+                "接下来，前往水之神殿夺取水之碎片。"
+            ],
+            "itemRewards": [
+                {
+                    "key": "fireshard",
+                    "count": 1
+                }
+            ]
+        },
+        "6": {
+            "task": "talk",
+            "npc": "watertemplar",
+            "text": [
+                "从深处取回圣珠，以换取水之碎片。",
+                "但要当心，深处藏着许多秘密。"
+            ],
+            "completedText": ["取回圣珠。"]
+        },
+        "7": {
+            "task": "talk",
+            "npc": "watertemplar",
+            "text": ["水之碎片归你了。", "最后，登上天空之塔夺取风之碎片。"],
+            "itemRewards": [
+                {
+                    "key": "watershard",
+                    "count": 1
+                }
+            ]
+        },
+        "8": {
+            "task": "talk",
+            "npc": "windkeeper",
+            "text": [
+                "要获得风之碎片，就穿过云环飞行。",
+                "唯有心境澄明、目标坚定者方能成功。"
+            ],
+            "completedText": ["穿过云环飞行。"]
+        },
+        "9": {
+            "task": "talk",
+            "npc": "windkeeper",
+            "text": [
+                "风之力已归你所有，回去见长老史密斯吧。",
+                "他会指导你锻造元素之刃。"
+            ],
+            "itemRewards": [
+                {
+                    "key": "airshard",
+                    "count": 1
+                }
+            ]
+        },
+        "10": {
+            "task": "talk",
+            "npc": "eldersmith",
+            "itemRequirements": [
+                {
+                    "key": "earthshard",
+                    "count": 1
+                },
+                {
+                    "key": "fireshard",
+                    "count": 1
+                },
+                {
+                    "key": "watershard",
+                    "count": 1
+                },
+                {
+                    "key": "airshard",
+                    "count": 1
+                }
+            ],
+            "itemRewards": [
+                {
+                    "key": "elementalsword",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@元素之刃@green@。现在元素之力由你掌控！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

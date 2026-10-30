@@ -1,0 +1,17 @@
+{
+    "name": "程序员的谬误",
+    "description": "一位忧心忡忡的村民想和你谈谈。|去村里的气球摊旁找他。也许挺重要。也许和某人（也可能是你）干的事有关。",
+    "rewards": ["密室钥匙"],
+    "questRequirements": ["codersglitch2", "anvilsechoes", "scientistspotion"],
+    "skillRequirements": {
+        "alchemy": 35,
+        "smithing": 45
+    },
+
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "villager4"
+        }
+    }
+}

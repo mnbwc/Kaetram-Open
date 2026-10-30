@@ -1,0 +1,60 @@
+---
+import DefaultLayout from '../layouts/default.astro';
+import '../scss/main.scss';
+---
+
+<script src="../src/reset.ts"></script>
+
+<DefaultLayout title="重置密码">
+    <div id="intro">
+        <section id="parchment" class="slice-menu">
+            <article id="reset-password">
+                <h1 class="title-decoration">重置密码</h1>
+
+                <form onsubmit={'return false'}>
+                    <input
+                        type="password"
+                        id="password-input"
+                        class="stroke slice-input"
+                        name="player-password"
+                        placeholder="密码"
+                        aria-label="密码"
+                        maxlength="64"
+                        autocomplete="off"
+                    />
+                    <input
+                        type="password"
+                        id="password-confirm-input"
+                        class="stroke slice-input"
+                        name="player-password"
+                        placeholder="确认密码"
+                        aria-label="确认密码"
+                        maxlength="64"
+                        autocomplete="off"
+                    />
+
+                    <div class="validation-summary"></div>
+
+                    <div>
+                        <button
+                            title="确认重置"
+                            aria-label="确认重置"
+                            type="button"
+                            id="confirm-reset"
+                            class="stroke slice-button"
+                        >
+                            确认
+                        </button>
+                    </div>
+                </form>
+            </article>
+        </section>
+    </div>
+</DefaultLayout>
+
+<style is:global>
+    #reset-password {
+        pointer-events: auto;
+        opacity: 1;
+    }
+</style>

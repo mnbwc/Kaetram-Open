@@ -1,0 +1,2727 @@
+{
+ "木剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "青铜剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "青铜斧": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "短剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "凌风": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "匕首": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "斩马刀": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "银蛇": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "海魂": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "修罗": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "炼狱": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "魔杖": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "八荒": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "凝霜": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "半月": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "降魔": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "井中月": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "偃月": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "鹤嘴锄": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "破魂": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "无极棍": {
+  "slot": "weapontao",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "血饮": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "祈祷之刃": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "裁决之杖": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "龙纹剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "屠龙": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "嗜魂法杖": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "骨玉权杖": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "霸者之刃": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "赤血魔剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "龙牙": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "怒斩": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "逍遥扇": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "乌木剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "铁剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "疾风裁决": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "神圣血饮": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "鸿蒙龙纹": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "超强怒斩": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "超强龙牙": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "超强赤血魔剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "至尊屠龙": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "主宰"
+ },
+ "至尊嗜魂": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "主宰"
+ },
+ "至尊逍遥": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "主宰"
+ },
+ "强化开天": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "强化镇天": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "强化玄天": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "魅影之刃": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "佛杀": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "寒冰剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "狂雷战刃": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "火龙"
+ },
+ "逆魔法杖": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "火龙"
+ },
+ "通云道剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "火龙"
+ },
+ "天龙圣剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "狐月"
+ },
+ "天龙魔剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "狐月"
+ },
+ "天龙道剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "狐月"
+ },
+ "开天血战斧": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "高级"
+ },
+ "赤炼钩玄杖": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "狐月"
+ },
+ "碧海定潮扇": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "狐月"
+ },
+ "圣龙霸刃": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "狐月"
+ },
+ "&@灵火法杖": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "清风道扇": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "霸世战刀": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "幽冥魔杖": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "玄尘灵剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "狂狼战斧": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "九天焚杖": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "太虚道剑": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "阴阳炎刃": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "赤焰焚天杖": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "狐月"
+ },
+ "碧影青冥扇": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "狐月"
+ },
+ "裂月战刃": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "炎阳神杖": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "流金焚羽扇": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "布衣(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "轻型盔甲(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "中型盔甲(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "重盔甲(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "魔法长袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "灵魂战衣(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "战神盔甲(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "雷炎"
+ },
+ "恶魔长袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "幽灵战衣(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "天魔战甲": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "法神披风": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "赤月"
+ },
+ "天尊道袍": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "赤月"
+ },
+ "强化战神盔甲(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "魔龙"
+ },
+ "强化恶魔长袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "魔龙"
+ },
+ "强化幽灵战衣(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "魔龙"
+ },
+ "至尊天魔战甲": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "主宰"
+ },
+ "至尊法神披风": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "赤月"
+ },
+ "至尊天尊道袍": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "赤月"
+ },
+ "雷霆战甲(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "魔龙"
+ },
+ "凤天战甲(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "狂雷战甲(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "火龙"
+ },
+ "逆魔法袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "火龙"
+ },
+ "通云道袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "火龙"
+ },
+ "天龙战甲(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "血战神威战甲(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "雷炎"
+ },
+ "钩玄烈焰法袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "魔龙"
+ },
+ "定潮沧澜道袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "圣龙神甲(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "赤焰法袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "青冥道袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "金羽战铠(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "焚天火袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "流霞道袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "炎龙战甲(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "九天炎袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "九霄道袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "圣皇神翼甲(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "焚天魔翼袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "碧霞仙翼袍(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "黑金至尊龙铠(男)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "主宰"
+ },
+ "布衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "轻型盔甲(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "中型盔甲(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "重盔甲(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "魔法长袍(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "灵魂战衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "战神盔甲(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "雷炎"
+ },
+ "恶魔长袍(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "幽灵战衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "圣战宝甲": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "赤月"
+ },
+ "霓裳羽衣": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "天师长袍": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "强化战神盔甲(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "魔龙"
+ },
+ "强化恶魔长袍(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "魔龙"
+ },
+ "强化幽灵战衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "魔龙"
+ },
+ "至尊圣战宝甲": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "赤月"
+ },
+ "至尊霓裳羽衣": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "主宰"
+ },
+ "至尊天师长袍": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "主宰"
+ },
+ "雷霆战衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "魔龙"
+ },
+ "凤天战衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "狂雷战衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "火龙"
+ },
+ "逆魔法衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "火龙"
+ },
+ "通云道衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "火龙"
+ },
+ "天龙战衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "开天凤凰战铠(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "赤炼霓裳(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "汐月流仙裙(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "圣龙神衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "赤焰法衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "青冥道衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "金羽战衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "焚天火衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "流霞道衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "炎龙战衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "九天炎衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "九霄道衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "圣皇神翼衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "新手"
+ },
+ "焚天魔翼衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "碧霞仙翼衣(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "狐月"
+ },
+ "黑金至尊龙甲(女)": {
+  "slot": "chestplate",
+  "type": "chestplate",
+  "tier": "主宰"
+ },
+ "纆@": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "`h@青铜头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "新手"
+ },
+ "魔法头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "新手"
+ },
+ "道士头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "新手"
+ },
+ "骷髅头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "新手"
+ },
+ "记忆头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "新手"
+ },
+ "祈祷头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "新手"
+ },
+ "黑铁头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "新手"
+ },
+ "圣战头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "赤月"
+ },
+ "法神头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "赤月"
+ },
+ "天尊头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "赤月"
+ },
+ "雷霆头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "魔龙"
+ },
+ "X獲烈焰头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "魔龙"
+ },
+ "光芒头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "魔龙"
+ },
+ "战神头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "雷炎"
+ },
+ "圣魔头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "雷炎"
+ },
+ "真魂头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "雷炎"
+ },
+ "狂雷头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "火龙"
+ },
+ "逆魔头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "火龙"
+ },
+ "通云头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "火龙"
+ },
+ "金牛头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "火龙"
+ },
+ "星王头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "青龙头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "裂神头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "传奇头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "皓月头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "破日头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "幻月头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "灵霄头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "龙魂头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "凤吟头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "玄冥头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "弑神头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "天怒头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "无为头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "霸业头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "九霄头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "太初头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "黑煞头盔": {
+  "slot": "helmet",
+  "type": "helmet",
+  "tier": "狐月"
+ },
+ "金项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "传统项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "黄色水晶项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "黑檀项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "黑色水晶项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "白色虎齿项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "白金项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "灯笼项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "琥珀项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "魔鬼项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "凤凰明珠": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "蓝翡翠项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "竹笛": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "放大镜": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "幽灵项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "绿色项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "灵魂项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "恶魔铃铛": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "魔血项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "虹魔项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "狂风项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "躲避手链": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "祈祷项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "记忆项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "圣战项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "赤月"
+ },
+ "法神项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "赤月"
+ },
+ "天尊项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "赤月"
+ },
+ "天珠项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "生命项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "新手"
+ },
+ "雷霆项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "魔龙"
+ },
+ "烈焰项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "魔龙"
+ },
+ "光芒项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "魔龙"
+ },
+ "战神项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "雷炎"
+ },
+ "圣魔项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "雷炎"
+ },
+ "真魂项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "雷炎"
+ },
+ "狂雷项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "火龙"
+ },
+ "逆魔项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "火龙"
+ },
+ "通云项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "火龙"
+ },
+ "金牛项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "火龙"
+ },
+ "星王项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "青龙项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "裂神项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "传奇项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "皓月项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "破日项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "幻月项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "灵霄项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "龙魂项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "凤吟项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "玄冥项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "弑神项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "天怒项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "无为项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "霸业项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "九霄项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "太初项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "黑煞项链": {
+  "slot": "pendant",
+  "type": "pendant",
+  "tier": "狐月"
+ },
+ "古铜戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "玻璃戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "六角戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "牛角戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "蓝色水晶戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "生铁戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "珍珠戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "黑色水晶戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "蛇眼戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "金戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "道德戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "魅力戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "降妖除魔戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "铂金戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "骷髅戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "珊瑚戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "虹魔戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "红宝石戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "龙之戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "狂风戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "泰坦戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "力量戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "紫碧螺": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "祈祷戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "记忆戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "魔血戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "圣战戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "赤月"
+ },
+ "法神戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "赤月"
+ },
+ "天尊戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "赤月"
+ },
+ "雷霆戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "魔龙"
+ },
+ "烈焰戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "魔龙"
+ },
+ "光芒戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "魔龙"
+ },
+ "战神戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "雷炎"
+ },
+ "圣魔戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "雷炎"
+ },
+ "真魂戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "雷炎"
+ },
+ "狂雷戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "火龙"
+ },
+ "逆魔戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "火龙"
+ },
+ "通云戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "火龙"
+ },
+ "金牛戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "火龙"
+ },
+ "星王戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "青龙戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "裂神戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "传奇戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "皓月戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "破日戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "幻月戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "灵霄戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "龙魂戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "凤吟戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "玄冥戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "弑神戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "天怒戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "无为戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "霸业戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "九霄戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "太初戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "黑煞戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "狐月"
+ },
+ "铁手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "小手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "银手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "大手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "钢手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "魔法手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "夏普儿手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "辟邪手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "道士手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "黑檀手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "魔力手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "金手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "心灵手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "三眼手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "思贝儿手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "龙之手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "骑士手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "魔血手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "虹魔手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "皮制手套": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "坚固手套": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "死神手套": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "幽灵手套": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "阎罗手套": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "祈祷手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "记忆手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "新手"
+ },
+ "圣战手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "赤月"
+ },
+ "法神手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "赤月"
+ },
+ "天尊手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "赤月"
+ },
+ "雷霆护腕": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "魔龙"
+ },
+ "烈焰护腕": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "魔龙"
+ },
+ "光芒护腕": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "魔龙"
+ },
+ "战神手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "雷炎"
+ },
+ "圣魔手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "雷炎"
+ },
+ "真魂手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "雷炎"
+ },
+ "狂雷手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "火龙"
+ },
+ "逆魔手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "火龙"
+ },
+ "通云手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "火龙"
+ },
+ "金牛手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "火龙"
+ },
+ "星王手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "青龙手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "裂神手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "传奇手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "皓月手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "破日手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "幻月手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "灵霄手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "龙魂手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "凤吟手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "玄冥手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "弑神手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "天怒手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "无为手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "霸业手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "九霄手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "太初手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "黑煞手镯": {
+  "slot": "bracelet",
+  "type": "bracelet",
+  "tier": "狐月"
+ },
+ "荣誉勋章11号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章12号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章13号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章14号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章15号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章21号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章22号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章23号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章24号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章25号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章31号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章32号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章33号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章34号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章35号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章41号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章42号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章43号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章44号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "荣誉勋章45号": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "圣战勋章": {
+  "slot": "medal",
+  "type": "medal",
+  "tier": "赤月"
+ },
+ "法神勋章": {
+  "slot": "medal",
+  "type": "medal",
+  "tier": "赤月"
+ },
+ "天尊勋章": {
+  "slot": "medal",
+  "type": "medal",
+  "tier": "赤月"
+ },
+ "玄铁勋章": {
+  "slot": "medal",
+  "type": "medal",
+  "tier": "新手"
+ },
+ "黄金勋章": {
+  "slot": "medal",
+  "type": "medal",
+  "tier": "新手"
+ },
+ "赤金勋章": {
+  "slot": "medal",
+  "type": "medal",
+  "tier": "新手"
+ },
+ "白金勋章": {
+  "slot": "medal",
+  "type": "medal",
+  "tier": "新手"
+ },
+ "耀金勋章": {
+  "slot": "medal",
+  "type": "medal",
+  "tier": "新手"
+ },
+ "Pw@兽皮腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "新手"
+ },
+ "铁质腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "新手"
+ },
+ "青铜腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "新手"
+ },
+ "钢铁腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "新手"
+ },
+ "圣战腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "赤月"
+ },
+ "法神腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "赤月"
+ },
+ "天尊腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "赤月"
+ },
+ "雷霆腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "魔龙"
+ },
+ "烈焰腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "魔龙"
+ },
+ "光芒腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "魔龙"
+ },
+ "战神腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "雷炎"
+ },
+ "圣魔腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "雷炎"
+ },
+ "真魂腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "雷炎"
+ },
+ "狂雷腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "火龙"
+ },
+ "逆魔腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "火龙"
+ },
+ "通云腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "火龙"
+ },
+ "金牛腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "火龙"
+ },
+ "星王腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "青龙腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "裂神腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "传奇腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "皓月腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "破日腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "幻月腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "灵霄腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "龙魂腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "凤吟腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "玄冥腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "弑神腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "天怒腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "无为腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "霸业腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "九霄腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "太初腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "黑煞腰带": {
+  "slot": "belt",
+  "type": "belt",
+  "tier": "狐月"
+ },
+ "布靴": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "新手"
+ },
+ "鹿皮靴": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "新手"
+ },
+ "紫绸靴": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "新手"
+ },
+ "避魂靴": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "新手"
+ },
+ "圣战靴": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "赤月"
+ },
+ "法神靴": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "赤月"
+ },
+ "天尊靴": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "赤月"
+ },
+ "雷霆靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "魔龙"
+ },
+ "烈焰靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "魔龙"
+ },
+ "光芒靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "魔龙"
+ },
+ "战神靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "雷炎"
+ },
+ "圣魔靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "雷炎"
+ },
+ "真魂靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "雷炎"
+ },
+ "狂雷靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "火龙"
+ },
+ "逆魔靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "火龙"
+ },
+ "通云靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "火龙"
+ },
+ "金牛靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "火龙"
+ },
+ "星王靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "青龙靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "裂神靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "传奇靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "皓月靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "破日靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "幻月靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "灵霄靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "龙魂靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "凤吟靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "玄冥靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "弑神靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "天怒靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "无为靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "霸业靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "九霄靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "太初靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "黑煞靴子": {
+  "slot": "boots",
+  "type": "boots",
+  "tier": "狐月"
+ },
+ "红宝石(小)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "红宝石(中)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "红宝石(大)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "红宝石(超)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "红宝石(极)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "紫宝石(小)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "紫宝石(中)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "紫宝石(大)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "紫宝石(超)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "紫宝石(极)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "绿宝石(小)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "绿宝石(中)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "绿宝石(大)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "绿宝石(超)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "绿宝石(极)": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "一阶·绿灵玉": {
+  "slot": "enchant",
+  "type": "material",
+  "tier": "新手"
+ },
+ "二阶·碧灵玉": {
+  "slot": "enchant",
+  "type": "material",
+  "tier": "新手"
+ },
+ "三阶·青灵玉": {
+  "slot": "enchant",
+  "type": "material",
+  "tier": "新手"
+ },
+ "四阶·翠灵玉": {
+  "slot": "enchant",
+  "type": "material",
+  "tier": "新手"
+ },
+ "五阶·玄灵玉": {
+  "slot": "enchant",
+  "type": "material",
+  "tier": "新手"
+ },
+ "六阶·苍灵玉": {
+  "slot": "enchant",
+  "type": "material",
+  "tier": "新手"
+ },
+ "七阶·盘龙玉": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "八阶·龙吟玉": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "九阶·龙魂玉": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "狐月"
+ },
+ "十阶·万古玉": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "追魂剑灵(": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "召唤一把飞剑自动御敌,CD:1s": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "召唤两把飞剑自动御敌,CD:1s": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "召唤三把飞剑自动御敌,CD:1s": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "炎阳飞星环(": {
+  "slot": "weaponmagic",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "点,CD:1s": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "自动对敌人发射一枚火球,窃取法力": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "自动对敌人发射两枚火球,窃取法力": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "自动对敌人发射三枚火球,窃取法力": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "金光神符(": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "凝聚一道神符攻击,汲取生命": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "凝聚两道神符攻击,汲取生命": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "凝聚三道神符攻击,汲取生命": {
+  "slot": "weapon",
+  "type": "weapon",
+  "tier": "新手"
+ },
+ "防御戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "超负载戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "火焰戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "传送戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "隐身戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "麻痹戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "护身戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "复活戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "战意麻痹戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "战意护身戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "战意复活戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "聚魔麻痹戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "聚魔护身戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "聚魔复活戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "八卦麻痹戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "八卦护身戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "八卦复活戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "新手"
+ },
+ "主宰麻痹戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "主宰"
+ },
+ "主宰护身戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "主宰"
+ },
+ "主宰复活戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "主宰"
+ },
+ "至尊麻痹戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "主宰"
+ },
+ "至尊护身戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "主宰"
+ },
+ "至尊复活戒指": {
+  "slot": "ring",
+  "type": "ring",
+  "tier": "主宰"
+ },
+ "粗木卫盾": {
+  "slot": "shield",
+  "type": "shield",
+  "tier": "新手"
+ },
+ "玄铁棱盾": {
+  "slot": "shield",
+  "type": "shield",
+  "tier": "新手"
+ },
+ "冰魄寒盾": {
+  "slot": "shield",
+  "type": "shield",
+  "tier": "新手"
+ },
+ "赤焰重盾": {
+  "slot": "shield",
+  "type": "shield",
+  "tier": "狐月"
+ },
+ "圣武尊盾": {
+  "slot": "shield",
+  "type": "shield",
+  "tier": "新手"
+ },
+ "紫晶玄盾": {
+  "slot": "shield",
+  "type": "shield",
+  "tier": "新手"
+ },
+ "血煞魔盾": {
+  "slot": "shield",
+  "type": "shield",
+  "tier": "新手"
+ },
+ "霜龙魂盾": {
+  "slot": "shield",
+  "type": "shield",
+  "tier": "狐月"
+ },
+ "凤涅神盾": {
+  "slot": "shield",
+  "type": "shield",
+  "tier": "新手"
+ },
+ "草笠": {
+  "slot": "hat",
+  "type": "hat",
+  "tier": "新手"
+ },
+ "青铜斗笠": {
+  "slot": "hat",
+  "type": "hat",
+  "tier": "新手"
+ },
+ "白银斗笠": {
+  "slot": "hat",
+  "type": "hat",
+  "tier": "新手"
+ },
+ "铂金斗笠": {
+  "slot": "hat",
+  "type": "hat",
+  "tier": "新手"
+ },
+ "黄金斗笠": {
+  "slot": "hat",
+  "type": "hat",
+  "tier": "新手"
+ },
+ "王者斗笠": {
+  "slot": "hat",
+  "type": "hat",
+  "tier": "新手"
+ },
+ "主宰斗笠": {
+  "slot": "hat",
+  "type": "hat",
+  "tier": "主宰"
+ },
+ "至尊斗笠": {
+  "slot": "hat",
+  "type": "hat",
+  "tier": "主宰"
+ },
+ "十年魂珠": {
+  "slot": "soulbead",
+  "type": "soulbead",
+  "tier": "新手"
+ },
+ "百年魂珠": {
+  "slot": "soulbead",
+  "type": "soulbead",
+  "tier": "新手"
+ },
+ "千年魂珠": {
+  "slot": "soulbead",
+  "type": "soulbead",
+  "tier": "新手"
+ },
+ "万年魂珠": {
+  "slot": "soulbead",
+  "type": "soulbead",
+  "tier": "新手"
+ },
+ "十万年魂珠": {
+  "slot": "soulbead",
+  "type": "soulbead",
+  "tier": "新手"
+ }
+}

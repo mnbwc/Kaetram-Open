@@ -1,0 +1,10752 @@
+{
+ "kd_weapon_1": {
+  "type": "weapon",
+  "name": "木剑",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_2": {
+  "type": "weapon",
+  "name": "青铜剑",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_3": {
+  "type": "weapon",
+  "name": "青铜斧",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_4": {
+  "type": "weapon",
+  "name": "短剑",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_5": {
+  "type": "weapon",
+  "name": "凌风",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_6": {
+  "type": "weapon",
+  "name": "匕首",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_7": {
+  "type": "weapon",
+  "name": "斩马刀",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_8": {
+  "type": "weapon",
+  "name": "银蛇",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_9": {
+  "type": "weapon",
+  "name": "海魂",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_10": {
+  "type": "weapon",
+  "name": "修罗",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_11": {
+  "type": "weapon",
+  "name": "炼狱",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weaponmagic_1": {
+  "type": "weapon",
+  "name": "魔杖",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 1
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 0,
+   "archery": 0,
+   "magic": 1
+  }
+ },
+ "kd_weapon_12": {
+  "type": "weapon",
+  "name": "八荒",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_13": {
+  "type": "weapon",
+  "name": "凝霜",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_14": {
+  "type": "weapon",
+  "name": "半月",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_15": {
+  "type": "weapon",
+  "name": "降魔",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_16": {
+  "type": "weapon",
+  "name": "井中月",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_17": {
+  "type": "weapon",
+  "name": "偃月",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_18": {
+  "type": "weapon",
+  "name": "鹤嘴锄",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_19": {
+  "type": "weapon",
+  "name": "破魂",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapontao_1": {
+  "type": "weapon",
+  "name": "无极棍",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_20": {
+  "type": "weapon",
+  "name": "血饮",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_21": {
+  "type": "weapon",
+  "name": "祈祷之刃",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weaponmagic_2": {
+  "type": "weapon",
+  "name": "裁决之杖",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 20
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 0,
+   "archery": 0,
+   "magic": 20
+  }
+ },
+ "kd_weapon_22": {
+  "type": "weapon",
+  "name": "龙纹剑",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_23": {
+  "type": "weapon",
+  "name": "屠龙",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weaponmagic_3": {
+  "type": "weapon",
+  "name": "嗜魂法杖",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 20
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 0,
+   "archery": 0,
+   "magic": 20
+  }
+ },
+ "kd_weaponmagic_4": {
+  "type": "weapon",
+  "name": "骨玉权杖",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 20
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 0,
+   "archery": 0,
+   "magic": 20
+  }
+ },
+ "kd_weapon_24": {
+  "type": "weapon",
+  "name": "霸者之刃",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_25": {
+  "type": "weapon",
+  "name": "赤血魔剑",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_26": {
+  "type": "weapon",
+  "name": "龙牙",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_27": {
+  "type": "weapon",
+  "name": "怒斩",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weaponmagic_5": {
+  "type": "weapon",
+  "name": "逍遥扇",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 20
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 0,
+   "archery": 0,
+   "magic": 20
+  }
+ },
+ "kd_weapon_28": {
+  "type": "weapon",
+  "name": "乌木剑",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_29": {
+  "type": "weapon",
+  "name": "铁剑",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_30": {
+  "type": "weapon",
+  "name": "疾风裁决",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_31": {
+  "type": "weapon",
+  "name": "神圣血饮",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_32": {
+  "type": "weapon",
+  "name": "鸿蒙龙纹",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_33": {
+  "type": "weapon",
+  "name": "超强怒斩",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_34": {
+  "type": "weapon",
+  "name": "超强龙牙",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_35": {
+  "type": "weapon",
+  "name": "超强赤血魔剑",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_36": {
+  "type": "weapon",
+  "name": "至尊屠龙",
+  "tier": "主宰",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 55,
+   "slash": 55,
+   "stab": 55,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 27,
+   "strength": 55,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_37": {
+  "type": "weapon",
+  "name": "至尊嗜魂",
+  "tier": "主宰",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 55,
+   "slash": 55,
+   "stab": 55,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 27,
+   "strength": 55,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_38": {
+  "type": "weapon",
+  "name": "至尊逍遥",
+  "tier": "主宰",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 55,
+   "slash": 55,
+   "stab": 55,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 27,
+   "strength": 55,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_39": {
+  "type": "weapon",
+  "name": "强化开天",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_40": {
+  "type": "weapon",
+  "name": "强化镇天",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_41": {
+  "type": "weapon",
+  "name": "强化玄天",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_42": {
+  "type": "weapon",
+  "name": "魅影之刃",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_43": {
+  "type": "weapon",
+  "name": "佛杀",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_44": {
+  "type": "weapon",
+  "name": "寒冰剑",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_45": {
+  "type": "weapon",
+  "name": "狂雷战刃",
+  "tier": "火龙",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 38,
+   "slash": 38,
+   "stab": 38,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 19,
+   "strength": 38,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weaponmagic_6": {
+  "type": "weapon",
+  "name": "逆魔法杖",
+  "tier": "火龙",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 38,
+   "slash": 38,
+   "stab": 38,
+   "archery": 0,
+   "magic": 38
+  },
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 19,
+   "strength": 0,
+   "archery": 0,
+   "magic": 38
+  }
+ },
+ "kd_weapon_46": {
+  "type": "weapon",
+  "name": "通云道剑",
+  "tier": "火龙",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 38,
+   "slash": 38,
+   "stab": 38,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 19,
+   "strength": 38,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_47": {
+  "type": "weapon",
+  "name": "天龙圣剑",
+  "tier": "狐月",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 46,
+   "slash": 46,
+   "stab": 46,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 23,
+   "strength": 46,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_48": {
+  "type": "weapon",
+  "name": "天龙魔剑",
+  "tier": "狐月",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 46,
+   "slash": 46,
+   "stab": 46,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 23,
+   "strength": 46,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_49": {
+  "type": "weapon",
+  "name": "天龙道剑",
+  "tier": "狐月",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 46,
+   "slash": 46,
+   "stab": 46,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 23,
+   "strength": 46,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_50": {
+  "type": "weapon",
+  "name": "开天血战斧",
+  "tier": "高级",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 20,
+   "slash": 20,
+   "stab": 20,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 10,
+   "slash": 10,
+   "stab": 10,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 10,
+   "strength": 20,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weaponmagic_7": {
+  "type": "weapon",
+  "name": "赤炼钩玄杖",
+  "tier": "狐月",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 46,
+   "slash": 46,
+   "stab": 46,
+   "archery": 0,
+   "magic": 46
+  },
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 23,
+   "strength": 0,
+   "archery": 0,
+   "magic": 46
+  }
+ },
+ "kd_weaponmagic_8": {
+  "type": "weapon",
+  "name": "碧海定潮扇",
+  "tier": "狐月",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 46,
+   "slash": 46,
+   "stab": 46,
+   "archery": 0,
+   "magic": 46
+  },
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 23,
+   "strength": 0,
+   "archery": 0,
+   "magic": 46
+  }
+ },
+ "kd_weapon_51": {
+  "type": "weapon",
+  "name": "圣龙霸刃",
+  "tier": "狐月",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 46,
+   "slash": 46,
+   "stab": 46,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 23,
+   "strength": 46,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weaponmagic_9": {
+  "type": "weapon",
+  "name": "&@灵火法杖",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 1
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 0,
+   "archery": 0,
+   "magic": 1
+  }
+ },
+ "kd_weaponmagic_10": {
+  "type": "weapon",
+  "name": "清风道扇",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 1
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 0,
+   "archery": 0,
+   "magic": 1
+  }
+ },
+ "kd_weapon_52": {
+  "type": "weapon",
+  "name": "霸世战刀",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weaponmagic_11": {
+  "type": "weapon",
+  "name": "幽冥魔杖",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 1
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 0,
+   "archery": 0,
+   "magic": 1
+  }
+ },
+ "kd_weapon_53": {
+  "type": "weapon",
+  "name": "玄尘灵剑",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_54": {
+  "type": "weapon",
+  "name": "狂狼战斧",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weaponmagic_12": {
+  "type": "weapon",
+  "name": "九天焚杖",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 1
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 0,
+   "archery": 0,
+   "magic": 1
+  }
+ },
+ "kd_weapon_55": {
+  "type": "weapon",
+  "name": "太虚道剑",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_56": {
+  "type": "weapon",
+  "name": "阴阳炎刃",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weaponmagic_13": {
+  "type": "weapon",
+  "name": "赤焰焚天杖",
+  "tier": "狐月",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 46,
+   "slash": 46,
+   "stab": 46,
+   "archery": 0,
+   "magic": 46
+  },
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 23,
+   "strength": 0,
+   "archery": 0,
+   "magic": 46
+  }
+ },
+ "kd_weaponmagic_14": {
+  "type": "weapon",
+  "name": "碧影青冥扇",
+  "tier": "狐月",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 46,
+   "slash": 46,
+   "stab": 46,
+   "archery": 0,
+   "magic": 46
+  },
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 23,
+   "strength": 0,
+   "archery": 0,
+   "magic": 46
+  }
+ },
+ "kd_weapon_57": {
+  "type": "weapon",
+  "name": "裂月战刃",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weaponmagic_15": {
+  "type": "weapon",
+  "name": "炎阳神杖",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 1
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 0,
+   "archery": 0,
+   "magic": 1
+  }
+ },
+ "kd_weaponmagic_16": {
+  "type": "weapon",
+  "name": "流金焚羽扇",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 1
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 0,
+   "archery": 0,
+   "magic": 1
+  }
+ },
+ "kd_chestplate_1": {
+  "type": "chestplate",
+  "name": "布衣(男)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_2": {
+  "type": "chestplate",
+  "name": "轻型盔甲(男)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_3": {
+  "type": "chestplate",
+  "name": "中型盔甲(男)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_4": {
+  "type": "chestplate",
+  "name": "重盔甲(男)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_5": {
+  "type": "chestplate",
+  "name": "魔法长袍(男)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_6": {
+  "type": "chestplate",
+  "name": "灵魂战衣(男)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_7": {
+  "type": "chestplate",
+  "name": "战神盔甲(男)",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_8": {
+  "type": "chestplate",
+  "name": "恶魔长袍(男)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_9": {
+  "type": "chestplate",
+  "name": "幽灵战衣(男)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_10": {
+  "type": "chestplate",
+  "name": "天魔战甲",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_11": {
+  "type": "chestplate",
+  "name": "法神披风",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_12": {
+  "type": "chestplate",
+  "name": "天尊道袍",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_13": {
+  "type": "chestplate",
+  "name": "强化战神盔甲(男)",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_14": {
+  "type": "chestplate",
+  "name": "强化恶魔长袍(男)",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_15": {
+  "type": "chestplate",
+  "name": "强化幽灵战衣(男)",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_16": {
+  "type": "chestplate",
+  "name": "至尊天魔战甲",
+  "tier": "主宰",
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 27,
+   "magic": 27
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_17": {
+  "type": "chestplate",
+  "name": "至尊法神披风",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_18": {
+  "type": "chestplate",
+  "name": "至尊天尊道袍",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_19": {
+  "type": "chestplate",
+  "name": "雷霆战甲(男)",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_20": {
+  "type": "chestplate",
+  "name": "凤天战甲(男)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_21": {
+  "type": "chestplate",
+  "name": "狂雷战甲(男)",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_22": {
+  "type": "chestplate",
+  "name": "逆魔法袍(男)",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_23": {
+  "type": "chestplate",
+  "name": "通云道袍(男)",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_24": {
+  "type": "chestplate",
+  "name": "天龙战甲(男)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_25": {
+  "type": "chestplate",
+  "name": "血战神威战甲(男)",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_26": {
+  "type": "chestplate",
+  "name": "钩玄烈焰法袍(男)",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_27": {
+  "type": "chestplate",
+  "name": "定潮沧澜道袍(男)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_28": {
+  "type": "chestplate",
+  "name": "圣龙神甲(男)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_29": {
+  "type": "chestplate",
+  "name": "赤焰法袍(男)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_30": {
+  "type": "chestplate",
+  "name": "青冥道袍(男)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_31": {
+  "type": "chestplate",
+  "name": "金羽战铠(男)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_32": {
+  "type": "chestplate",
+  "name": "焚天火袍(男)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_33": {
+  "type": "chestplate",
+  "name": "流霞道袍(男)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_34": {
+  "type": "chestplate",
+  "name": "炎龙战甲(男)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_35": {
+  "type": "chestplate",
+  "name": "九天炎袍(男)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_36": {
+  "type": "chestplate",
+  "name": "九霄道袍(男)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_37": {
+  "type": "chestplate",
+  "name": "圣皇神翼甲(男)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_38": {
+  "type": "chestplate",
+  "name": "焚天魔翼袍(男)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_39": {
+  "type": "chestplate",
+  "name": "碧霞仙翼袍(男)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_40": {
+  "type": "chestplate",
+  "name": "黑金至尊龙铠(男)",
+  "tier": "主宰",
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 27,
+   "magic": 27
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_41": {
+  "type": "chestplate",
+  "name": "布衣(女)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_42": {
+  "type": "chestplate",
+  "name": "轻型盔甲(女)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_43": {
+  "type": "chestplate",
+  "name": "中型盔甲(女)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_44": {
+  "type": "chestplate",
+  "name": "重盔甲(女)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_45": {
+  "type": "chestplate",
+  "name": "魔法长袍(女)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_46": {
+  "type": "chestplate",
+  "name": "灵魂战衣(女)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_47": {
+  "type": "chestplate",
+  "name": "战神盔甲(女)",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_48": {
+  "type": "chestplate",
+  "name": "恶魔长袍(女)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_49": {
+  "type": "chestplate",
+  "name": "幽灵战衣(女)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_50": {
+  "type": "chestplate",
+  "name": "圣战宝甲",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_51": {
+  "type": "chestplate",
+  "name": "霓裳羽衣",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_52": {
+  "type": "chestplate",
+  "name": "天师长袍",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_53": {
+  "type": "chestplate",
+  "name": "强化战神盔甲(女)",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_54": {
+  "type": "chestplate",
+  "name": "强化恶魔长袍(女)",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_55": {
+  "type": "chestplate",
+  "name": "强化幽灵战衣(女)",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_56": {
+  "type": "chestplate",
+  "name": "至尊圣战宝甲",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_57": {
+  "type": "chestplate",
+  "name": "至尊霓裳羽衣",
+  "tier": "主宰",
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 27,
+   "magic": 27
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_58": {
+  "type": "chestplate",
+  "name": "至尊天师长袍",
+  "tier": "主宰",
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 27,
+   "magic": 27
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_59": {
+  "type": "chestplate",
+  "name": "雷霆战衣(女)",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_60": {
+  "type": "chestplate",
+  "name": "凤天战衣(女)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_61": {
+  "type": "chestplate",
+  "name": "狂雷战衣(女)",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_62": {
+  "type": "chestplate",
+  "name": "逆魔法衣(女)",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_63": {
+  "type": "chestplate",
+  "name": "通云道衣(女)",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_64": {
+  "type": "chestplate",
+  "name": "天龙战衣(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_65": {
+  "type": "chestplate",
+  "name": "开天凤凰战铠(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_66": {
+  "type": "chestplate",
+  "name": "赤炼霓裳(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_67": {
+  "type": "chestplate",
+  "name": "汐月流仙裙(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_68": {
+  "type": "chestplate",
+  "name": "圣龙神衣(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_69": {
+  "type": "chestplate",
+  "name": "赤焰法衣(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_70": {
+  "type": "chestplate",
+  "name": "青冥道衣(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_71": {
+  "type": "chestplate",
+  "name": "金羽战衣(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_72": {
+  "type": "chestplate",
+  "name": "焚天火衣(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_73": {
+  "type": "chestplate",
+  "name": "流霞道衣(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_74": {
+  "type": "chestplate",
+  "name": "炎龙战衣(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_75": {
+  "type": "chestplate",
+  "name": "九天炎衣(女)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_76": {
+  "type": "chestplate",
+  "name": "九霄道衣(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_77": {
+  "type": "chestplate",
+  "name": "圣皇神翼衣(女)",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_78": {
+  "type": "chestplate",
+  "name": "焚天魔翼衣(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_79": {
+  "type": "chestplate",
+  "name": "碧霞仙翼衣(女)",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_chestplate_80": {
+  "type": "chestplate",
+  "name": "黑金至尊龙甲(女)",
+  "tier": "主宰",
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 27,
+   "magic": 27
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_58": {
+  "type": "weapon",
+  "name": "纆@",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_1": {
+  "type": "helmet",
+  "name": "`h@青铜头盔",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_2": {
+  "type": "helmet",
+  "name": "魔法头盔",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_3": {
+  "type": "helmet",
+  "name": "道士头盔",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_4": {
+  "type": "helmet",
+  "name": "骷髅头盔",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_5": {
+  "type": "helmet",
+  "name": "记忆头盔",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_6": {
+  "type": "helmet",
+  "name": "祈祷头盔",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_7": {
+  "type": "helmet",
+  "name": "黑铁头盔",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_8": {
+  "type": "helmet",
+  "name": "圣战头盔",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_9": {
+  "type": "helmet",
+  "name": "法神头盔",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_10": {
+  "type": "helmet",
+  "name": "天尊头盔",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_11": {
+  "type": "helmet",
+  "name": "雷霆头盔",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_12": {
+  "type": "helmet",
+  "name": "X獲烈焰头盔",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_13": {
+  "type": "helmet",
+  "name": "光芒头盔",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_14": {
+  "type": "helmet",
+  "name": "战神头盔",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_15": {
+  "type": "helmet",
+  "name": "圣魔头盔",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_16": {
+  "type": "helmet",
+  "name": "真魂头盔",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_17": {
+  "type": "helmet",
+  "name": "狂雷头盔",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_18": {
+  "type": "helmet",
+  "name": "逆魔头盔",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_19": {
+  "type": "helmet",
+  "name": "通云头盔",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_20": {
+  "type": "helmet",
+  "name": "金牛头盔",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_21": {
+  "type": "helmet",
+  "name": "星王头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_22": {
+  "type": "helmet",
+  "name": "青龙头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_23": {
+  "type": "helmet",
+  "name": "裂神头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_24": {
+  "type": "helmet",
+  "name": "传奇头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_25": {
+  "type": "helmet",
+  "name": "皓月头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_26": {
+  "type": "helmet",
+  "name": "破日头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_27": {
+  "type": "helmet",
+  "name": "幻月头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_28": {
+  "type": "helmet",
+  "name": "灵霄头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_29": {
+  "type": "helmet",
+  "name": "龙魂头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_30": {
+  "type": "helmet",
+  "name": "凤吟头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_31": {
+  "type": "helmet",
+  "name": "玄冥头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_32": {
+  "type": "helmet",
+  "name": "弑神头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_33": {
+  "type": "helmet",
+  "name": "天怒头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_34": {
+  "type": "helmet",
+  "name": "无为头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_35": {
+  "type": "helmet",
+  "name": "霸业头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_36": {
+  "type": "helmet",
+  "name": "九霄头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_37": {
+  "type": "helmet",
+  "name": "太初头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_helmet_38": {
+  "type": "helmet",
+  "name": "黑煞头盔",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_1": {
+  "type": "pendant",
+  "name": "金项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_2": {
+  "type": "pendant",
+  "name": "传统项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_3": {
+  "type": "pendant",
+  "name": "黄色水晶项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_4": {
+  "type": "pendant",
+  "name": "黑檀项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_5": {
+  "type": "pendant",
+  "name": "黑色水晶项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_6": {
+  "type": "pendant",
+  "name": "白色虎齿项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_7": {
+  "type": "pendant",
+  "name": "白金项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_8": {
+  "type": "pendant",
+  "name": "灯笼项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_9": {
+  "type": "pendant",
+  "name": "琥珀项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_10": {
+  "type": "pendant",
+  "name": "魔鬼项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_59": {
+  "type": "weapon",
+  "name": "凤凰明珠",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_11": {
+  "type": "pendant",
+  "name": "蓝翡翠项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_12": {
+  "type": "pendant",
+  "name": "竹笛",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_13": {
+  "type": "pendant",
+  "name": "放大镜",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_14": {
+  "type": "pendant",
+  "name": "幽灵项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_15": {
+  "type": "pendant",
+  "name": "绿色项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_16": {
+  "type": "pendant",
+  "name": "灵魂项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_60": {
+  "type": "weapon",
+  "name": "恶魔铃铛",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_17": {
+  "type": "pendant",
+  "name": "魔血项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_18": {
+  "type": "pendant",
+  "name": "虹魔项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_19": {
+  "type": "pendant",
+  "name": "狂风项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_61": {
+  "type": "weapon",
+  "name": "躲避手链",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_20": {
+  "type": "pendant",
+  "name": "祈祷项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_21": {
+  "type": "pendant",
+  "name": "记忆项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_22": {
+  "type": "pendant",
+  "name": "圣战项链",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_23": {
+  "type": "pendant",
+  "name": "法神项链",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_24": {
+  "type": "pendant",
+  "name": "天尊项链",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_25": {
+  "type": "pendant",
+  "name": "天珠项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_26": {
+  "type": "pendant",
+  "name": "生命项链",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_27": {
+  "type": "pendant",
+  "name": "雷霆项链",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_28": {
+  "type": "pendant",
+  "name": "烈焰项链",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_29": {
+  "type": "pendant",
+  "name": "光芒项链",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_30": {
+  "type": "pendant",
+  "name": "战神项链",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_31": {
+  "type": "pendant",
+  "name": "圣魔项链",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_32": {
+  "type": "pendant",
+  "name": "真魂项链",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_33": {
+  "type": "pendant",
+  "name": "狂雷项链",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_34": {
+  "type": "pendant",
+  "name": "逆魔项链",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_35": {
+  "type": "pendant",
+  "name": "通云项链",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_36": {
+  "type": "pendant",
+  "name": "金牛项链",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_37": {
+  "type": "pendant",
+  "name": "星王项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_38": {
+  "type": "pendant",
+  "name": "青龙项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_39": {
+  "type": "pendant",
+  "name": "裂神项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_40": {
+  "type": "pendant",
+  "name": "传奇项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_41": {
+  "type": "pendant",
+  "name": "皓月项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_42": {
+  "type": "pendant",
+  "name": "破日项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_43": {
+  "type": "pendant",
+  "name": "幻月项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_44": {
+  "type": "pendant",
+  "name": "灵霄项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_45": {
+  "type": "pendant",
+  "name": "龙魂项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_46": {
+  "type": "pendant",
+  "name": "凤吟项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_47": {
+  "type": "pendant",
+  "name": "玄冥项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_48": {
+  "type": "pendant",
+  "name": "弑神项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_49": {
+  "type": "pendant",
+  "name": "天怒项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_50": {
+  "type": "pendant",
+  "name": "无为项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_51": {
+  "type": "pendant",
+  "name": "霸业项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_52": {
+  "type": "pendant",
+  "name": "九霄项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_53": {
+  "type": "pendant",
+  "name": "太初项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_pendant_54": {
+  "type": "pendant",
+  "name": "黑煞项链",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_1": {
+  "type": "ring",
+  "name": "古铜戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_2": {
+  "type": "ring",
+  "name": "玻璃戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_3": {
+  "type": "ring",
+  "name": "六角戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_4": {
+  "type": "ring",
+  "name": "牛角戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_5": {
+  "type": "ring",
+  "name": "蓝色水晶戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_6": {
+  "type": "ring",
+  "name": "生铁戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_7": {
+  "type": "ring",
+  "name": "珍珠戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_8": {
+  "type": "ring",
+  "name": "黑色水晶戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_9": {
+  "type": "ring",
+  "name": "蛇眼戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_10": {
+  "type": "ring",
+  "name": "金戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_11": {
+  "type": "ring",
+  "name": "道德戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_12": {
+  "type": "ring",
+  "name": "魅力戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_13": {
+  "type": "ring",
+  "name": "降妖除魔戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_14": {
+  "type": "ring",
+  "name": "铂金戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_15": {
+  "type": "ring",
+  "name": "骷髅戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_16": {
+  "type": "ring",
+  "name": "珊瑚戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_17": {
+  "type": "ring",
+  "name": "虹魔戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_18": {
+  "type": "ring",
+  "name": "红宝石戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_19": {
+  "type": "ring",
+  "name": "龙之戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_20": {
+  "type": "ring",
+  "name": "狂风戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_21": {
+  "type": "ring",
+  "name": "泰坦戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_22": {
+  "type": "ring",
+  "name": "力量戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_62": {
+  "type": "weapon",
+  "name": "紫碧螺",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_23": {
+  "type": "ring",
+  "name": "祈祷戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_24": {
+  "type": "ring",
+  "name": "记忆戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_25": {
+  "type": "ring",
+  "name": "魔血戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_26": {
+  "type": "ring",
+  "name": "圣战戒指",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_27": {
+  "type": "ring",
+  "name": "法神戒指",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_28": {
+  "type": "ring",
+  "name": "天尊戒指",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_29": {
+  "type": "ring",
+  "name": "雷霆戒指",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_30": {
+  "type": "ring",
+  "name": "烈焰戒指",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_31": {
+  "type": "ring",
+  "name": "光芒戒指",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_32": {
+  "type": "ring",
+  "name": "战神戒指",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_33": {
+  "type": "ring",
+  "name": "圣魔戒指",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_34": {
+  "type": "ring",
+  "name": "真魂戒指",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_35": {
+  "type": "ring",
+  "name": "狂雷戒指",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_36": {
+  "type": "ring",
+  "name": "逆魔戒指",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_37": {
+  "type": "ring",
+  "name": "通云戒指",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_38": {
+  "type": "ring",
+  "name": "金牛戒指",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_39": {
+  "type": "ring",
+  "name": "星王戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_40": {
+  "type": "ring",
+  "name": "青龙戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_41": {
+  "type": "ring",
+  "name": "裂神戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_42": {
+  "type": "ring",
+  "name": "传奇戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_43": {
+  "type": "ring",
+  "name": "皓月戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_44": {
+  "type": "ring",
+  "name": "破日戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_45": {
+  "type": "ring",
+  "name": "幻月戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_46": {
+  "type": "ring",
+  "name": "灵霄戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_47": {
+  "type": "ring",
+  "name": "龙魂戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_48": {
+  "type": "ring",
+  "name": "凤吟戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_49": {
+  "type": "ring",
+  "name": "玄冥戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_50": {
+  "type": "ring",
+  "name": "弑神戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_51": {
+  "type": "ring",
+  "name": "天怒戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_52": {
+  "type": "ring",
+  "name": "无为戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_53": {
+  "type": "ring",
+  "name": "霸业戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_54": {
+  "type": "ring",
+  "name": "九霄戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_55": {
+  "type": "ring",
+  "name": "太初戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_56": {
+  "type": "ring",
+  "name": "黑煞戒指",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_1": {
+  "type": "bracelet",
+  "name": "铁手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_2": {
+  "type": "bracelet",
+  "name": "小手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_3": {
+  "type": "bracelet",
+  "name": "银手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_4": {
+  "type": "bracelet",
+  "name": "大手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_5": {
+  "type": "bracelet",
+  "name": "钢手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_6": {
+  "type": "bracelet",
+  "name": "魔法手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_7": {
+  "type": "bracelet",
+  "name": "夏普儿手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_8": {
+  "type": "bracelet",
+  "name": "辟邪手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_9": {
+  "type": "bracelet",
+  "name": "道士手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_10": {
+  "type": "bracelet",
+  "name": "黑檀手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_11": {
+  "type": "bracelet",
+  "name": "魔力手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_12": {
+  "type": "bracelet",
+  "name": "金手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_13": {
+  "type": "bracelet",
+  "name": "心灵手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_14": {
+  "type": "bracelet",
+  "name": "三眼手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_15": {
+  "type": "bracelet",
+  "name": "思贝儿手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_16": {
+  "type": "bracelet",
+  "name": "龙之手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_17": {
+  "type": "bracelet",
+  "name": "骑士手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_18": {
+  "type": "bracelet",
+  "name": "魔血手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_19": {
+  "type": "bracelet",
+  "name": "虹魔手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_20": {
+  "type": "bracelet",
+  "name": "皮制手套",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_21": {
+  "type": "bracelet",
+  "name": "坚固手套",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_22": {
+  "type": "bracelet",
+  "name": "死神手套",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_23": {
+  "type": "bracelet",
+  "name": "幽灵手套",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_24": {
+  "type": "bracelet",
+  "name": "阎罗手套",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_25": {
+  "type": "bracelet",
+  "name": "祈祷手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_26": {
+  "type": "bracelet",
+  "name": "记忆手镯",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_27": {
+  "type": "bracelet",
+  "name": "圣战手镯",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_28": {
+  "type": "bracelet",
+  "name": "法神手镯",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_29": {
+  "type": "bracelet",
+  "name": "天尊手镯",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_30": {
+  "type": "bracelet",
+  "name": "雷霆护腕",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_31": {
+  "type": "bracelet",
+  "name": "烈焰护腕",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_32": {
+  "type": "bracelet",
+  "name": "光芒护腕",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_33": {
+  "type": "bracelet",
+  "name": "战神手镯",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_34": {
+  "type": "bracelet",
+  "name": "圣魔手镯",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_35": {
+  "type": "bracelet",
+  "name": "真魂手镯",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_36": {
+  "type": "bracelet",
+  "name": "狂雷手镯",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_37": {
+  "type": "bracelet",
+  "name": "逆魔手镯",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_38": {
+  "type": "bracelet",
+  "name": "通云手镯",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_39": {
+  "type": "bracelet",
+  "name": "金牛手镯",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_40": {
+  "type": "bracelet",
+  "name": "星王手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_41": {
+  "type": "bracelet",
+  "name": "青龙手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_42": {
+  "type": "bracelet",
+  "name": "裂神手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_43": {
+  "type": "bracelet",
+  "name": "传奇手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_44": {
+  "type": "bracelet",
+  "name": "皓月手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_45": {
+  "type": "bracelet",
+  "name": "破日手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_46": {
+  "type": "bracelet",
+  "name": "幻月手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_47": {
+  "type": "bracelet",
+  "name": "灵霄手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_48": {
+  "type": "bracelet",
+  "name": "龙魂手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_49": {
+  "type": "bracelet",
+  "name": "凤吟手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_50": {
+  "type": "bracelet",
+  "name": "玄冥手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_51": {
+  "type": "bracelet",
+  "name": "弑神手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_52": {
+  "type": "bracelet",
+  "name": "天怒手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_53": {
+  "type": "bracelet",
+  "name": "无为手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_54": {
+  "type": "bracelet",
+  "name": "霸业手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_55": {
+  "type": "bracelet",
+  "name": "九霄手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_56": {
+  "type": "bracelet",
+  "name": "太初手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_bracelet_57": {
+  "type": "bracelet",
+  "name": "黑煞手镯",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_63": {
+  "type": "weapon",
+  "name": "荣誉勋章11号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_64": {
+  "type": "weapon",
+  "name": "荣誉勋章12号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_65": {
+  "type": "weapon",
+  "name": "荣誉勋章13号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_66": {
+  "type": "weapon",
+  "name": "荣誉勋章14号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_67": {
+  "type": "weapon",
+  "name": "荣誉勋章15号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_68": {
+  "type": "weapon",
+  "name": "荣誉勋章21号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_69": {
+  "type": "weapon",
+  "name": "荣誉勋章22号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_70": {
+  "type": "weapon",
+  "name": "荣誉勋章23号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_71": {
+  "type": "weapon",
+  "name": "荣誉勋章24号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_72": {
+  "type": "weapon",
+  "name": "荣誉勋章25号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_73": {
+  "type": "weapon",
+  "name": "荣誉勋章31号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_74": {
+  "type": "weapon",
+  "name": "荣誉勋章32号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_75": {
+  "type": "weapon",
+  "name": "荣誉勋章33号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_76": {
+  "type": "weapon",
+  "name": "荣誉勋章34号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_77": {
+  "type": "weapon",
+  "name": "荣誉勋章35号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_78": {
+  "type": "weapon",
+  "name": "荣誉勋章41号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_79": {
+  "type": "weapon",
+  "name": "荣誉勋章42号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_80": {
+  "type": "weapon",
+  "name": "荣誉勋章43号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_81": {
+  "type": "weapon",
+  "name": "荣誉勋章44号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_82": {
+  "type": "weapon",
+  "name": "荣誉勋章45号",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_medal_1": {
+  "type": "medal",
+  "name": "圣战勋章",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_medal_2": {
+  "type": "medal",
+  "name": "法神勋章",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_medal_3": {
+  "type": "medal",
+  "name": "天尊勋章",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_medal_4": {
+  "type": "medal",
+  "name": "玄铁勋章",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_medal_5": {
+  "type": "medal",
+  "name": "黄金勋章",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_medal_6": {
+  "type": "medal",
+  "name": "赤金勋章",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_medal_7": {
+  "type": "medal",
+  "name": "白金勋章",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_medal_8": {
+  "type": "medal",
+  "name": "耀金勋章",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_1": {
+  "type": "belt",
+  "name": "Pw@兽皮腰带",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_2": {
+  "type": "belt",
+  "name": "铁质腰带",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_3": {
+  "type": "belt",
+  "name": "青铜腰带",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_4": {
+  "type": "belt",
+  "name": "钢铁腰带",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_5": {
+  "type": "belt",
+  "name": "圣战腰带",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_6": {
+  "type": "belt",
+  "name": "法神腰带",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_7": {
+  "type": "belt",
+  "name": "天尊腰带",
+  "tier": "赤月",
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 9,
+   "magic": 9
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_8": {
+  "type": "belt",
+  "name": "雷霆腰带",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_9": {
+  "type": "belt",
+  "name": "烈焰腰带",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_10": {
+  "type": "belt",
+  "name": "光芒腰带",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_11": {
+  "type": "belt",
+  "name": "战神腰带",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_12": {
+  "type": "belt",
+  "name": "圣魔腰带",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_13": {
+  "type": "belt",
+  "name": "真魂腰带",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_14": {
+  "type": "belt",
+  "name": "狂雷腰带",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_15": {
+  "type": "belt",
+  "name": "逆魔腰带",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_16": {
+  "type": "belt",
+  "name": "通云腰带",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_17": {
+  "type": "belt",
+  "name": "金牛腰带",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_18": {
+  "type": "belt",
+  "name": "星王腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_19": {
+  "type": "belt",
+  "name": "青龙腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_20": {
+  "type": "belt",
+  "name": "裂神腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_21": {
+  "type": "belt",
+  "name": "传奇腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_22": {
+  "type": "belt",
+  "name": "皓月腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_23": {
+  "type": "belt",
+  "name": "破日腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_24": {
+  "type": "belt",
+  "name": "幻月腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_25": {
+  "type": "belt",
+  "name": "灵霄腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_26": {
+  "type": "belt",
+  "name": "龙魂腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_27": {
+  "type": "belt",
+  "name": "凤吟腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_28": {
+  "type": "belt",
+  "name": "玄冥腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_29": {
+  "type": "belt",
+  "name": "弑神腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_30": {
+  "type": "belt",
+  "name": "天怒腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_31": {
+  "type": "belt",
+  "name": "无为腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_32": {
+  "type": "belt",
+  "name": "霸业腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_33": {
+  "type": "belt",
+  "name": "九霄腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_34": {
+  "type": "belt",
+  "name": "太初腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_belt_35": {
+  "type": "belt",
+  "name": "黑煞腰带",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_1": {
+  "type": "boots",
+  "name": "布靴",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_2": {
+  "type": "boots",
+  "name": "鹿皮靴",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_3": {
+  "type": "boots",
+  "name": "紫绸靴",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_4": {
+  "type": "boots",
+  "name": "避魂靴",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_83": {
+  "type": "weapon",
+  "name": "圣战靴",
+  "tier": "赤月",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 18,
+   "slash": 18,
+   "stab": 18,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 9,
+   "strength": 18,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_84": {
+  "type": "weapon",
+  "name": "法神靴",
+  "tier": "赤月",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 18,
+   "slash": 18,
+   "stab": 18,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 9,
+   "strength": 18,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_85": {
+  "type": "weapon",
+  "name": "天尊靴",
+  "tier": "赤月",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 18,
+   "slash": 18,
+   "stab": 18,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 9,
+   "slash": 9,
+   "stab": 9,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 9,
+   "strength": 18,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_5": {
+  "type": "boots",
+  "name": "雷霆靴子",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_6": {
+  "type": "boots",
+  "name": "烈焰靴子",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_7": {
+  "type": "boots",
+  "name": "光芒靴子",
+  "tier": "魔龙",
+  "defenseStats": {
+   "crush": 12,
+   "slash": 12,
+   "stab": 12,
+   "archery": 12,
+   "magic": 12
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_8": {
+  "type": "boots",
+  "name": "战神靴子",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_9": {
+  "type": "boots",
+  "name": "圣魔靴子",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_10": {
+  "type": "boots",
+  "name": "真魂靴子",
+  "tier": "雷炎",
+  "defenseStats": {
+   "crush": 15,
+   "slash": 15,
+   "stab": 15,
+   "archery": 15,
+   "magic": 15
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_11": {
+  "type": "boots",
+  "name": "狂雷靴子",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_12": {
+  "type": "boots",
+  "name": "逆魔靴子",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_13": {
+  "type": "boots",
+  "name": "通云靴子",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_14": {
+  "type": "boots",
+  "name": "金牛靴子",
+  "tier": "火龙",
+  "defenseStats": {
+   "crush": 19,
+   "slash": 19,
+   "stab": 19,
+   "archery": 19,
+   "magic": 19
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_15": {
+  "type": "boots",
+  "name": "星王靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_16": {
+  "type": "boots",
+  "name": "青龙靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_17": {
+  "type": "boots",
+  "name": "裂神靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_18": {
+  "type": "boots",
+  "name": "传奇靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_19": {
+  "type": "boots",
+  "name": "皓月靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_20": {
+  "type": "boots",
+  "name": "破日靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_21": {
+  "type": "boots",
+  "name": "幻月靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_22": {
+  "type": "boots",
+  "name": "灵霄靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_23": {
+  "type": "boots",
+  "name": "龙魂靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_24": {
+  "type": "boots",
+  "name": "凤吟靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_25": {
+  "type": "boots",
+  "name": "玄冥靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_26": {
+  "type": "boots",
+  "name": "弑神靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_27": {
+  "type": "boots",
+  "name": "天怒靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_28": {
+  "type": "boots",
+  "name": "无为靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_29": {
+  "type": "boots",
+  "name": "霸业靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_30": {
+  "type": "boots",
+  "name": "九霄靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_31": {
+  "type": "boots",
+  "name": "太初靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_boots_32": {
+  "type": "boots",
+  "name": "黑煞靴子",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_86": {
+  "type": "weapon",
+  "name": "红宝石(小)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_87": {
+  "type": "weapon",
+  "name": "红宝石(中)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_88": {
+  "type": "weapon",
+  "name": "红宝石(大)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_89": {
+  "type": "weapon",
+  "name": "红宝石(超)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_90": {
+  "type": "weapon",
+  "name": "红宝石(极)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_91": {
+  "type": "weapon",
+  "name": "紫宝石(小)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_92": {
+  "type": "weapon",
+  "name": "紫宝石(中)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_93": {
+  "type": "weapon",
+  "name": "紫宝石(大)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_94": {
+  "type": "weapon",
+  "name": "紫宝石(超)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_95": {
+  "type": "weapon",
+  "name": "紫宝石(极)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_96": {
+  "type": "weapon",
+  "name": "绿宝石(小)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_97": {
+  "type": "weapon",
+  "name": "绿宝石(中)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_98": {
+  "type": "weapon",
+  "name": "绿宝石(大)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_99": {
+  "type": "weapon",
+  "name": "绿宝石(超)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_100": {
+  "type": "weapon",
+  "name": "绿宝石(极)",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_enchant_477": {
+  "type": "object",
+  "name": "一阶·绿灵玉",
+  "tier": "新手",
+  "description": "口袋传奇物品"
+ },
+ "kd_enchant_478": {
+  "type": "object",
+  "name": "二阶·碧灵玉",
+  "tier": "新手",
+  "description": "口袋传奇物品"
+ },
+ "kd_enchant_479": {
+  "type": "object",
+  "name": "三阶·青灵玉",
+  "tier": "新手",
+  "description": "口袋传奇物品"
+ },
+ "kd_enchant_480": {
+  "type": "object",
+  "name": "四阶·翠灵玉",
+  "tier": "新手",
+  "description": "口袋传奇物品"
+ },
+ "kd_enchant_481": {
+  "type": "object",
+  "name": "五阶·玄灵玉",
+  "tier": "新手",
+  "description": "口袋传奇物品"
+ },
+ "kd_enchant_482": {
+  "type": "object",
+  "name": "六阶·苍灵玉",
+  "tier": "新手",
+  "description": "口袋传奇物品"
+ },
+ "kd_weapon_101": {
+  "type": "weapon",
+  "name": "七阶·盘龙玉",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_102": {
+  "type": "weapon",
+  "name": "八阶·龙吟玉",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_103": {
+  "type": "weapon",
+  "name": "九阶·龙魂玉",
+  "tier": "狐月",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 46,
+   "slash": 46,
+   "stab": 46,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 23,
+   "strength": 46,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_104": {
+  "type": "weapon",
+  "name": "十阶·万古玉",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weaponmagic_17": {
+  "type": "weapon",
+  "name": "追魂剑灵(",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 1
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 0,
+   "archery": 0,
+   "magic": 1
+  }
+ },
+ "kd_weapon_105": {
+  "type": "weapon",
+  "name": "召唤一把飞剑自动御敌,CD:1s",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_106": {
+  "type": "weapon",
+  "name": "召唤两把飞剑自动御敌,CD:1s",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_107": {
+  "type": "weapon",
+  "name": "召唤三把飞剑自动御敌,CD:1s",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weaponmagic_18": {
+  "type": "weapon",
+  "name": "炎阳飞星环(",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 1
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 0,
+   "archery": 0,
+   "magic": 1
+  }
+ },
+ "kd_weapon_108": {
+  "type": "weapon",
+  "name": "点,CD:1s",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_109": {
+  "type": "weapon",
+  "name": "自动对敌人发射一枚火球,窃取法力",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_110": {
+  "type": "weapon",
+  "name": "自动对敌人发射两枚火球,窃取法力",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_111": {
+  "type": "weapon",
+  "name": "自动对敌人发射三枚火球,窃取法力",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_112": {
+  "type": "weapon",
+  "name": "金光神符(",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_113": {
+  "type": "weapon",
+  "name": "凝聚一道神符攻击,汲取生命",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_114": {
+  "type": "weapon",
+  "name": "凝聚两道神符攻击,汲取生命",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_weapon_115": {
+  "type": "weapon",
+  "name": "凝聚三道神符攻击,汲取生命",
+  "tier": "新手",
+  "weaponType": "sword",
+  "attackStats": {
+   "crush": 1,
+   "slash": 1,
+   "stab": 1,
+   "archery": 0,
+   "magic": 0
+  },
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 1,
+   "strength": 1,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_57": {
+  "type": "ring",
+  "name": "防御戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_58": {
+  "type": "ring",
+  "name": "超负载戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_59": {
+  "type": "ring",
+  "name": "火焰戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_60": {
+  "type": "ring",
+  "name": "传送戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_61": {
+  "type": "ring",
+  "name": "隐身戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_62": {
+  "type": "ring",
+  "name": "麻痹戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_63": {
+  "type": "ring",
+  "name": "护身戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_64": {
+  "type": "ring",
+  "name": "复活戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_65": {
+  "type": "ring",
+  "name": "战意麻痹戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_66": {
+  "type": "ring",
+  "name": "战意护身戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_67": {
+  "type": "ring",
+  "name": "战意复活戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_68": {
+  "type": "ring",
+  "name": "聚魔麻痹戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_69": {
+  "type": "ring",
+  "name": "聚魔护身戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_70": {
+  "type": "ring",
+  "name": "聚魔复活戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_71": {
+  "type": "ring",
+  "name": "八卦麻痹戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_72": {
+  "type": "ring",
+  "name": "八卦护身戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_73": {
+  "type": "ring",
+  "name": "八卦复活戒指",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_74": {
+  "type": "ring",
+  "name": "主宰麻痹戒指",
+  "tier": "主宰",
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 27,
+   "magic": 27
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_75": {
+  "type": "ring",
+  "name": "主宰护身戒指",
+  "tier": "主宰",
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 27,
+   "magic": 27
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_76": {
+  "type": "ring",
+  "name": "主宰复活戒指",
+  "tier": "主宰",
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 27,
+   "magic": 27
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_77": {
+  "type": "ring",
+  "name": "至尊麻痹戒指",
+  "tier": "主宰",
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 27,
+   "magic": 27
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_78": {
+  "type": "ring",
+  "name": "至尊护身戒指",
+  "tier": "主宰",
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 27,
+   "magic": 27
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_ring_79": {
+  "type": "ring",
+  "name": "至尊复活戒指",
+  "tier": "主宰",
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 27,
+   "magic": 27
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_shield_1": {
+  "type": "shield",
+  "name": "粗木卫盾",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_shield_2": {
+  "type": "shield",
+  "name": "玄铁棱盾",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_shield_3": {
+  "type": "shield",
+  "name": "冰魄寒盾",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_shield_4": {
+  "type": "shield",
+  "name": "赤焰重盾",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_shield_5": {
+  "type": "shield",
+  "name": "圣武尊盾",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_shield_6": {
+  "type": "shield",
+  "name": "紫晶玄盾",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_shield_7": {
+  "type": "shield",
+  "name": "血煞魔盾",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_shield_8": {
+  "type": "shield",
+  "name": "霜龙魂盾",
+  "tier": "狐月",
+  "defenseStats": {
+   "crush": 23,
+   "slash": 23,
+   "stab": 23,
+   "archery": 23,
+   "magic": 23
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_shield_9": {
+  "type": "shield",
+  "name": "凤涅神盾",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_hat_1": {
+  "type": "hat",
+  "name": "草笠",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_hat_2": {
+  "type": "hat",
+  "name": "青铜斗笠",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_hat_3": {
+  "type": "hat",
+  "name": "白银斗笠",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_hat_4": {
+  "type": "hat",
+  "name": "铂金斗笠",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_hat_5": {
+  "type": "hat",
+  "name": "黄金斗笠",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_hat_6": {
+  "type": "hat",
+  "name": "王者斗笠",
+  "tier": "新手",
+  "defenseStats": {
+   "crush": 0,
+   "slash": 0,
+   "stab": 0,
+   "archery": 0,
+   "magic": 0
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_hat_7": {
+  "type": "hat",
+  "name": "主宰斗笠",
+  "tier": "主宰",
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 27,
+   "magic": 27
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_hat_8": {
+  "type": "hat",
+  "name": "至尊斗笠",
+  "tier": "主宰",
+  "defenseStats": {
+   "crush": 27,
+   "slash": 27,
+   "stab": 27,
+   "archery": 27,
+   "magic": 27
+  },
+  "bonuses": {
+   "accuracy": 0,
+   "strength": 0,
+   "archery": 0,
+   "magic": 0
+  }
+ },
+ "kd_soulbead_540": {
+  "type": "object",
+  "name": "十年魂珠",
+  "tier": "新手",
+  "description": "口袋传奇物品"
+ },
+ "kd_soulbead_541": {
+  "type": "object",
+  "name": "百年魂珠",
+  "tier": "新手",
+  "description": "口袋传奇物品"
+ },
+ "kd_soulbead_542": {
+  "type": "object",
+  "name": "千年魂珠",
+  "tier": "新手",
+  "description": "口袋传奇物品"
+ },
+ "kd_soulbead_543": {
+  "type": "object",
+  "name": "万年魂珠",
+  "tier": "新手",
+  "description": "口袋传奇物品"
+ },
+ "kd_soulbead_544": {
+  "type": "object",
+  "name": "十万年魂珠",
+  "tier": "新手",
+  "description": "口袋传奇物品"
+ }
+}

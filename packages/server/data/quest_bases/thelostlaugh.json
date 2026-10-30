@@ -1,0 +1,46 @@
+{
+    "name": "失落的笑声",
+    "description": "喜剧解围。|弄臣杰斯汀失去了笑的能力！找到那根能让他重拾欢乐的痒痒羽毛。",
+    "rewards": ["giggly-potion", "jester-boots"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "jesterjestin",
+            "text": [
+                "悲哉我啊！我的笑声、我的欢乐，全没了！",
+                "传说一根神奇的痒痒羽毛能把它唤回来。",
+                "能劳驾你帮我找到它吗？"
+            ],
+            "completedText": ["寻找传说中的痒痒羽毛。"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "oldchicken",
+            "text": ["咯咯！哦，那根痒痒羽毛？我可能有……", "但我得先来点虫子。咯咯！"],
+            "completedText": ["给那只老公鸡抓些虫子。"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "jesterjestin",
+            "text": [
+                "哈！就是这个！我已经想咯咯笑了！",
+                "这是一瓶分享欢笑的药水和几双弄臣靴。"
+            ],
+            "itemRewards": [
+                {
+                    "key": "giggly-potion",
+                    "count": 1
+                },
+                {
+                    "key": "jester-boots",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@多亏了你，弄臣杰斯汀的笑声回来了！用@crimson@咯咯药水@green@散播欢笑，穿上你的新弄臣靴吧。",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

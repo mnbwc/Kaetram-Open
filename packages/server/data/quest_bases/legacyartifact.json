@@ -1,0 +1,92 @@
+{
+    "name": "传承神器",
+    "description": "古老传说中，一件威力无穷的神器被撕碎四散。只要集齐碎片重新熔铸，便有不可想象的力量。接受这个挑战，运用你多方面的技能，让神器重现于世。",
+    "rewards": ["神灯"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "elderMage",
+            "text": [
+                "你好，冒险者。传说中有一件威力无穷的神器，",
+                "它需要精通多种技能才能复原。",
+                "第一部分是元素矿石，一种埋藏在",
+                "的大地深处。去开采它，我们才能踏上旅程。"
+            ],
+            "completedText": ["找到元素矿石了吗？"]
+        },
+        "1": {
+            "task": "mine",
+            "itemRequirements": [
+                {
+                    "key": "elementalore",
+                    "count": 1
+                }
+            ],
+            "nextStage": "Using the elemental ore, you must now combine it with your knowledge of smithing to forge the Elemental Blade Base.",
+            "popup": {
+                "title": "阶段完成！",
+                "text": "@green@你开采出了@crimson@元素矿石@green@。进行下一步，锻造剑基。",
+                "colour": "#33cc33"
+            }
+        },
+        "2": {
+            "task": "smith",
+            "itemRequirements": [
+                {
+                    "key": "elementalbladebase",
+                    "count": 1
+                }
+            ],
+            "nextStage": "With the Elemental Blade Base crafted, it's time to move onto fletching. Craft an Elemental Bowstring using ancient woods.",
+            "popup": {
+                "title": "阶段完成！",
+                "text": "@green@你锻造出了@crimson@元素剑基@green@。进行下一步，制作弓弦。",
+                "colour": "#33cc33"
+            }
+        },
+        "3": {
+            "task": "fletch",
+            "itemRequirements": [
+                {
+                    "key": "elementalbowstring",
+                    "count": 1
+                }
+            ],
+            "nextStage": "Now that you have the Elemental Bowstring, combine it with the Blade Base to create the Elemental Bow Frame using crafting.",
+            "popup": {
+                "title": "阶段完成！",
+                "text": "@green@你制作出了@crimson@元素弓弦@green@。进行下一步，打造弓身。",
+                "colour": "#33cc33"
+            }
+        },
+        "4": {
+            "task": "craft",
+            "itemRequirements": [
+                {
+                    "key": "elementalbowframe",
+                    "count": 1
+                }
+            ],
+            "nextStage": "With the Elemental Bow Frame in hand, the final step is to infuse it with magic using alchemy to unlock its true potential.",
+            "popup": {
+                "title": "阶段完成！",
+                "text": "@green@你打造出了@crimson@元素弓身@green@。进行最后一步，为它注入魔法。",
+                "colour": "#33cc33"
+            }
+        },
+        "5": {
+            "task": "alchemy",
+            "itemRequirements": [
+                {
+                    "key": "legacyartifact",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@恭喜！你成功组合了所有部件，打造出@crimson@传承神器@green@。作为奖励，你获得了一盏@crimson@神灯@green@！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

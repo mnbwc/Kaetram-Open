@@ -1,0 +1,107 @@
+{
+    "name": "王室宠物",
+    "description": "国王需要你帮忙把这个好消息告知 Kaetram 的民众。|国王亲自点名要你——对，就是你——替他跑几趟腿。你得送送东西什么的。其实，与其读这段描述剧透，不如直接去找他谈。所谓惊喜嘛，就是让你满世界跑腿干些无聊的事。不过无所谓，谁在乎呢，你注册这游戏不就是为了这个吗？还是说你本来想肝级，结果收集癖发作非要清掉这些无用的任务？唉算了，这段描述已经够长了。",
+    "rewards": ["一只可爱的宠物小猫"],
+    "questRequirements": ["royaldrama"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "king",
+            "text": [
+                "你好， fellow 傻瓜——我是说，冒险者。",
+                "我必须把这个好消息告诉 Kaetram 的居民",
+                "我有一堆书必须发出去。能不能劳驾你",
+                "把这些交给 Kaetram 的居民们。",
+                "城里和沼泽里应该各有几个。"
+            ],
+            "completedText": [
+                "请把这些书交给 Kaetram 的居民。它们就在",
+                "城里各处和沼泽里。"
+            ],
+            "itemRewards": [
+                {
+                    "key": "book",
+                    "count": 3
+                }
+            ]
+        },
+        "1": {
+            "task": "talk",
+            "subStages": [
+                {
+                    "task": "talk",
+                    "npc": "shepherdboy",
+                    "text": ["哦，你好啊，冒险者！"],
+                    "hasItemText": [
+                        "你好啊，冒险者！",
+                        "哦，你有国王的书？",
+                        "他又在雇路人发小册子了？",
+                        "唉，那我勉为其难收下吧。"
+                    ],
+                    "completedText": ["那本书嘛，还是谢谢了。"],
+                    "itemRequirements": [
+                        {
+                            "key": "book",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "task": "talk",
+                    "npc": "redbikinigirlnpc",
+                    "text": ["哦，你好！"],
+                    "hasItemText": [
+                        "哦，你好，你在这儿干嘛？",
+                        "哦，你又有国王的宣传——我是说，消息了？",
+                        "好吧，那我还是谢谢你……"
+                    ],
+                    "completedText": ["哦，你好，冒险者。"],
+                    "itemRequirements": [
+                        {
+                            "key": "book",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "task": "talk",
+                    "npc": "fisherman",
+                    "text": ["哦，你好啊，冒险者！"],
+                    "hasItemText": [
+                        "哦，你好，你在这儿干嘛？",
+                        "哦，你又有国王的宣传——我是说，消息了？",
+                        "好吧，那我还是谢谢你……"
+                    ],
+                    "completedText": ["哦，你好，冒险者。"],
+                    "itemRequirements": [
+                        {
+                            "key": "book",
+                            "count": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "king",
+            "text": [
+                "谢谢你把书送到了，冒险者。",
+                "我有一份特别的奖励给你。",
+                "我有只可爱的小猫想送给你。",
+                "希望你喜欢。"
+            ],
+            "itemRewards": [
+                {
+                    "key": "catpet",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@王室宠物@green@。你获得了一只可爱的宠物小猫！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

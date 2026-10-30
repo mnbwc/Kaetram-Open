@@ -1,0 +1,246 @@
+{
+    "oak": {
+        "name": "橡树",
+        "levelRequirement": 1,
+        "experience": 10,
+        "difficulty": 10,
+        "item": "logs",
+        "randomItems": [
+            {
+                "key": "apple",
+                "chance": 800
+            }
+        ]
+    },
+    "tutorialoak": {
+        "name": "橡树",
+        "levelRequirement": 1,
+        "experience": 10,
+        "difficulty": 2,
+        "item": "logs",
+        "quest": "tutorial"
+    },
+
+    "spruce": {
+        "name": "云杉",
+        "levelRequirement": 10,
+        "experience": 24,
+        "difficulty": 30,
+        "item": "logs"
+    },
+
+    "oak2": {
+        "name": "橡树",
+        "levelRequirement": 1,
+        "experience": 10,
+        "difficulty": 10,
+        "item": "logs",
+        "randomItems": [
+            {
+                "key": "apple",
+                "chance": 800
+            }
+        ]
+    },
+
+    "oak3": {
+        "name": "橡树",
+        "levelRequirement": 1,
+        "experience": 10,
+        "difficulty": 10,
+        "item": "logs",
+        "randomItems": [
+            {
+                "key": "apple",
+                "chance": 800
+            }
+        ]
+    },
+
+    "oak4": {
+        "name": "橡树",
+        "levelRequirement": 1,
+        "experience": 10,
+        "difficulty": 10,
+        "item": "logs",
+        "randomItems": [
+            {
+                "key": "apple",
+                "chance": 800
+            }
+        ]
+    },
+
+    "oak5": {
+        "name": "橡树",
+        "levelRequirement": 1,
+        "experience": 10,
+        "difficulty": 10,
+        "item": "logs",
+        "randomItems": [
+            {
+                "key": "apple",
+                "chance": 800
+            }
+        ]
+    },
+
+    "snowoak": {
+        "name": "雪橡树",
+        "levelRequirement": 20,
+        "experience": 75,
+        "difficulty": 90,
+        "item": "icelogs"
+    },
+
+    "tutorialsnowoak": {
+        "name": "雪橡树",
+        "levelRequirement": 1,
+        "experience": 10,
+        "difficulty": 5,
+        "item": "logs",
+        "quest": "tutorial"
+    },
+
+    "palm": {
+        "name": "棕榈树",
+        "levelRequirement": 5,
+        "experience": 15,
+        "difficulty": 25,
+        "item": "palmlogs",
+        "randomItems": [
+            {
+                "key": "banana",
+                "chance": 10000
+            }
+        ]
+    },
+
+    "iceoak": {
+        "name": "冰橡树",
+        "levelRequirement": 10,
+        "experience": 30,
+        "difficulty": 50,
+        "item": "icelogs"
+    },
+
+    "iceoak2": {
+        "name": "冰橡树",
+        "levelRequirement": 10,
+        "experience": 30,
+        "difficulty": 50,
+        "item": "icelogs"
+    },
+
+    "iceoak3": {
+        "name": "冰橡树",
+        "levelRequirement": 10,
+        "experience": 30,
+        "difficulty": 50,
+        "item": "icelogs"
+    },
+
+    "iceoak4": {
+        "name": "冰橡树",
+        "levelRequirement": 10,
+        "experience": 30,
+        "difficulty": 50,
+        "item": "icelogs"
+    },
+
+    "iceoak5": {
+        "name": "冰橡树",
+        "levelRequirement": 10,
+        "experience": 30,
+        "difficulty": 50,
+        "item": "icelogs"
+    },
+
+    "iceoak6": {
+        "name": "冰橡树",
+        "levelRequirement": 10,
+        "experience": 30,
+        "difficulty": 50,
+        "item": "icelogs"
+    },
+
+    "icepalm": {
+        "name": "冰棕榈树",
+        "levelRequirement": 15,
+        "experience": 55,
+        "difficulty": 65,
+        "item": "icepalmlogs"
+    },
+
+    "pine": {
+        "name": "松树",
+        "levelRequirement": 20,
+        "experience": 75,
+        "difficulty": 80,
+        "item": "icepinelogs"
+    },
+
+    "alkythn": {
+        "name": "奥凯恩树",
+        "levelRequirement": 25,
+        "experience": 105,
+        "difficulty": 90,
+        "item": "alkythnlogs"
+    },
+
+    "heliphatit": {
+        "name": "赫利法提树",
+        "levelRequirement": 30,
+        "experience": 125,
+        "difficulty": 100,
+        "item": "heliphatitlogs"
+    },
+
+    "aquasillius": {
+        "name": "水杉",
+        "levelRequirement": 35,
+        "experience": 160,
+        "difficulty": 115,
+        "item": "aquasilliuslogs"
+    },
+
+    "zoncil": {
+        "name": "宗西尔树",
+        "levelRequirement": 35,
+        "experience": 160,
+        "difficulty": 115,
+        "item": "zoncillogs"
+    },
+
+    "zondul": {
+        "name": "宗杜尔树",
+        "levelRequirement": 35,
+        "experience": 160,
+        "difficulty": 115,
+        "item": "zondullogs"
+    },
+
+    "bloodwood": {
+        "name": "血木",
+        "levelRequirement": 40,
+        "experience": 350,
+        "difficulty": 240,
+        "item": "bloodwoodlogs"
+    },
+
+    "flastel": {
+        "name": "弗拉斯特树",
+        "levelRequirement": 50,
+        "experience": 400,
+        "difficulty": 320,
+        "item": "bloodwoodlogs"
+    },
+
+    "puhrix": {
+        "name": "普赫里克斯树",
+        "levelRequirement": 50,
+        "experience": 400,
+        "difficulty": 320,
+        "item": "bloodwoodlogs"
+    }
+}

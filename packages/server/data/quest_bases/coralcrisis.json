@@ -1,0 +1,80 @@
+{
+    "name": "珊瑚危机",
+    "description": "忧心忡忡的美人鱼米蕾拉需要你的帮助。|海底世界的珊瑚礁正在死去。米蕾拉确信是黑暗术士在毒害海水，并请求你帮助她终结这桩恶行。",
+    "rewards": ["1500 金币", "coralcrown"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "mirela",
+            "text": [
+                "冒险者！见到你真是太好了！",
+                "珊瑚正在死去，我相信这绝不是自然现象。",
+                "我怀疑有个黑暗术士在毒害海水。你能帮忙吗？"
+            ],
+            "completedText": ["你必须去调查一下情况！"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "darksorcerer",
+            "text": [
+                "哼！是小美人鱼派你来的？",
+                "对，海水是我毒的。不，你拦不住我。",
+                "但你若这么急着送死，就在禁忌洞穴与我见面吧！"
+            ],
+            "completedText": ["有种就来证明自己！"]
+        },
+        "2": {
+            "task": "kill",
+            "mob": ["darkminions"],
+            "mobCountRequirement": 3
+        },
+        "3": {
+            "task": "talk",
+            "npc": "mirela",
+            "text": [
+                "你做到了！海水似乎正在净化。",
+                "但我们还需要纯净珊瑚精华才能彻底治愈珊瑚。你能拿到它吗？"
+            ],
+            "completedText": ["在微光洞窟中找到纯净珊瑚精华。"]
+        },
+        "4": {
+            "task": "talk",
+            "npc": "guardianofgrotto",
+            "text": [
+                "在找纯净珊瑚精华，是吧？",
+                "想要它，你就得击败我来证明自己！"
+            ],
+            "completedText": ["准备战斗！"]
+        },
+        "5": {
+            "task": "kill",
+            "mob": ["guardianofgrotto"],
+            "mobCountRequirement": 1
+        },
+        "6": {
+            "task": "talk",
+            "npc": "mirela",
+            "itemRequirements": [
+                {
+                    "key": "purecoralessence",
+                    "count": 1
+                }
+            ],
+            "itemRewards": [
+                {
+                    "key": "gold",
+                    "count": 1500
+                },
+                {
+                    "key": "coralcrown",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@珊瑚危机@green@。你获得了 1500 金币和一顶珊瑚王冠！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

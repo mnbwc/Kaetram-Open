@@ -1,0 +1,45 @@
+{
+    "name": "密码信件",
+    "description": "破译神秘的卷轴。",
+    "rewards": ["500 金币", "学者之戒"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "oldscholar",
+            "text": [
+                "啊，年轻的旅人！我找到了这卷旧卷轴，却怎么也解不开上面的信息。",
+                "它也许指向一份远古宝藏。你愿意帮我吗？"
+            ],
+            "completedText": ["请破译这份加密卷轴。", "我相信它藏着一抹线索。"]
+        },
+        "1": {
+            "task": "decode",
+            "item": "mysteriousscroll",
+            "completedText": ["破译后，带着信息回来找我。"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "oldscholar",
+            "hasItemText": [
+                "妙极了！这确实是张地图。我们一起去寻宝吧！",
+                "顺着线索，取回隐藏之物。"
+            ],
+            "completedText": ["找到宝藏后就回来。"]
+        },
+        "3": {
+            "task": "explore",
+            "location": "ancientruins",
+            "findItem": "ancientartifact",
+            "completedText": ["带着神器回去见学者。"]
+        },
+        "4": {
+            "task": "talk",
+            "npc": "oldscholar",
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@密码信件@green@任务，获得了@crimson@500 金币@green@和一枚@crimson@学者之戒@green@。",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

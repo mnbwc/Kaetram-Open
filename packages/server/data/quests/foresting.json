@@ -1,0 +1,61 @@
+{
+    "name": "伐木",
+    "description": "帮护林人干点伐木的活。|护林人需要你帮忙处理伐木相关的事，比如树啊斧子啊之类的。我不知道，我只是个任务描述，别再问我问题了。",
+    "rewards": ["生锈的斧子", "护林人商店的使用权"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "forestnpc",
+            "text": [
+                "问候你，亲爱的冒险者！",
+                "求你，你必须帮帮我。",
+                "我真的再也忍不下去了，这几天我一直在",
+                "整整砍了几天树。",
+                "我实在累坏了，能不能劳驾你",
+                "给我带 10 根原木吗？"
+            ],
+            "completedText": ["拜托了，冒险者，给我带 10 根原木。", "我只有这一个请求！"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "forestnpc",
+            "hasItemText": [
+                "哦，亲爱的冒险者",
+                "这些原木瑕疵太多了",
+                "能劳驾你再给我带 10 个吗？"
+            ],
+            "completedText": ["拜托了冒险者，我求你了，再要 10 根原木就好。"],
+            "itemRequirements": [
+                {
+                    "key": "logs",
+                    "count": 10
+                }
+            ]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "forestnpc",
+            "hasItemText": [
+                "没错，你看，这些原木正合我意。",
+                "太感谢你了，亲爱的冒险者。请收下这份奖励！"
+            ],
+            "itemRequirements": [
+                {
+                    "key": "logs",
+                    "count": 10
+                }
+            ],
+            "itemRewards": [
+                {
+                    "key": "ironaxe",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@伐木@green@任务。你获得了一把@crimson@生锈的斧子@green@！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "blueberrybush": {
+        "name": "蓝莓灌木",
+        "levelRequirement": 1,
+        "experience": 10,
+        "difficulty": 1,
+        "item": "blueberry"
+    },
+
+    "cornbush": {
+        "name": "玉米",
+        "levelRequirement": 5,
+        "experience": 15,
+        "difficulty": 1,
+        "item": "corn"
+    },
+
+    "bluelilybush": {
+        "name": "蓝百合灌木",
+        "levelRequirement": 10,
+        "experience": 20,
+        "difficulty": 1,
+        "item": "bluelily"
+    },
+
+    "tomatobush": {
+        "name": "番茄植株",
+        "levelRequirement": 15,
+        "experience": 25,
+        "difficulty": 1,
+        "item": "tomato"
+    },
+
+    "peachbush": {
+        "name": "桃树灌木",
+        "levelRequirement": 5,
+        "experience": 30,
+        "difficulty": 1,
+        "item": "peach"
+    },
+
+    "raspberrybush": {
+        "name": "树莓灌木",
+        "levelRequirement": 15,
+        "experience": 35,
+        "difficulty": 1,
+        "item": "raspberry"
+    },
+
+    "blackberrybush": {
+        "name": "黑莓灌木",
+        "levelRequirement": 20,
+        "experience": 40,
+        "difficulty": 1,
+        "item": "blackberry"
+    },
+
+    "mustardbush": {
+        "name": "芥末灌木",
+        "levelRequirement": 20,
+        "experience": 45,
+        "difficulty": 1,
+        "item": "mustardplant"
+    },
+
+    "paprikabush": {
+        "name": "红椒粉灌木",
+        "levelRequirement": 25,
+        "experience": 50,
+        "difficulty": 1,
+        "item": "paprika"
+    },
+
+    "cuminbush": {
+        "name": "孜然灌木",
+        "levelRequirement": 25,
+        "experience": 50,
+        "difficulty": 1,
+        "item": "cuminplant"
+    },
+
+    "treestump1": {
+        "name": "树桩",
+        "levelRequirement": 1,
+        "experience": 10,
+        "difficulty": 1,
+        "item": "dandelion"
+    }
+}

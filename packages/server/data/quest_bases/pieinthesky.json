@@ -1,0 +1,45 @@
+{
+    "name": "天上的馅饼",
+    "description": "梦幻甜点。|派蒂·派师傅梦想做出一个轻到能飘起来的馅饼。帮她创造这个烹饪奇迹吧。",
+    "rewards": ["floating-pie", "recipe-scroll"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "pattypie",
+            "text": [
+                "我有个梦想：做一个能飘起来的馅饼！但我需要云绒……",
+                "你能登上浮空峰帮我采一些吗？"
+            ],
+            "completedText": ["从浮空峰采集云绒。"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "cloudsprite",
+            "text": ["哎呀！你想要我的绒毛？", "除非你先挠我痒痒！嘻嘻！"],
+            "completedText": ["和云之精灵来一场挠痒大战！"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "pattypie",
+            "text": [
+                "拿到了！现在来烤制这件杰作……",
+                "噔噔！一个漂浮的馅饼！配方也在这儿。"
+            ],
+            "itemRewards": [
+                {
+                    "key": "floating-pie",
+                    "count": 1
+                },
+                {
+                    "key": "recipe-scroll",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你创造了烹饪史！好好享用你的@crimson@漂浮馅饼@green@吧，也可以照着配方卷轴自己烤一个。",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

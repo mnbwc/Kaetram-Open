@@ -1,0 +1,95 @@
+{
+    "name": "神秘之木",
+    "description": "一棵传说中的魔法之树在等你。|在魔法森林的深处，有一棵据说蕴含无穷魔力的树。唯有心怀纯粹之人才能找到并驾驭它的力量。",
+    "rewards": ["magicwood"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "oldlumberjack",
+            "text": [
+                "冒险者，你听过神秘之树的传说吗？",
+                "据说它的木头蕴含惊人的魔力。",
+                "如果你想找到它，必须先去寻找森林守卫。"
+            ],
+            "completedText": ["找到森林守卫。"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "forestguardian",
+            "text": [
+                "神秘之树的追寻者啊，你为何想要它的木头？",
+                "唯有心怀纯粹之人才能找到它。",
+                "要证明你的实力，先帮我办几件事。"
+            ],
+            "completedText": ["你能帮上什么忙？"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "forestguardian",
+            "text": [
+                "首先，这座森林里的动物躁动不安。",
+                "采集附近的宁静浆果，让它们平静下来。",
+                "给我带 5 个来，我就告诉你下一步。"
+            ],
+            "completedText": ["收集 5 颗宁静浆果。"]
+        },
+        "3": {
+            "task": "talk",
+            "npc": "forestguardian",
+            "itemRequirements": [
+                {
+                    "key": "tranquilberries",
+                    "count": 5
+                }
+            ],
+            "text": [
+                "干得好！现在，森林里潜伏着一个黑暗之灵。",
+                "击败它，你就证明了自己对自然平衡的坚守。"
+            ],
+            "completedText": ["击败黑暗之灵。"]
+        },
+        "4": {
+            "task": "kill",
+            "mob": ["darkspirit"],
+            "mobCountRequirement": 1
+        },
+        "5": {
+            "task": "talk",
+            "npc": "forestguardian",
+            "text": [
+                "了不起！你的来意看似纯粹。",
+                "要找到神秘之树，就沿着发光蘑菇指引的路走。",
+                "但记住，要尊重树，只取它心甘情愿给予的。"
+            ],
+            "completedText": ["跟随发光蘑菇指引的小路。"]
+        },
+        "6": {
+            "task": "talk",
+            "npc": "mystictree",
+            "text": [
+                "你站在我面前，冒险者。我能感受到你纯粹的来意。",
+                "从我的枝干上截取一小段吧，但你要答应只用它的魔力行善。"
+            ],
+            "completedText": ["砍下神秘之树。"]
+        },
+        "7": {
+            "task": "talk",
+            "npc": "oldlumberjack",
+            "itemRequirements": [
+                {
+                    "key": "magicwood",
+                    "count": 1
+                }
+            ],
+            "text": [
+                "你做到了！神秘之树的力量现在任你驱使。",
+                "明智地使用它，永远尊重自然的平衡。"
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你刚刚完成了@crimson@神秘之木@green@。神秘之树的力量现在掌握在你手中！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

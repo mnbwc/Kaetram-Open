@@ -1,0 +1,39 @@
+{
+    "name": "没那么伟大的土豆",
+    "description": "一切幽默的根源。|土豆国王坚称自己是番茄。帮他接受自己块茎的真实身份吧。",
+    "rewards": ["potato"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "petepotato",
+            "text": ["我是一颗多汁的红番茄！我发誓！", "证明我是错的，我就给你宝藏。"],
+            "completedText": ["寻找关于皮特真实身份的证据。"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "vegetablevendor",
+            "text": ["哦，皮特？他绝对是个土豆。", "我这儿有张他刚发芽时的老照片！"],
+            "completedText": ["带着照片回去见皮特。"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "petepotato",
+            "text": ["天哪，我真的是个土豆啊？", "谢谢你让我认清了自己。这是你的奖励！"],
+            "itemRewards": [
+                {
+                    "key": "potato-tiara",
+                    "count": 1
+                },
+                {
+                    "key": "sack of confused veggies",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你揭开了皮特身世的真相！享用你闪亮的@crimson@土豆头冠@green@和一袋相当懵圈的蔬菜吧。",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

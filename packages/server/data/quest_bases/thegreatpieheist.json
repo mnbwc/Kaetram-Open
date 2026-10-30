@@ -1,0 +1,51 @@
+{
+    "name": "惊天馅饼大劫案",
+    "description": "馅饼不见了！|镇上有人拿走了贝瑞夫人的获奖蓝莓派。由你顺藤摸瓜，破解这桩美味悬案！",
+    "rewards": ["sliceofpie"],
+    "stages": {
+        "0": {
+            "task": "talk",
+            "npc": "mrsberry",
+            "text": [
+                "冒险者！我的蓝莓派不见了！",
+                "我还打算明天拿它去参加比赛呢！",
+                "找到它，就有你一块馅饼。"
+            ],
+            "completedText": ["揪出偷馅饼的贼！"]
+        },
+        "1": {
+            "task": "talk",
+            "npc": "piecrumbs",
+            "text": [
+                "你沿着馅饼碎屑的痕迹，撞见了一只形迹可疑的松鼠。",
+                "它好像正津津有味地……吃蓝莓？"
+            ],
+            "completedText": ["去找那松鼠对质。"]
+        },
+        "2": {
+            "task": "talk",
+            "npc": "squirrelnapper",
+            "text": [
+                "好好好！馅饼是我拿的！但我是出于好意！",
+                "今晚树上有派对。想加入吗？"
+            ],
+            "completedText": ["归还馅饼……还是先派对？"]
+        },
+        "3": {
+            "task": "talk",
+            "npc": "mrsberry",
+            "text": ["你把它带回来了！谢谢你，亲爱的！", "对了，我答应你的那块馅饼……"],
+            "itemRewards": [
+                {
+                    "key": "sliceofpie",
+                    "count": 1
+                }
+            ],
+            "popup": {
+                "title": "任务完成！",
+                "text": "@green@你破获了@crimson@惊天馅饼大劫案@green@。享用你应得的那块馅饼吧！",
+                "colour": "#33cc33"
+            }
+        }
+    }
+}

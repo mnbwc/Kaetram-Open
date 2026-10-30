@@ -1,0 +1,10318 @@
+{
+  "rat": {
+    "name": "老鼠",
+    "description": "啊对，这只老鼠是用老鼠做的。",
+    "drops": [
+      {
+        "key": "petrat",
+        "chance": 5
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ],
+    "hitPoints": 20,
+    "level": 1,
+    "aggroRange": 1,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 10000,
+    "attackStats": {
+      "crush": 1,
+      "slash": 1,
+      "stab": 2,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -3,
+      "slash": -5,
+      "stab": -4,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "skills": {
+      "accuracy": 2,
+      "strength": 1,
+      "defense": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "bat": {
+    "name": "蝙蝠蝶",
+    "description": "一只同时也是蝴蝶的蝙蝠，多么奇怪的生物。",
+    "dropTables": [
+      "ordinary"
+    ],
+    "hitPoints": 65,
+    "level": 4,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 420,
+    "respawnDelay": 20000,
+    "attackStats": {
+      "crush": 3,
+      "slash": 3,
+      "stab": 2,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 1,
+      "slash": 1,
+      "stab": 1,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 1,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "crab": {
+    "name": "螃蟹",
+    "description": "不知道能不能吃这玩意儿。",
+    "dropTables": [
+      "ordinary"
+    ],
+    "hitPoints": 15,
+    "level": 1,
+    "aggroRange": 1,
+    "attackRate": 1200,
+    "movementSpeed": 500,
+    "respawnDelay": 20000,
+    "attackStats": {
+      "crush": 2,
+      "slash": 1,
+      "stab": 2,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "wizard": {
+    "name": "法师",
+    "description": "为什么每个MMORPG都有这种东西？",
+    "drops": [
+      {
+        "key": "wizardhatblack",
+        "chance": 10000
+      },
+      {
+        "key": "wizardhatblue",
+        "chance": 10000
+      },
+      {
+        "key": "wizardhatcrimson",
+        "chance": 10000
+      },
+      {
+        "key": "wizardhatdarkblue",
+        "chance": 10000
+      },
+      {
+        "key": "wizardhatgreen",
+        "chance": 10000
+      },
+      {
+        "key": "wizardhatpink",
+        "chance": 10000
+      },
+      {
+        "key": "wizardhatpurple",
+        "chance": 10000
+      },
+      {
+        "key": "wizardhatred",
+        "chance": 10000
+      },
+      {
+        "key": "wizardhatturquoise",
+        "chance": 10000
+      },
+      {
+        "key": "wizardhatwhite",
+        "chance": 10000
+      },
+      {
+        "key": "wizardhatyellow",
+        "chance": 10000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "unusual"
+    ],
+    "hitPoints": 130,
+    "level": 11,
+    "aggroRange": 3,
+    "attackRange": 4,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 350,
+    "projectileName": "fireball",
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 16
+    },
+    "defenseStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 2,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 0,
+      "archery": 0,
+      "magic": 3
+    }
+  },
+  "goblin": {
+    "name": "哥布林",
+    "description": "我是不是在 RuneScape 里见过同款哥布林？",
+    "drops": [
+      {
+        "key": "tinsword",
+        "chance": 10000
+      },
+      {
+        "key": "copperhelmet",
+        "chance": 10000
+      },
+      {
+        "key": "tinchestplate",
+        "chance": 10000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "arrows",
+      "unusual",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 90,
+    "level": 7,
+    "aggroRange": 1,
+    "attackRate": 1400,
+    "movementSpeed": 300,
+    "respawnDelay": 55000,
+    "attackStats": {
+      "crush": 2,
+      "slash": 4,
+      "stab": 4,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 4,
+      "slash": 4,
+      "stab": 4,
+      "archery": 1,
+      "magic": 1
+    },
+    "bonuses": {
+      "accuracy": 3,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "skeleton": {
+    "name": "诡异骷髅",
+    "description": "我很好奇这骷髅是不是骨头做的。",
+    "drops": [
+      {
+        "key": "bronzespear",
+        "chance": 10000
+      },
+      {
+        "key": "bronzesword",
+        "chance": 10000
+      },
+      {
+        "key": "skeletonkingtalisman",
+        "chance": 100000,
+        "quest": "codersglitch",
+        "status": "started"
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "arrows"
+    ],
+    "hitPoints": 140,
+    "level": 14,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 350,
+    "respawnDelay": 65000,
+    "attackStats": {
+      "crush": 2,
+      "slash": 6,
+      "stab": 5,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -5,
+      "slash": 6,
+      "stab": 6,
+      "archery": 6,
+      "magic": -3
+    },
+    "bonuses": {
+      "accuracy": 3,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "ogre": {
+    "name": "食人魔",
+    "description": "我真觉得开发者就是硬塞几个俗套的奇幻生物进来。",
+    "drops": [
+      {
+        "key": "ironspear",
+        "chance": 10000
+      },
+      {
+        "key": "ironsword",
+        "chance": 10000
+      },
+      {
+        "key": "ironscythe",
+        "chance": 10000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "unusual",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 150,
+    "level": 18,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1250,
+    "movementSpeed": 300,
+    "respawnDelay": 45000,
+    "attackStats": {
+      "crush": 13,
+      "slash": 11,
+      "stab": 10,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 13,
+      "slash": 1,
+      "stab": -3,
+      "archery": 4,
+      "magic": 11
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 6,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "skeleton2": {
+    "name": "恐怖骷髅",
+    "description": "啊对，这只不诡异，这只叫恐怖。",
+    "drops": [
+      {
+        "key": "bronzespear",
+        "chance": 10000
+      },
+      {
+        "key": "bronzesword",
+        "chance": 10000
+      },
+      {
+        "key": "bronzescythe",
+        "chance": 10000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "arrows",
+      "unusual"
+    ],
+    "hitPoints": 375,
+    "level": 30,
+    "aggroRange": 2,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 350,
+    "respawnDelay": 60000,
+    "attackStats": {
+      "crush": 6,
+      "slash": 10,
+      "stab": 14,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": 10,
+      "stab": 11,
+      "archery": 12,
+      "magic": -5
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 2,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "snek": {
+    "name": "小蛇",
+    "description": "小蛇，你去哪儿？小蛇，快停下！",
+    "dropTables": [
+      "ordinary"
+    ],
+    "hitPoints": 85,
+    "level": 16,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 350,
+    "respawnDelay": 35000,
+    "poisonous": true,
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 13,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 0,
+      "slash": 6,
+      "stab": 9,
+      "archery": 10,
+      "magic": 2
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "spectre": {
+    "name": "幽灵",
+    "description": "拿着镰刀，看起来还漂浮着。",
+    "drops": [
+      {
+        "key": "ironscythe",
+        "chance": 10000
+      },
+      {
+        "key": "sycophant",
+        "chance": 100
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 270,
+    "level": 32,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 350,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 9,
+      "slash": 16,
+      "stab": 13,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 14,
+      "slash": 16,
+      "stab": 18,
+      "archery": 12,
+      "magic": -15
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 5,
+      "archery": 0,
+      "magic": 6
+    }
+  },
+  "lavaslime": {
+    "name": "熔岩史莱姆",
+    "description": "一只由熔岩做成的可爱小史莱姆。",
+    "dropTables": [
+      "ordinary",
+      "shards"
+    ],
+    "hitPoints": 270,
+    "level": 32,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 350,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 9,
+      "slash": 16,
+      "stab": 13,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 14,
+      "slash": 16,
+      "stab": 18,
+      "archery": 12,
+      "magic": -15
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 5,
+      "archery": 0,
+      "magic": 6
+    }
+  },
+  "eye": {
+    "name": "魔眼",
+    "description": [
+      "仔细想想，这玩意儿大概连立体视觉都没有。",
+      "我真的搞不懂那东西是怎么运作的。"
+    ],
+    "drops": [
+      {
+        "key": "eyesword",
+        "chance": 1000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "unusual",
+      "shards"
+    ],
+    "hitPoints": 160,
+    "level": 33,
+    "aggroRange": 1,
+    "attackRate": 1100,
+    "movementSpeed": 350,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 16,
+      "slash": 12,
+      "stab": 8,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 12,
+      "slash": 9,
+      "stab": -10,
+      "archery": -8,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 6,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "deathknight": {
+    "name": "死亡骑士",
+    "description": "说真的，这些名字都是谁想出来的？",
+    "dropTables": [
+      "ordinary",
+      "unusual",
+      "shards"
+    ],
+    "hitPoints": 185,
+    "level": 40,
+    "aggroRange": 4,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 350,
+    "respawnDelay": 65000,
+    "attackStats": {
+      "crush": 10,
+      "slash": 13,
+      "stab": 15,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 14,
+      "slash": 10,
+      "stab": 13,
+      "archery": 12,
+      "magic": -8
+    },
+    "bonuses": {
+      "accuracy": 3,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "adherer": {
+    "name": "暗黑法师",
+    "description": "听说这些家伙会掉玫瑰，我正好可以拿来砸东西。",
+    "drops": [
+      {
+        "key": "darkmagehood",
+        "chance": 600
+      },
+      {
+        "key": "darkmagehoodgold",
+        "chance": 20
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "unusual",
+      "shards"
+    ],
+    "hitPoints": 200,
+    "level": 38,
+    "aggroRange": 6,
+    "attackRange": 4,
+    "aggressive": true,
+    "attackRate": 1200,
+    "movementSpeed": 450,
+    "projectileName": "fireball",
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 31
+    },
+    "defenseStats": {
+      "crush": -5,
+      "slash": -8,
+      "stab": -9,
+      "archery": -6,
+      "magic": 32
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 0,
+      "archery": 0,
+      "magic": 16
+    }
+  },
+  "regionhenchman": {
+    "name": "黑暗地域爪牙",
+    "description": "听说这些家伙会掉玫瑰，我正好可以拿来砸东西。",
+    "dropTables": [
+      "ordinary",
+      "unusual",
+      "shards"
+    ],
+    "hitPoints": 200,
+    "level": 38,
+    "aggroRange": 6,
+    "attackRange": 4,
+    "aggressive": true,
+    "attackRate": 1200,
+    "movementSpeed": 450,
+    "projectileName": "fireball",
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 31
+    },
+    "defenseStats": {
+      "crush": -5,
+      "slash": -8,
+      "stab": -9,
+      "archery": -6,
+      "magic": 32
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 0,
+      "archery": 0,
+      "magic": 16
+    }
+  },
+  "angel": {
+    "name": "天使",
+    "description": "我的天，这和圣经里描述的完全不是一回事。",
+    "hitPoints": 1200,
+    "level": 98,
+    "aggroRange": 6,
+    "aggressive": true,
+    "attackRate": 1200,
+    "movementSpeed": 450,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 40,
+      "slash": 30,
+      "stab": 30,
+      "archery": 0,
+      "magic": 61
+    },
+    "defenseStats": {
+      "crush": 35,
+      "slash": 18,
+      "stab": 29,
+      "archery": 16,
+      "magic": 52
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 21,
+      "archery": 4,
+      "magic": 10
+    }
+  },
+  "ant": {
+    "name": "工蚁",
+    "description": "一只勤劳的小不点儿蚂蚁！",
+    "dropTables": [
+      "ordinary",
+      "fruits",
+      "mushrooms",
+      "vegetables"
+    ],
+    "hitPoints": 300,
+    "level": 46,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1000,
+    "movementSpeed": 600,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 11,
+      "stab": 12,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 15,
+      "slash": 30,
+      "stab": 30,
+      "archery": 30,
+      "magic": 19
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 2,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "beetle": {
+    "name": "甲虫",
+    "description": "听说过屎壳郎吗？反正我比它强！",
+    "hitPoints": 600,
+    "level": 45,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 60,
+      "slash": 23,
+      "stab": 36,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 21,
+      "slash": 29,
+      "stab": 8,
+      "archery": 23,
+      "magic": -14
+    },
+    "bonuses": {
+      "accuracy": 15,
+      "strength": 7,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "card": {
+    "name": "扑克牌",
+    "description": "它能干嘛，把我赌到死吗？",
+    "hitPoints": 1300,
+    "level": 104,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 60,
+      "slash": 23,
+      "stab": 36,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 21,
+      "slash": 29,
+      "stab": 8,
+      "archery": 23,
+      "magic": -14
+    },
+    "bonuses": {
+      "accuracy": 15,
+      "strength": 7,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "card2": {
+    "name": "另一张牌",
+    "description": "好吧，但一张牌怎么就能当怪物了？",
+    "hitPoints": 1300,
+    "level": 102,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 60,
+      "slash": 23,
+      "stab": 36,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 21,
+      "slash": 29,
+      "stab": 8,
+      "archery": 23,
+      "magic": -14
+    },
+    "bonuses": {
+      "accuracy": 15,
+      "strength": 7,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "cowwarrior": {
+    "name": "奶牛战士",
+    "description": "奶牛们要揭竿而起啦！",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "fruits",
+      "mushrooms",
+      "vegetables"
+    ],
+    "hitPoints": 800,
+    "level": 54,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 30,
+      "slash": 13,
+      "stab": 26,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 11,
+      "slash": 19,
+      "stab": 8,
+      "archery": 13,
+      "magic": -14
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 7,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "rooster": {
+    "name": "暴怒公鸡",
+    "description": "一只睡着了的公鸡，居然还会攻击你……",
+    "drops": [
+      {
+        "key": "pytharring",
+        "chance": 3000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "fruits",
+      "mushrooms",
+      "vegetables"
+    ],
+    "hitPoints": 320,
+    "level": 54,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 30,
+      "slash": 13,
+      "stab": 26,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 11,
+      "slash": 19,
+      "stab": 8,
+      "archery": 13,
+      "magic": -14
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 7,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "pirateskeleton": {
+    "name": "海盗骷髅",
+    "drops": [
+      {
+        "key": "scimitar",
+        "chance": 2500
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 460,
+    "level": 54,
+    "aggroRange": 4,
+    "aggressive": true,
+    "attackRate": 1200,
+    "movementSpeed": 600,
+    "respawnDelay": 95000,
+    "attackStats": {
+      "crush": 13,
+      "slash": 22,
+      "stab": 24,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -15,
+      "slash": 20,
+      "stab": 19,
+      "archery": 21,
+      "magic": -11
+    },
+    "bonuses": {
+      "accuracy": 7,
+      "strength": 5,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "greenpirateskeleton": {
+    "name": "绿色海盗骷髅",
+    "description": "这不就是戴了顶海盗帽的骷髅吗？",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 585,
+    "level": 64,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1200,
+    "movementSpeed": 400,
+    "respawnDelay": 65000,
+    "attackStats": {
+      "crush": 15,
+      "slash": 30,
+      "stab": 34,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -13,
+      "slash": 23,
+      "stab": 21,
+      "archery": 23,
+      "magic": -10
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 6,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "redpirateskeleton": {
+    "name": "红色海盗骷髅",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 640,
+    "level": 69,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1200,
+    "movementSpeed": 400,
+    "respawnDelay": 65000,
+    "attackStats": {
+      "crush": 17,
+      "slash": 32,
+      "stab": 36,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -11,
+      "slash": 25,
+      "stab": 23,
+      "archery": 25,
+      "magic": -9
+    },
+    "bonuses": {
+      "accuracy": 9,
+      "strength": 7,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "blackpirateskeleton": {
+    "name": "蓝色海盗骷髅",
+    "description": "这不就是戴了顶海盗帽的骷髅吗？",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 625,
+    "level": 70,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1200,
+    "movementSpeed": 400,
+    "respawnDelay": 65000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 34,
+      "stab": 37,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -9,
+      "slash": 29,
+      "stab": 25,
+      "archery": 29,
+      "magic": -12
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 8,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "piratecaptain": {
+    "name": "海盗船长",
+    "hitPoints": 4750,
+    "level": 175,
+    "aggroRange": 10,
+    "aggressive": true,
+    "projectileName": "iceball",
+    "roamingDistance": 12,
+    "attackRate": 1100,
+    "movementSpeed": 350,
+    "respawnDelay": 70000,
+    "plugin": "piratecaptain",
+    "attackStats": {
+      "crush": 61,
+      "slash": 64,
+      "stab": 63,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 31,
+      "slash": 62,
+      "stab": 66,
+      "archery": 65,
+      "magic": 34
+    },
+    "bonuses": {
+      "accuracy": 20,
+      "strength": 28,
+      "archery": 0,
+      "magic": 18
+    }
+  },
+  "blackwizard": {
+    "name": "暗黑法师",
+    "description": "它们看起来和之前那些法师也没多大差别。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 170,
+    "level": 32,
+    "aggroRange": 6,
+    "attackRange": 7,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 400,
+    "projectileName": "terror",
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 46
+    },
+    "defenseStats": {
+      "crush": -5,
+      "slash": -9,
+      "stab": -10,
+      "archery": -7,
+      "magic": 37
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 16
+    }
+  },
+  "icewizard": {
+    "name": "冰霜法师",
+    "description": "感觉和我以前遇到过某种法师有点像。",
+    "drops": [
+      {
+        "key": "bluemoonstaff",
+        "chance": 5000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 470,
+    "level": 92,
+    "aggroRange": 6,
+    "attackRange": 7,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "projectileName": "iceball",
+    "freezing": true,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 46
+    },
+    "defenseStats": {
+      "crush": -5,
+      "slash": -9,
+      "stab": -10,
+      "archery": -7,
+      "magic": 37
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 16
+    }
+  },
+  "babyspider": {
+    "name": "小蜘蛛",
+    "description": "现在还挺可爱，过阵子再看看……",
+    "dropTables": [
+      "ordinary",
+      "unusual"
+    ],
+    "hitPoints": 400,
+    "level": 34,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 23,
+      "stab": 29,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -15,
+      "slash": 30,
+      "stab": 33,
+      "archery": 27,
+      "magic": -13
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 2,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "spider": {
+    "name": "蜘蛛",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 650,
+    "level": 47,
+    "aggroRange": 1,
+    "aggressive": true,
+    "poisonous": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 22,
+      "slash": 24,
+      "stab": 31,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -13,
+      "slash": 32,
+      "stab": 38,
+      "archery": 30,
+      "magic": -12
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 3,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "poisonspider": {
+    "name": "剧毒蜘蛛",
+    "description": "我发誓我一碰它就会被毒倒。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 990,
+    "level": 50,
+    "aggroRange": 1,
+    "aggressive": true,
+    "poisonous": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 32,
+      "slash": 47,
+      "stab": 54,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -9,
+      "slash": 37,
+      "stab": 45,
+      "archery": 32,
+      "magic": -11
+    },
+    "bonuses": {
+      "accuracy": 9,
+      "strength": 5,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "firespider": {
+    "name": "火焰蜘蛛",
+    "description": "妈呀，这蜘蛛可真够烫的。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 850,
+    "level": 61,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 34,
+      "slash": 49,
+      "stab": 56,
+      "archery": 0,
+      "magic": 40
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": 38,
+      "stab": 46,
+      "archery": 33,
+      "magic": -10
+    },
+    "bonuses": {
+      "accuracy": 9,
+      "strength": 5,
+      "archery": 0,
+      "magic": 11
+    }
+  },
+  "blazespider": {
+    "name": "炽焰蜘蛛",
+    "description": "我很好奇这蜘蛛嗑了多少……",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 1350,
+    "level": 77,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 36,
+      "slash": 51,
+      "stab": 58,
+      "archery": 0,
+      "magic": 42
+    },
+    "defenseStats": {
+      "crush": -7,
+      "slash": 38,
+      "stab": 46,
+      "archery": 33,
+      "magic": -9
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 6,
+      "archery": 0,
+      "magic": 14
+    }
+  },
+  "hellspider": {
+    "name": "地狱蜘蛛",
+    "description": "难道所有蜘蛛不都算来自地狱吗？",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 780,
+    "level": 56,
+    "aggroRange": 1,
+    "aggressive": true,
+    "poisonous": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 38,
+      "slash": 55,
+      "stab": 59,
+      "archery": 0,
+      "magic": 45
+    },
+    "defenseStats": {
+      "crush": -5,
+      "slash": 42,
+      "stab": 47,
+      "archery": 35,
+      "magic": -7
+    },
+    "bonuses": {
+      "accuracy": 11,
+      "strength": 7,
+      "archery": 0,
+      "magic": 15
+    }
+  },
+  "bluepreta": {
+    "name": "蓝色饿鬼",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 600,
+    "level": 85,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 28,
+      "slash": 25,
+      "stab": 19,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 25,
+      "slash": 22,
+      "stab": 27,
+      "archery": 15,
+      "magic": -12
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 10
+    }
+  },
+  "cactus": {
+    "name": "仙人掌",
+    "description": "所以它是那种……会动的仙人掌？",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 160,
+    "level": 16,
+    "aggroRange": 2,
+    "alwaysAggressive": true,
+    "roaming": false,
+    "attackRate": 1300,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "hiddenName": true,
+    "attackStats": {
+      "crush": 0,
+      "slash": 8,
+      "stab": 14,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 24,
+      "slash": -16,
+      "stab": -12,
+      "archery": -8,
+      "magic": 21
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "cat": {
+    "name": "猫",
+    "hitPoints": 600,
+    "level": 35,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 1,
+      "slash": 4,
+      "stab": 3,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 0,
+      "slash": 1,
+      "stab": 1,
+      "archery": 1,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "clam": {
+    "name": "蛤蜊",
+    "description": "这个拿来炖汤一定很棒！",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "mushrooms"
+    ],
+    "hitPoints": 450,
+    "level": 66,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 28,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -12,
+      "slash": 25,
+      "stab": 23,
+      "archery": 22,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "cobra": {
+    "name": "眼镜蛇",
+    "hitPoints": 1150,
+    "level": 91,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 16,
+      "slash": 18,
+      "stab": 32,
+      "archery": 14,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 18,
+      "slash": 24,
+      "stab": 19,
+      "archery": 14,
+      "magic": -8
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 8,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "crystalscorpion": {
+    "name": "水晶蝎子",
+    "description": "一只水晶做的蝎子，真是“原创”呢。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 1450,
+    "level": 105,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 35,
+      "slash": 23,
+      "stab": 32,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 7,
+      "slash": 23,
+      "stab": 35,
+      "archery": 32,
+      "magic": 2
+    },
+    "bonuses": {
+      "accuracy": 11,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "cursedhahoemask": {
+    "name": "被诅咒的河童面具",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 2100,
+    "level": 115,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 28
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 25,
+      "stab": 12,
+      "archery": 15,
+      "magic": 8
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 13
+    }
+  },
+  "curseddjangseung": {
+    "name": "被诅咒的长丞",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 1900,
+    "level": 110,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 27
+    },
+    "defenseStats": {
+      "crush": -12,
+      "slash": 22,
+      "stab": 24,
+      "archery": 23,
+      "magic": 25
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 12
+    }
+  },
+  "darkogre": {
+    "name": "暗黑食人魔",
+    "description": "它大概没怎么晒过太阳……",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "mushrooms"
+    ],
+    "hitPoints": 900,
+    "level": 68,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 32,
+      "slash": 28,
+      "stab": 26,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 34,
+      "slash": 12,
+      "stab": 28,
+      "archery": 26,
+      "magic": 15
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 14,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "darkscorpion": {
+    "name": "暗黑蝎子",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 1150,
+    "level": 101,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 65000,
+    "attackStats": {
+      "crush": 15,
+      "slash": 10,
+      "stab": 15,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 5,
+      "slash": 10,
+      "stab": 8,
+      "archery": 9,
+      "magic": 5
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "darkskeleton": {
+    "name": "暗黑骷髅",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 740,
+    "level": 76,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 32,
+      "stab": 14,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 16,
+      "slash": 34,
+      "stab": 25,
+      "archery": 35,
+      "magic": -10
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "desertscorpion": {
+    "name": "沙漠蝎子",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 124,
+    "level": 24,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 320,
+    "respawnDelay": 55000,
+    "attackStats": {
+      "crush": 16,
+      "slash": 14,
+      "stab": 17,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -12,
+      "slash": 16,
+      "stab": 14,
+      "archery": 15,
+      "magic": -9
+    },
+    "bonuses": {
+      "accuracy": 7,
+      "strength": 2,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "devilkazya": {
+    "name": "恶魔方块",
+    "hitPoints": 2300,
+    "level": 135,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 25,
+      "slash": 11,
+      "stab": 6,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 14,
+      "slash": 30,
+      "stab": 30,
+      "archery": 30,
+      "magic": 30
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "earthworm": {
+    "name": "蚯蚓",
+    "description": "要知道，蚯蚓在地底下才说得通。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "fruits",
+      "vegetables",
+      "mushrooms"
+    ],
+    "hitPoints": 815,
+    "level": 74,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 55,
+      "slash": 30,
+      "stab": 12,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 34,
+      "slash": 36,
+      "stab": 45,
+      "archery": 45,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "flaredanceknight": {
+    "name": "被诅咒的骑士",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 1000,
+    "level": 65,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 8,
+      "slash": 10,
+      "stab": 10,
+      "archery": 0,
+      "magic": 4
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 15,
+      "stab": 15,
+      "archery": 8,
+      "magic": 7
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "frog": {
+    "name": "青蛙",
+    "drops": [
+      {
+        "key": "froghelm",
+        "chance": 5000
+      }
+    ],
+    "description": "就看着它蹦来蹦去的呗。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 788,
+    "level": 56,
+    "aggroRange": 1,
+    "roamDistance": 5,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 25,
+      "slash": 18,
+      "stab": 8,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 17,
+      "slash": 13,
+      "stab": 12,
+      "archery": 6,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 8,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "ghostrider": {
+    "name": "骷髅骑士",
+    "hitPoints": 700,
+    "level": 19,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 11,
+      "slash": 13,
+      "stab": 15,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 14,
+      "slash": 22,
+      "stab": 30,
+      "archery": 30,
+      "magic": 17
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 11,
+      "archery": 0,
+      "magic": 8
+    }
+  },
+  "goldgolem": {
+    "name": "黄金魔像",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 1200,
+    "level": 75,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 15,
+      "slash": 10,
+      "stab": 6,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 4,
+      "slash": 10,
+      "stab": 10,
+      "archery": 10,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "golem": {
+    "name": "魔像",
+    "drops": [
+      {
+        "key": "golemsmace",
+        "chance": 250
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 350,
+    "level": 38,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 750,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 15,
+      "slash": 10,
+      "stab": 6,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 11,
+      "slash": 25,
+      "stab": 25,
+      "archery": 25,
+      "magic": 25
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "redfish": {
+    "name": "红鱼",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 100,
+    "level": 46,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 13,
+      "slash": 11,
+      "stab": 9,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 15,
+      "slash": 13,
+      "stab": -13,
+      "archery": -11,
+      "magic": 9
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 2,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "yellowfish": {
+    "name": "黄鱼",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 135,
+    "level": 44,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 13,
+      "slash": 11,
+      "stab": 9,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 15,
+      "slash": 13,
+      "stab": -13,
+      "archery": -11,
+      "magic": 9
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 2,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "greenfish": {
+    "name": "绿鱼",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual"
+    ],
+    "hitPoints": 200,
+    "level": 45,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 15,
+      "slash": 13,
+      "stab": 11,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 17,
+      "slash": 15,
+      "stab": -12,
+      "archery": -10,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 3,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "hermitcrab": {
+    "name": "寄居蟹",
+    "dropTables": [
+      "ordinary",
+      "unusual"
+    ],
+    "hitPoints": 155,
+    "level": 15,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 4,
+      "slash": 2,
+      "stab": 3,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -6,
+      "slash": 15,
+      "stab": 13,
+      "archery": 12,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 5,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "hobgoblin": {
+    "name": "大地精",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 260,
+    "level": 42,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 55000,
+    "attackStats": {
+      "crush": 12,
+      "slash": 28,
+      "stab": 19,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 18,
+      "slash": 28,
+      "stab": 18,
+      "archery": 14,
+      "magic": 3
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 6,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "hongcheol": {
+    "name": "洪哲",
+    "hitPoints": 1550,
+    "level": 100,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 15,
+      "slash": 12,
+      "stab": 11,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 15,
+      "slash": 15,
+      "stab": 15,
+      "archery": 15,
+      "magic": 15
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "icegolem": {
+    "name": "冰霜魔像",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 700,
+    "level": 46,
+    "aggroRange": 5,
+    "attackRange": 7,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "projectileName": "iceball",
+    "freezing": true,
+    "attackStats": {
+      "crush": 10,
+      "slash": 5,
+      "stab": 6,
+      "archery": 0,
+      "magic": 35
+    },
+    "defenseStats": {
+      "crush": 13,
+      "slash": 27,
+      "stab": 18,
+      "archery": 18,
+      "magic": 39
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 9
+    }
+  },
+  "iceknight": {
+    "name": "寒冰骑士",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 550,
+    "level": 37,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 25,
+      "slash": 38,
+      "stab": 33,
+      "archery": 0,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": 9,
+      "slash": 22,
+      "stab": 30,
+      "archery": 28,
+      "magic": -15
+    },
+    "bonuses": {
+      "accuracy": 9,
+      "strength": 11,
+      "archery": 0,
+      "magic": 8
+    }
+  },
+  "icevulture": {
+    "name": "冰原秃鹫",
+    "description": "就像我之前见过的那种猛禽的冷冻版。",
+    "drops": [
+      {
+        "key": "feather",
+        "chance": 25000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 300,
+    "level": 96,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 33,
+      "stab": 30,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 34,
+      "slash": 27,
+      "stab": 21,
+      "archery": -10,
+      "magic": -17
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 0,
+      "archery": 0,
+      "magic": 7
+    }
+  },
+  "infectedguard": {
+    "name": "被感染的卫兵",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 750,
+    "level": 61,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 34,
+      "stab": 32,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 16,
+      "slash": 20,
+      "stab": 22,
+      "archery": -9,
+      "magic": -12
+    },
+    "bonuses": {
+      "accuracy": -15,
+      "strength": 12,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "ironogre": {
+    "name": "钢铁食人魔",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 300,
+    "level": 20,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 10,
+      "stab": 9,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 24,
+      "slash": 15,
+      "stab": 13,
+      "archery": 12,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 11,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "livingarmor": {
+    "name": "活体盔甲",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 340,
+    "level": 45,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 30,
+      "slash": 34,
+      "stab": 31,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": 24,
+      "stab": 27,
+      "archery": 25,
+      "magic": -10
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "mantis": {
+    "name": "螳螂",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "vegetables",
+      "fruits",
+      "mushrooms",
+      "arrows"
+    ],
+    "hitPoints": 1000,
+    "level": 56,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 350,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 6,
+      "slash": 15,
+      "stab": 11,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 3,
+      "slash": 7,
+      "stab": 6,
+      "archery": 7,
+      "magic": -10
+    },
+    "bonuses": {
+      "accuracy": 3,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "mermaid": {
+    "name": "美人鱼",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 150,
+    "level": 40,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 115000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 20,
+      "stab": 22,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 22,
+      "slash": 17,
+      "stab": 5,
+      "archery": 19,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "mimic": {
+    "name": "宝箱怪",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "mushrooms",
+      "vegetables",
+      "fruits",
+      "arrows"
+    ],
+    "hitPoints": 1200,
+    "level": 25,
+    "aggroRange": 1,
+    "alwaysAggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "hiddenName": true,
+    "roamingDistance": 12,
+    "attackStats": {
+      "crush": 18,
+      "slash": 17,
+      "stab": 15,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 22,
+      "slash": 18,
+      "stab": 10,
+      "archery": -10,
+      "magic": 12
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "miniiceknight1": {
+    "name": "迷你寒冰骑士",
+    "description": "一个小不点儿骑士，穿着小不点儿的盔甲。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 1100,
+    "level": 144,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1200,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 12,
+      "slash": 18,
+      "stab": 21,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -3,
+      "slash": 14,
+      "stab": 19,
+      "archery": 12,
+      "magic": 18
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 0,
+      "archery": 0,
+      "magic": 3
+    }
+  },
+  "miniiceknight2": {
+    "name": "迷你寒冰骑士",
+    "description": "一个小不点儿骑士，穿着小不点儿的盔甲。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 1100,
+    "level": 144,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1200,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 12,
+      "slash": 18,
+      "stab": 21,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -3,
+      "slash": 14,
+      "stab": 19,
+      "archery": 12,
+      "magic": 18
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 0,
+      "archery": 0,
+      "magic": 3
+    }
+  },
+  "miniiceknight3": {
+    "name": "迷你寒冰骑士",
+    "description": "一个小不点儿骑士，穿着小不点儿的盔甲。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 1100,
+    "level": 144,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1200,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 12,
+      "slash": 18,
+      "stab": 21,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -3,
+      "slash": 14,
+      "stab": 19,
+      "archery": 12,
+      "magic": 18
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 0,
+      "archery": 0,
+      "magic": 3
+    }
+  },
+  "miniiceknight4": {
+    "name": "迷你寒冰骑士",
+    "description": "一个小不点儿骑士，穿着小不点儿的盔甲。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 1100,
+    "level": 144,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1200,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 12,
+      "slash": 18,
+      "stab": 21,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -3,
+      "slash": 14,
+      "stab": 19,
+      "archery": 12,
+      "magic": 18
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 0,
+      "archery": 0,
+      "magic": 3
+    }
+  },
+  "miniiceknight5": {
+    "name": "迷你寒冰骑士",
+    "description": "一个小不点儿骑士，穿着小不点儿的盔甲。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 1100,
+    "level": 144,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1200,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 12,
+      "slash": 18,
+      "stab": 21,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -3,
+      "slash": 14,
+      "stab": 19,
+      "archery": 12,
+      "magic": 18
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 0,
+      "archery": 0,
+      "magic": 3
+    }
+  },
+  "miniknight1": {
+    "name": "迷你骑士",
+    "description": "一只凶巴巴的小骑士，还真有可能伤到我。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 950,
+    "level": 116,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 19,
+      "stab": 24,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": 18,
+      "stab": 24,
+      "archery": 22,
+      "magic": 20
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 4,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "miniknight2": {
+    "name": "迷你骑士",
+    "description": "一只凶巴巴的小骑士，还真有可能伤到我。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 950,
+    "level": 116,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 19,
+      "stab": 24,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": 18,
+      "stab": 24,
+      "archery": 22,
+      "magic": 20
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 4,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "miniknight3": {
+    "name": "迷你骑士",
+    "description": "一只凶巴巴的小骑士，还真有可能伤到我。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 950,
+    "level": 116,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 19,
+      "stab": 24,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": 18,
+      "stab": 24,
+      "archery": 22,
+      "magic": 20
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 4,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "miniknight4": {
+    "name": "迷你骑士",
+    "description": "一只凶巴巴的小骑士，还真有可能伤到我。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 950,
+    "level": 116,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 19,
+      "stab": 24,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": 18,
+      "stab": 24,
+      "archery": 22,
+      "magic": 20
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 4,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "miniknight5": {
+    "name": "迷你骑士",
+    "description": "一只凶巴巴的小骑士，还真有可能伤到我。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 950,
+    "level": 116,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 19,
+      "stab": 24,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": 18,
+      "stab": 24,
+      "archery": 22,
+      "magic": 20
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 4,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "miniknight6": {
+    "name": "迷你骑士",
+    "description": "一只凶巴巴的小骑士，还真有可能伤到我。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 950,
+    "level": 116,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 19,
+      "stab": 24,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": 18,
+      "stab": 24,
+      "archery": 22,
+      "magic": 20
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 4,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "miniemperor": {
+    "name": "迷你皇帝",
+    "description": "看起来像这群迷你骑士的头头。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 3950,
+    "level": 316,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "achievement": "miniemperor",
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 54,
+      "slash": 49,
+      "stab": 94,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -18,
+      "slash": 78,
+      "stab": 54,
+      "archery": 82,
+      "magic": 40
+    },
+    "bonuses": {
+      "accuracy": 15,
+      "strength": 24,
+      "archery": 0,
+      "magic": 18
+    }
+  },
+  "oldogre": {
+    "name": "老年食人魔",
+    "description": "他又老又秃，但依然危险。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 256,
+    "level": 23,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 22,
+      "slash": 18,
+      "stab": 16,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 25,
+      "slash": 17,
+      "stab": -8,
+      "archery": -3,
+      "magic": 12
+    },
+    "bonuses": {
+      "accuracy": -3,
+      "strength": 10,
+      "archery": 0,
+      "magic": -5
+    }
+  },
+  "orc": {
+    "name": "兽人",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 275,
+    "level": 47,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 18,
+      "stab": 20,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 15,
+      "slash": 25,
+      "stab": 14,
+      "archery": 24,
+      "magic": -6
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 8,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "infectedvillager": {
+    "name": "被感染的村民",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 1550,
+    "level": 73,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 1,
+      "slash": 1,
+      "stab": 1,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 3,
+      "slash": 3,
+      "stab": 5,
+      "archery": 4,
+      "magic": 2
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "penguin": {
+    "name": "企鹅",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 526,
+    "level": 41,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 1,
+      "slash": 1,
+      "stab": 1,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 3,
+      "slash": 3,
+      "stab": 2,
+      "archery": 3,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "pierrot": {
+    "name": "小丑",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 150,
+    "level": 12,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 8,
+      "slash": 11,
+      "stab": 12,
+      "archery": 0,
+      "magic": 15
+    },
+    "defenseStats": {
+      "crush": 18,
+      "slash": 30,
+      "stab": 30,
+      "archery": 26,
+      "magic": 14
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "pinkelf": {
+    "name": "粉色精灵",
+    "description": "一只粉色精灵，它是粉色的，你还想知道什么。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 925,
+    "level": 123,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 19,
+      "stab": 24,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": 18,
+      "stab": 24,
+      "archery": 22,
+      "magic": 20
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 4,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "preta": {
+    "name": "饿鬼",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 495,
+    "level": 36,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 21,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 12
+    },
+    "defenseStats": {
+      "crush": 17,
+      "slash": 19,
+      "stab": 21,
+      "archery": 18,
+      "magic": -10
+    },
+    "bonuses": {
+      "accuracy": -4,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "purplepreta": {
+    "name": "紫色饿鬼",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 431,
+    "level": 31,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 9
+    },
+    "defenseStats": {
+      "crush": 14,
+      "slash": 11,
+      "stab": 16,
+      "archery": 10,
+      "magic": -12
+    },
+    "bonuses": {
+      "accuracy": -5,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "greencockroach": {
+    "name": "绿色蟑螂",
+    "description": "呃，一只蟑螂。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 785,
+    "level": 55,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 11,
+      "stab": 12,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -15,
+      "slash": 27,
+      "stab": 25,
+      "archery": 26,
+      "magic": -14
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "redcockroach": {
+    "name": "红色蟑螂",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 669,
+    "level": 44,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 300,
+    "respawnDelay": 45000,
+    "attackStats": {
+      "crush": 12,
+      "slash": 9,
+      "stab": 10,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -17,
+      "slash": 25,
+      "stab": 22,
+      "archery": 23,
+      "magic": -15
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 8,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "redelf": {
+    "name": "红色精灵",
+    "description": "一只红色的精灵，看起来就像开发者素材不够用了。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "mushrooms",
+      "fruits",
+      "vegetables"
+    ],
+    "hitPoints": 850,
+    "level": 110,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 19,
+      "stab": 24,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": 18,
+      "stab": 24,
+      "archery": 22,
+      "magic": 20
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 4,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "guardsword": {
+    "name": "卫兵",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 625,
+    "level": 47,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 21,
+      "slash": 25,
+      "stab": 25,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 21,
+      "slash": 30,
+      "stab": 14,
+      "archery": 18,
+      "magic": 12
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 3,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "guardmace": {
+    "name": "卫兵",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 625,
+    "level": 45,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 23,
+      "slash": 28,
+      "stab": 28,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 21,
+      "slash": 30,
+      "stab": 14,
+      "archery": 18,
+      "magic": 12
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 3,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "redguard": {
+    "name": "强盗",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 335,
+    "level": 44,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 19,
+      "slash": 28,
+      "stab": 17,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 20,
+      "slash": 40,
+      "stab": 9,
+      "archery": 12,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 12,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "redmouse": {
+    "name": "红色老鼠",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 160,
+    "level": 24,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 12,
+      "stab": 16,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -10,
+      "slash": -5,
+      "stab": 0,
+      "archery": 5,
+      "magic": -15
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "rhaphidophoridae": {
+    "name": "蟋蟀",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 3500,
+    "level": 93,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 25,
+      "stab": 12,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -10,
+      "slash": 12,
+      "stab": 10,
+      "archery": 10,
+      "magic": -18
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "rudolf": {
+    "name": "驯鹿",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 5550,
+    "level": 129,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 20,
+      "slash": 0,
+      "stab": 16,
+      "archery": 0,
+      "magic": 14
+    },
+    "defenseStats": {
+      "crush": 16,
+      "slash": 25,
+      "stab": 22,
+      "archery": -18,
+      "magic": 30
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 10
+    }
+  },
+  "santaelf": {
+    "name": "圣诞精灵",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 610,
+    "level": 136,
+    "aggroRange": 1,
+    "alwaysAggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 18,
+      "stab": 18,
+      "archery": 0,
+      "magic": 22
+    },
+    "defenseStats": {
+      "crush": -20,
+      "slash": 17,
+      "stab": 22,
+      "archery": 27,
+      "magic": 24
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 30
+    }
+  },
+  "scorpion": {
+    "name": "蝎子",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 2700,
+    "level": 18,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawDelay": 35000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 10,
+      "stab": 20,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -10,
+      "slash": 12,
+      "stab": 15,
+      "archery": 15,
+      "magic": -13
+    },
+    "bonuses": {
+      "accuracy": -5,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "skyelf": {
+    "name": "天空精灵",
+    "description": "住在天上的精灵……它在这儿干嘛？",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 1000,
+    "level": 134,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 19,
+      "stab": 24,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": 18,
+      "stab": 24,
+      "archery": 22,
+      "magic": 20
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 4,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "slime": {
+    "name": "史莱姆",
+    "description": "为什么每个游戏里都有史莱姆？",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits"
+    ],
+    "hitPoints": 694,
+    "level": 48,
+    "aggroRange": 3,
+    "attackRange": 6,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "poisonous": true,
+    "projectileName": "poisonball",
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 46,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 24,
+      "slash": 30,
+      "stab": 19,
+      "archery": 30,
+      "magic": -12
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 10,
+      "magic": 0
+    }
+  },
+  "smalldevil": {
+    "name": "堕落蝙蝠",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 100,
+    "level": 13,
+    "aggroRange": 2,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 6,
+      "stab": 4,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 5,
+      "slash": -3,
+      "stab": 2,
+      "archery": 2,
+      "magic": -7
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "snowelf": {
+    "name": "雪精灵",
+    "description": "来自雪之国度的魔法小精灵。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 920,
+    "level": 99,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 19,
+      "stab": 24,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": 18,
+      "stab": 24,
+      "archery": 22,
+      "magic": 20
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 4,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "snowman": {
+    "name": "雪人",
+    "description": "来自雪之国度的魔法雪人。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 750,
+    "level": 43,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 10,
+      "slash": 7,
+      "stab": 0,
+      "archery": 0,
+      "magic": 5
+    },
+    "defenseStats": {
+      "crush": -10,
+      "slash": 8,
+      "stab": 11,
+      "archery": 0,
+      "magic": -15
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 8
+    }
+  },
+  "snowman2": {
+    "name": "雪人",
+    "description": "我很好奇它抗不抗火。",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 850,
+    "level": 93,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 15,
+      "slash": 12,
+      "stab": 0,
+      "archery": 0,
+      "magic": 10
+    },
+    "defenseStats": {
+      "crush": -10,
+      "slash": 10,
+      "stab": 13,
+      "archery": 0,
+      "magic": -15
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 10
+    }
+  },
+  "rabbitman": {
+    "name": "兔子人",
+    "description": "一个……扮成兔子的家伙……为什么？",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 385,
+    "level": 37,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 7,
+      "stab": 8,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": -6,
+      "stab": -8,
+      "archery": -5,
+      "magic": -10
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": -5,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "snowrabbit": {
+    "name": "雪兔",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 340,
+    "level": 29,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 7,
+      "stab": 4,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -10,
+      "slash": 3,
+      "stab": 4,
+      "archery": 0,
+      "magic": -2
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "snowwolf": {
+    "name": "雪狼",
+    "description": "我真的以为这狼是用雪做的 :(",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 1185,
+    "level": 55,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 10,
+      "slash": 15,
+      "stab": 8,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 7,
+      "stab": 8,
+      "archery": -2,
+      "magic": -5
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 5,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "icegoblin": {
+    "name": "霜巨魔",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 475,
+    "level": 28,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 8,
+      "stab": 10,
+      "archery": 0,
+      "magic": 5
+    },
+    "defenseStats": {
+      "crush": -6,
+      "slash": 8,
+      "stab": 7,
+      "archery": 7,
+      "magic": -5
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "soldierant": {
+    "name": "兵蚁",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 526,
+    "level": 60,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 30,
+      "slash": 0,
+      "stab": 26,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -16,
+      "slash": 32,
+      "stab": 36,
+      "archery": 28,
+      "magic": -25
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "soybeanbug": {
+    "name": "豆虫",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 3500,
+    "level": 103,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 17,
+      "slash": 11,
+      "stab": 10,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -12,
+      "slash": 27,
+      "stab": 15,
+      "archery": 12,
+      "magic": -15
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 8,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "suicideghost": {
+    "name": "幽灵",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 750,
+    "level": 62,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 12
+    },
+    "defenseStats": {
+      "crush": 15,
+      "slash": 15,
+      "stab": 15,
+      "archery": 15,
+      "magic": -17
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 4
+    }
+  },
+  "vulture": {
+    "name": "秃鹫",
+    "drops": [
+      {
+        "key": "feather",
+        "chance": 25000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 100,
+    "level": 16,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 5,
+      "slash": 8,
+      "stab": 12,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 10,
+      "stab": 8,
+      "archery": -5,
+      "magic": -8
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "whitebear": {
+    "name": "白熊",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 1300,
+    "level": 42,
+    "aggroRange": 2,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 24,
+      "slash": 21,
+      "stab": 16,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 20,
+      "slash": 14,
+      "stab": 16,
+      "archery": 9,
+      "magic": -20
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 7,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "whitemouse": {
+    "name": "老鼠",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 750,
+    "level": 45,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 11,
+      "stab": 8,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -12,
+      "slash": 10,
+      "stab": 8,
+      "archery": 6,
+      "magic": -14
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "whitetiger": {
+    "name": "老虎",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 3350,
+    "level": 98,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 28,
+      "slash": 33,
+      "stab": 24,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 31,
+      "slash": 27,
+      "stab": 25,
+      "archery": 20,
+      "magic": -11
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "wolf": {
+    "name": "狼",
+    "drops": [
+      {
+        "key": "wolfhelmet",
+        "chance": 5000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 350,
+    "level": 16,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 28,
+      "stab": 12,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 18,
+      "slash": 10,
+      "stab": 29,
+      "archery": 14,
+      "magic": -6
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 8,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "darkwolf": {
+    "name": "暗黑狼",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 850,
+    "level": 118,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 375,
+    "respawnDelay": 75000,
+    "attackStats": {
+      "crush": 24,
+      "slash": 38,
+      "stab": 22,
+      "archery": 0,
+      "magic": 5
+    },
+    "defenseStats": {
+      "crush": 28,
+      "slash": 20,
+      "stab": 39,
+      "archery": 24,
+      "magic": -6
+    },
+    "bonuses": {
+      "accuracy": 7,
+      "strength": 12,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "yellowbat": {
+    "name": "变异蝙蝠",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 650,
+    "level": 60,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 28,
+      "stab": 12,
+      "archery": 14,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 18,
+      "slash": 10,
+      "stab": 29,
+      "archery": 14,
+      "magic": -8
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 8,
+      "archery": 4,
+      "magic": 0
+    }
+  },
+  "paladin": {
+    "name": "圣骑士",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 350,
+    "level": 16,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 6,
+      "stab": 4,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": -12,
+      "slash": 10,
+      "stab": 8,
+      "archery": 6,
+      "magic": -14
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "yellowmouse": {
+    "name": "黄色老鼠",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 750,
+    "level": 39,
+    "aggroRange": 1,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 8,
+      "stab": 6,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -14,
+      "slash": 8,
+      "stab": 6,
+      "archery": 5,
+      "magic": -14
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "yellowpreta": {
+    "name": "黄色饿鬼",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 526,
+    "level": 39,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 22,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 13
+    },
+    "defenseStats": {
+      "crush": 18,
+      "slash": 20,
+      "stab": 22,
+      "archery": 19,
+      "magic": -10
+    },
+    "bonuses": {
+      "accuracy": -3,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "zombie": {
+    "name": "僵尸",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 1250,
+    "level": 69,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 43,
+      "slash": 14,
+      "stab": 18,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 38,
+      "slash": 30,
+      "stab": 14,
+      "archery": 10,
+      "magic": -10
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 18,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "brownmouse": {
+    "name": "棕色老鼠",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 140,
+    "level": 22,
+    "aggroRange": 1,
+    "attackRate": 1100,
+    "movementSpeed": 400,
+    "respawnDelay": 35000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 12,
+      "stab": 16,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": -10,
+      "slash": -5,
+      "stab": 0,
+      "archery": 5,
+      "magic": -15
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "picklemob": {
+    "name": "海参",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 1250,
+    "level": 88,
+    "aggroRange": 4,
+    "attackRange": 10,
+    "alwaysAggressive": true,
+    "attackRate": 1300,
+    "movementSpeed": 1000,
+    "respawnDelay": 65000,
+    "projectileName": "terror",
+    "attackStats": {
+      "crush": 37,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 30,
+      "slash": 21,
+      "stab": 19,
+      "archery": 17,
+      "magic": 15
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 5,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "icerat": {
+    "name": "冰鼠",
+    "drops": [
+      {
+        "key": "rathatpet",
+        "chance": 3
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 710,
+    "level": 80,
+    "aggroRange": 1,
+    "attackRate": 1500,
+    "movementSpeed": 500,
+    "respawnDelay": 10000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 29,
+      "stab": 30,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 18,
+      "slash": 24,
+      "stab": 15,
+      "archery": 18,
+      "magic": -15
+    },
+    "bonuses": {
+      "accuracy": 15,
+      "strength": 16,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "icebat": {
+    "name": "冰冻蝙蝠",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 825,
+    "level": 86,
+    "aggroRange": 1,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 350,
+    "respawnDelay": 20000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 29,
+      "stab": 34,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 18,
+      "slash": 29,
+      "stab": 30,
+      "archery": 20,
+      "magic": -15
+    },
+    "bonuses": {
+      "accuracy": 19,
+      "strength": 18,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "icecrab": {
+    "name": "寒冰螃蟹",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows"
+    ],
+    "hitPoints": 860,
+    "level": 89,
+    "aggroRange": 1,
+    "attackRate": 1200,
+    "movementSpeed": 300,
+    "respawnDelay": 20000,
+    "attackStats": {
+      "crush": 20,
+      "slash": 31,
+      "stab": 34,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 21,
+      "slash": 29,
+      "stab": 32,
+      "archery": 20,
+      "magic": -15
+    },
+    "bonuses": {
+      "accuracy": 19,
+      "strength": 19,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "skeletonking": {
+    "name": "骷髅王",
+    "description": "看啊，r/neverbrokeabone 的扛把子来了。",
+    "drops": [
+      {
+        "key": "goldshield",
+        "chance": 2000
+      },
+      {
+        "key": "royalrapier",
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 1850,
+    "level": 32,
+    "aggroRange": 5,
+    "aggressive": true,
+    "attackRate": 900,
+    "movementSpeed": 420,
+    "respawnDelay": 80000,
+    "plugin": "skeletonking",
+    "boss": true,
+    "roamDistance": 16,
+    "achievement": "skeletonking",
+    "attackStats": {
+      "crush": 20,
+      "slash": 35,
+      "stab": 33,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 20,
+      "slash": 37,
+      "stab": 40,
+      "archery": 38,
+      "magic": 18
+    },
+    "bonuses": {
+      "accuracy": 15,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    },
+    "skills": {
+      "accuracy": 38,
+      "strength": 43,
+      "defense": 40,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "ogrelord": {
+    "name": "食人魔王",
+    "description": "这玩意儿把我炖成汤之前，我最好离它远点！",
+    "drops": [
+      {
+        "key": "firesword",
+        "chance": 1000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 2850,
+    "level": 44,
+    "aggroRange": 12,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 420,
+    "respawnDelay": 90000,
+    "roamingDistance": 16,
+    "plugin": "ogrelord",
+    "boss": true,
+    "achievement": "ogrelord",
+    "attackStats": {
+      "crush": 47,
+      "slash": 36,
+      "stab": 30,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 44,
+      "slash": 26,
+      "stab": 33,
+      "archery": 25,
+      "magic": 18
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 17,
+      "archery": 0,
+      "magic": 0
+    },
+    "skills": {
+      "accuracy": 38,
+      "strength": 33,
+      "defense": 40,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "hellhound": {
+    "name": "地狱犬",
+    "description": "这玩意儿把我炖成汤之前，我最好离它远点！",
+    "drops": [
+      {
+        "key": "hellhoundfang",
+        "chance": 250
+      },
+      {
+        "key": "hellkeeperhelm",
+        "chance": 400
+      },
+      {
+        "key": "hellkeeperchestplate",
+        "chance": 400
+      },
+      {
+        "key": "hellkeeperlegs",
+        "chance": 400
+      },
+      {
+        "key": "hellkeeperboots",
+        "chance": 400
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 4550,
+    "level": 55,
+    "aggroRange": 12,
+    "aggressive": true,
+    "attackRate": 1000,
+    "movementSpeed": 420,
+    "respawnDelay": 90000,
+    "roamingDistance": 16,
+    "projectileName": "yellowlightning",
+    "plugin": "hellhound",
+    "boss": true,
+    "achievement": "hellhound",
+    "attackStats": {
+      "crush": 120,
+      "slash": 140,
+      "stab": 160,
+      "archery": 100,
+      "magic": 100
+    },
+    "defenseStats": {
+      "crush": 160,
+      "slash": 120,
+      "stab": 130,
+      "archery": 50,
+      "magic": 130
+    },
+    "bonuses": {
+      "accuracy": 50,
+      "strength": 50,
+      "archery": 20,
+      "magic": 40
+    },
+    "skills": {
+      "accuracy": 80,
+      "strength": 70,
+      "defense": 50,
+      "archery": 80,
+      "magic": 70
+    }
+  },
+  "windguardian": {
+    "name": "狂风守卫",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 15000,
+    "projectileName": "iceball",
+    "level": 195,
+    "aggroRange": 3,
+    "attackRange": 6,
+    "aggressive": true,
+    "attackRate": 1300,
+    "movementSpeed": 500,
+    "respawnDelay": 95000,
+    "attackStats": {
+      "crush": 85,
+      "slash": 104,
+      "stab": 112,
+      "archery": 0,
+      "magic": 97
+    },
+    "defenseStats": {
+      "crush": 80,
+      "slash": 85,
+      "stab": 97,
+      "archery": 93,
+      "magic": 65
+    },
+    "bonuses": {
+      "accuracy": 25,
+      "strength": 18,
+      "archery": 0,
+      "magic": 10
+    },
+    "skills": {
+      "accuracy": 40,
+      "strength": 70,
+      "defense": 30,
+      "archery": 80,
+      "magic": 70
+    }
+  },
+  "lightningguardian": {
+    "name": "雷霆守卫",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 4500,
+    "level": 64,
+    "aggroRange": 6,
+    "aggressive": true,
+    "attackRate": 1750,
+    "movementSpeed": 600,
+    "respawnDelay": 95000,
+    "attackStats": {
+      "crush": 145,
+      "slash": 154,
+      "stab": 162,
+      "archery": 0,
+      "magic": 167
+    },
+    "defenseStats": {
+      "crush": 40,
+      "slash": 45,
+      "stab": 57,
+      "archery": 53,
+      "magic": 35
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 7,
+      "archery": 0,
+      "magic": 12
+    },
+    "skills": {
+      "accuracy": 40,
+      "strength": 70,
+      "defense": 30,
+      "archery": 80,
+      "magic": 70
+    }
+  },
+  "darkregion": {
+    "name": "泰尼布里斯",
+    "drops": [
+      {
+        "key": "bladeofdarkness",
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 4000,
+    "level": 79,
+    "aggroRange": 5,
+    "aggressive": true,
+    "attackRate": 1500,
+    "movementSpeed": 600,
+    "respawnDelay": 95000,
+    "attackStats": {
+      "crush": 130,
+      "slash": 224,
+      "stab": 126,
+      "archery": 0,
+      "magic": 150
+    },
+    "defenseStats": {
+      "crush": 133,
+      "slash": 136,
+      "stab": 135,
+      "archery": 0,
+      "magic": 195
+    },
+    "bonuses": {
+      "accuracy": 80,
+      "strength": 90,
+      "archery": 0,
+      "magic": 72
+    },
+    "skills": {
+      "accuracy": 140,
+      "strength": 150,
+      "defense": 130,
+      "archery": 140,
+      "magic": 130
+    }
+  },
+  "darkregionillusion": {
+    "name": "泰尼布里斯",
+    "hitPoints": 500,
+    "level": 79,
+    "aggroRange": 8,
+    "aggressive": true,
+    "attackRate": 1300,
+    "movementSpeed": 800,
+    "attackStats": {
+      "crush": 6,
+      "slash": 4,
+      "stab": 5,
+      "archery": 0,
+      "magic": 9
+    },
+    "defenseStats": {
+      "crush": 3,
+      "slash": 6,
+      "stab": 5,
+      "archery": 5,
+      "magic": 2
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 5
+    }
+  },
+  "miniseadragon": {
+    "name": "迷你海龙",
+    "description": "呜哇，这是之后会踩扁我的东西的迷你版！",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 1200,
+    "level": 52,
+    "aggroRange": 6,
+    "aggressive": true,
+    "attackRate": 1500,
+    "movementSpeed": 450,
+    "respawnDelay": 95000,
+    "attackStats": {
+      "crush": 48,
+      "slash": 52,
+      "stab": 51,
+      "archery": 0,
+      "magic": 55
+    },
+    "defenseStats": {
+      "crush": 61,
+      "slash": 66,
+      "stab": 60,
+      "archery": 54,
+      "magic": 30
+    },
+    "bonuses": {
+      "accuracy": 9,
+      "strength": 0,
+      "archery": 0,
+      "magic": 8
+    },
+    "skills": {
+      "accuracy": 40,
+      "strength": 50,
+      "defense": 30,
+      "archery": 40,
+      "magic": 30
+    }
+  },
+  "forestdragon": {
+    "name": "森林之龙",
+    "description": "Keros 最喜欢的宠物！",
+    "drops": [
+      {
+        "key": "dragonscale",
+        "chance": 1500
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 6942,
+    "level": 258,
+    "aggroRange": 8,
+    "roamDistance": 20,
+    "alwaysAggressive": true,
+    "attackRate": 1200,
+    "movementSpeed": 600,
+    "respawnDelay": 180000,
+    "projectileName": "fireball",
+    "achievement": "forestdragon",
+    "plugin": "forestdragon",
+    "attackStats": {
+      "crush": 110,
+      "slash": 128,
+      "stab": 133,
+      "archery": 120,
+      "magic": 136
+    },
+    "defenseStats": {
+      "crush": 160,
+      "slash": 120,
+      "stab": 130,
+      "archery": 50,
+      "magic": 130
+    },
+    "bonuses": {
+      "accuracy": 50,
+      "strength": 50,
+      "archery": 20,
+      "magic": 40
+    },
+    "skills": {
+      "accuracy": 90,
+      "strength": 100,
+      "defense": 80,
+      "archery": 110,
+      "magic": 100
+    }
+  },
+  "enel": {
+    "name": "卢森迪",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 25000,
+    "level": 256,
+    "aggroRange": 2,
+    "attackRange": 2,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 800,
+    "respawnDelay": 95000,
+    "attackStats": {
+      "crush": 130,
+      "slash": 158,
+      "stab": 163,
+      "archery": 0,
+      "magic": 186
+    },
+    "defenseStats": {
+      "crush": 190,
+      "slash": 155,
+      "stab": 156,
+      "archery": 163,
+      "magic": 180
+    },
+    "bonuses": {
+      "accuracy": 70,
+      "strength": 60,
+      "archery": 30,
+      "magic": 80
+    }
+  },
+  "seadragon": {
+    "name": "海龙",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 100,
+    "level": 485,
+    "aggroRange": 4,
+    "aggressive": true,
+    "attackRate": 1500,
+    "movementSpeed": 600,
+    "respawnDelay": 95000,
+    "attackStats": {
+      "crush": 82,
+      "slash": 77,
+      "stab": 78,
+      "archery": 0,
+      "magic": 85
+    },
+    "defenseStats": {
+      "crush": 100,
+      "slash": 95,
+      "stab": 88,
+      "archery": 95,
+      "magic": 80
+    },
+    "bonuses": {
+      "accuracy": 48,
+      "strength": 52,
+      "archery": 0,
+      "magic": 60
+    }
+  },
+  "minidragon": {
+    "name": "迷你龙",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 380,
+    "level": 77,
+    "aggroRange": 5,
+    "attackRange": 9,
+    "aggressive": true,
+    "attackRate": 1500,
+    "movementSpeed": 600,
+    "respawnDelay": 95000,
+    "projectileName": "fireball",
+    "attackStats": {
+      "crush": 0,
+      "slash": 22,
+      "stab": 25,
+      "archery": 0,
+      "magic": 30
+    },
+    "defenseStats": {
+      "crush": 22,
+      "slash": 18,
+      "stab": 15,
+      "archery": 14,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 6,
+      "archery": 0,
+      "magic": 12
+    }
+  },
+  "queenant": {
+    "name": "蚁后",
+    "drops": [
+      {
+        "key": "helmofliberty",
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 4200,
+    "level": 94,
+    "aggroRange": 14,
+    "alwaysAggressive": true,
+    "attackRate": 1500,
+    "roamDistance": 12,
+    "movementSpeed": 600,
+    "projectileName": "terror",
+    "respawnDelay": 80000,
+    "healRate": 1000,
+    "achievement": "queenant",
+    "plugin": "queenant",
+    "attackStats": {
+      "crush": 80,
+      "slash": 72,
+      "stab": 77,
+      "archery": 0,
+      "magic": 78
+    },
+    "defenseStats": {
+      "crush": 100,
+      "slash": 140,
+      "stab": 120,
+      "archery": 40,
+      "magic": 60
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 20,
+      "archery": 0,
+      "magic": 0
+    },
+    "skills": {
+      "accuracy": 68,
+      "strength": 73,
+      "defense": 40,
+      "archery": 55,
+      "magic": 60
+    }
+  },
+  "skydinosaur": {
+    "name": "富尔古",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 50000,
+    "level": 435,
+    "aggroRange": 4,
+    "attackRange": 2,
+    "aggressive": true,
+    "attackRate": 1800,
+    "movementSpeed": 500,
+    "respawnDelay": 95000,
+    "attackStats": {
+      "crush": 170,
+      "slash": 185,
+      "stab": 180,
+      "archery": 0,
+      "magic": 150
+    },
+    "defenseStats": {
+      "crush": 190,
+      "slash": 165,
+      "stab": 160,
+      "archery": 156,
+      "magic": 150
+    },
+    "bonuses": {
+      "accuracy": 52,
+      "strength": 65,
+      "archery": 45,
+      "magic": 68
+    },
+    "skills": {
+      "accuracy": 168,
+      "strength": 173,
+      "defense": 140,
+      "archery": 155,
+      "magic": 90
+    }
+  },
+  "squid": {
+    "name": "巨型乌贼",
+    "drops": [
+      {
+        "key": "twilightgreataxe",
+        "chance": 2500
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 3800,
+    "level": 171,
+    "aggroRange": 7,
+    "attackRange": 4,
+    "aggressive": true,
+    "projectileName": "terror",
+    "attackRate": 1300,
+    "movementSpeed": 1200,
+    "respawnDelay": 95000,
+    "attackStats": {
+      "crush": 140,
+      "slash": 147,
+      "stab": 145,
+      "archery": 140,
+      "magic": 120
+    },
+    "defenseStats": {
+      "crush": 143,
+      "slash": 138,
+      "stab": 130,
+      "archery": 128,
+      "magic": 100
+    },
+    "bonuses": {
+      "accuracy": 35,
+      "strength": 30,
+      "archery": 45,
+      "magic": 30
+    },
+    "skills": {
+      "accuracy": 98,
+      "strength": 103,
+      "defense": 60,
+      "archery": 75,
+      "magic": 90
+    }
+  },
+  "snowlady": {
+    "name": "雪之女王",
+    "drops": [
+      {
+        "key": "swashbuckler",
+        "chance": 1000
+      },
+      {
+        "key": "bident",
+        "chance": 1500
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 2800,
+    "level": 180,
+    "aggroRange": 7,
+    "attackRange": 4,
+    "aggressive": true,
+    "projectileName": "iceball",
+    "attackRate": 1300,
+    "movementSpeed": 1200,
+    "respawnDelay": 95000,
+    "attackStats": {
+      "crush": 60,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 65
+    },
+    "defenseStats": {
+      "crush": 33,
+      "slash": 58,
+      "stab": 60,
+      "archery": 59,
+      "magic": 20
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 20,
+      "archery": 0,
+      "magic": 30
+    }
+  },
+  "frostqueen": {
+    "name": "冰霜女王",
+    "drops": [
+      {
+        "key": "timelessglaive",
+        "chance": 2000
+      },
+      {
+        "key": "moongreataxe",
+        "chance": 40
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 2800,
+    "level": 180,
+    "aggroRange": 7,
+    "attackRange": 4,
+    "aggressive": true,
+    "projectileName": "iceball",
+    "attackRate": 1300,
+    "movementSpeed": 1200,
+    "respawnDelay": 95000,
+    "attackStats": {
+      "crush": 0,
+      "slash": 50,
+      "stab": 58,
+      "archery": 60,
+      "magic": 65
+    },
+    "defenseStats": {
+      "crush": 43,
+      "slash": 62,
+      "stab": 65,
+      "archery": 59,
+      "magic": 22
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 20,
+      "archery": 0,
+      "magic": 30
+    }
+  },
+  "eliminator": {
+    "name": "终结者",
+    "drops": [
+      {
+        "key": "executionershammer",
+        "chance": 1000
+      }
+    ],
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 2000,
+    "level": 65,
+    "aggroRange": 7,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 500,
+    "respawnDelay": 95000,
+    "attackStats": {
+      "crush": 44,
+      "slash": 47,
+      "stab": 49,
+      "archery": 41,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 38,
+      "slash": 50,
+      "stab": 48,
+      "archery": 49,
+      "magic": 30
+    },
+    "bonuses": {
+      "accuracy": 15,
+      "strength": 13,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  "santa": {
+    "name": "圣诞老人",
+    "dropTables": [
+      "ordinary",
+      "shards",
+      "unusual",
+      "arrows",
+      "vegetables",
+      "fruits",
+      "mushrooms"
+    ],
+    "hitPoints": 7500,
+    "level": 240,
+    "aggroRange": 18,
+    "attackRange": 16,
+    "aggressive": true,
+    "attackRate": 1100,
+    "movementSpeed": 500,
+    "respawnDelay": 180000,
+    "projectileName": "gift",
+    "plugin": "santa",
+    "roamingDistance": 16,
+    "attackStats": {
+      "crush": 145,
+      "slash": 120,
+      "stab": 137,
+      "archery": 0,
+      "magic": 150
+    },
+    "defenseStats": {
+      "crush": 160,
+      "slash": 152,
+      "stab": 145,
+      "archery": 140,
+      "magic": 120
+    },
+    "bonuses": {
+      "accuracy": 54,
+      "strength": 80,
+      "archery": 0,
+      "magic": 63
+    },
+    "skills": {
+      "accuracy": 71,
+      "strength": 83,
+      "defense": 66,
+      "archery": 76,
+      "magic": 83
+    }
+  },
+  "kd_mob_1": {
+    "name": "鸡",
+    "level": 5,
+    "hitPoints": 12,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 1,
+      "slash": 1,
+      "stab": 1,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 10
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_2": {
+    "name": "鹿",
+    "level": 12,
+    "hitPoints": 16,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 2,
+      "slash": 2,
+      "stab": 2,
+      "archery": 0,
+      "magic": 1
+    },
+    "defenseStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 30
+      },
+      {
+        "key": "kd_weapon_90",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_3": {
+    "name": "稻草人",
+    "level": 50,
+    "hitPoints": 20,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 4,
+      "slash": 4,
+      "stab": 4,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 0,
+      "slash": -1,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 60
+      },
+      {
+        "key": "kd_weaponmagic_12",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_4": {
+    "name": "钉耙猫",
+    "level": 13,
+    "hitPoints": 24,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 6,
+      "slash": 6,
+      "stab": 6,
+      "archery": 0,
+      "magic": 3
+    },
+    "defenseStats": {
+      "crush": -1,
+      "slash": -1,
+      "stab": -1,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 80
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_5": {
+    "name": "森林雪人",
+    "level": 16,
+    "hitPoints": 28,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 8,
+      "slash": 8,
+      "stab": 8,
+      "archery": 0,
+      "magic": 4
+    },
+    "defenseStats": {
+      "crush": -1,
+      "slash": -2,
+      "stab": -1,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 110
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_6": {
+    "name": "半兽战士",
+    "level": 22,
+    "hitPoints": 33,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 10,
+      "slash": 10,
+      "stab": 10,
+      "archery": 0,
+      "magic": 6
+    },
+    "defenseStats": {
+      "crush": -1,
+      "slash": -2,
+      "stab": -1,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 130
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_7": {
+    "name": "半兽勇士",
+    "level": 28,
+    "hitPoints": 37,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 12,
+      "slash": 12,
+      "stab": 12,
+      "archery": 0,
+      "magic": 7
+    },
+    "defenseStats": {
+      "crush": -2,
+      "slash": -3,
+      "stab": -2,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 160
+      },
+      {
+        "key": "kd_chestplate_37",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_8": {
+    "name": "毒蜘蛛",
+    "level": 16,
+    "hitPoints": 41,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 14,
+      "slash": 14,
+      "stab": 14,
+      "archery": 0,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": -2,
+      "slash": -3,
+      "stab": -2,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 180
+      },
+      {
+        "key": "kd_weapon_28",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_9": {
+    "name": "红蛇",
+    "level": 17,
+    "hitPoints": 45,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 16,
+      "slash": 16,
+      "stab": 16,
+      "archery": 0,
+      "magic": 9
+    },
+    "defenseStats": {
+      "crush": -3,
+      "slash": -4,
+      "stab": -3,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 210
+      },
+      {
+        "key": "kd_boots_1",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_10": {
+    "name": "虎蛇",
+    "level": 18,
+    "hitPoints": 49,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 18,
+      "stab": 18,
+      "archery": 0,
+      "magic": 10
+    },
+    "defenseStats": {
+      "crush": -3,
+      "slash": -4,
+      "stab": -3,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 230
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_11": {
+    "name": "山洞蝙蝠",
+    "level": 20,
+    "hitPoints": 54,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 20,
+      "slash": 20,
+      "stab": 20,
+      "archery": 0,
+      "magic": 12
+    },
+    "defenseStats": {
+      "crush": -3,
+      "slash": -5,
+      "stab": -3,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 260
+      },
+      {
+        "key": "kd_chestplate_35",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_12": {
+    "name": "掷斧骷髅",
+    "level": 18,
+    "hitPoints": 58,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 22,
+      "slash": 22,
+      "stab": 22,
+      "archery": 0,
+      "magic": 13
+    },
+    "defenseStats": {
+      "crush": -4,
+      "slash": -5,
+      "stab": -4,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 280
+      },
+      {
+        "key": "kd_weapon_91",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_13": {
+    "name": "骷髅战士",
+    "level": 19,
+    "hitPoints": 62,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 24,
+      "slash": 24,
+      "stab": 24,
+      "archery": 0,
+      "magic": 14
+    },
+    "defenseStats": {
+      "crush": -4,
+      "slash": -6,
+      "stab": -4,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 310
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_14": {
+    "name": "骷髅战将",
+    "level": 20,
+    "hitPoints": 66,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 27,
+      "slash": 27,
+      "stab": 27,
+      "archery": 0,
+      "magic": 16
+    },
+    "defenseStats": {
+      "crush": -5,
+      "slash": -6,
+      "stab": -5,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 340
+      },
+      {
+        "key": "kd_weapon_35",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_15": {
+    "name": "骷髅精灵",
+    "level": 50,
+    "hitPoints": 70,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 28,
+      "slash": 28,
+      "stab": 28,
+      "archery": 0,
+      "magic": 16
+    },
+    "defenseStats": {
+      "crush": -5,
+      "slash": -7,
+      "stab": -5,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 360
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_16": {
+    "name": "和尚僵尸",
+    "level": 39,
+    "hitPoints": 75,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 31,
+      "slash": 31,
+      "stab": 31,
+      "archery": 0,
+      "magic": 18
+    },
+    "defenseStats": {
+      "crush": -5,
+      "slash": -7,
+      "stab": -5,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 390
+      },
+      {
+        "key": "kd_weapon_34",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_17": {
+    "name": "僵尸",
+    "level": 25,
+    "hitPoints": 79,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 32,
+      "slash": 32,
+      "stab": 32,
+      "archery": 0,
+      "magic": 19
+    },
+    "defenseStats": {
+      "crush": -6,
+      "slash": -8,
+      "stab": -6,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 410
+      },
+      {
+        "key": "kd_weapon_70",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_18": {
+    "name": "蜈蚣",
+    "level": 26,
+    "hitPoints": 83,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 35,
+      "slash": 35,
+      "stab": 35,
+      "archery": 0,
+      "magic": 21
+    },
+    "defenseStats": {
+      "crush": -6,
+      "slash": -8,
+      "stab": -6,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 440
+      },
+      {
+        "key": "kd_weapon_81",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_19": {
+    "name": "黑色恶蛆",
+    "level": 28,
+    "hitPoints": 87,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 36,
+      "slash": 36,
+      "stab": 36,
+      "archery": 0,
+      "magic": 21
+    },
+    "defenseStats": {
+      "crush": -6,
+      "slash": -9,
+      "stab": -6,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 460
+      },
+      {
+        "key": "kd_weapon_72",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_20": {
+    "name": "巨型蠕虫",
+    "level": 26,
+    "hitPoints": 91,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 39,
+      "slash": 39,
+      "stab": 39,
+      "archery": 0,
+      "magic": 23
+    },
+    "defenseStats": {
+      "crush": -7,
+      "slash": -9,
+      "stab": -7,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 490
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_21": {
+    "name": "钳虫",
+    "level": 31,
+    "hitPoints": 96,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 40,
+      "slash": 40,
+      "stab": 40,
+      "archery": 0,
+      "magic": 24
+    },
+    "defenseStats": {
+      "crush": -7,
+      "slash": -10,
+      "stab": -7,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 510
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_22": {
+    "name": "邪恶钳虫",
+    "level": 60,
+    "hitPoints": 100,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 43,
+      "slash": 43,
+      "stab": 43,
+      "archery": 0,
+      "magic": 25
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": -10,
+      "stab": -8,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 540
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_23": {
+    "name": "触龙神",
+    "level": 60,
+    "hitPoints": 3132,
+    "isBoss": true,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 44,
+      "slash": 44,
+      "stab": 44,
+      "archery": 0,
+      "magic": 26
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": -11,
+      "stab": -8,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 100000,
+        "count": 560
+      },
+      {
+        "key": "kd_flask_heal",
+        "chance": 50000
+      },
+      {
+        "key": "kd_weapon_80",
+        "chance": 30000
+      },
+      {
+        "key": "kd_blessingoil",
+        "count": 1,
+        "chance": 5000
+      },
+      {
+        "key": "kd_protection",
+        "count": 1,
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_24": {
+    "name": "火焰沃玛",
+    "level": 31,
+    "hitPoints": 108,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 47,
+      "slash": 47,
+      "stab": 47,
+      "archery": 0,
+      "magic": 28
+    },
+    "defenseStats": {
+      "crush": -8,
+      "slash": -11,
+      "stab": -8,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 590
+      },
+      {
+        "key": "kd_weapon_59",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_25": {
+    "name": "沃玛勇士",
+    "level": 30,
+    "hitPoints": 112,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 49,
+      "slash": 49,
+      "stab": 49,
+      "archery": 0,
+      "magic": 29
+    },
+    "defenseStats": {
+      "crush": -9,
+      "slash": -12,
+      "stab": -9,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 620
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_26": {
+    "name": "沃玛战将",
+    "level": 30,
+    "hitPoints": 117,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 51,
+      "slash": 51,
+      "stab": 51,
+      "archery": 0,
+      "magic": 30
+    },
+    "defenseStats": {
+      "crush": -9,
+      "slash": -12,
+      "stab": -9,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 640
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_27": {
+    "name": "沃玛教主",
+    "level": 60,
+    "hitPoints": 3636,
+    "isBoss": true,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 53,
+      "slash": 53,
+      "stab": 53,
+      "archery": 0,
+      "magic": 31
+    },
+    "defenseStats": {
+      "crush": -10,
+      "slash": -13,
+      "stab": -10,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 100000,
+        "count": 670
+      },
+      {
+        "key": "kd_flask_heal",
+        "chance": 50000
+      },
+      {
+        "key": "kd_blessingoil",
+        "count": 1,
+        "chance": 5000
+      },
+      {
+        "key": "kd_protection",
+        "count": 1,
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_28": {
+    "name": "红野猪",
+    "level": 40,
+    "hitPoints": 125,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 55,
+      "slash": 55,
+      "stab": 55,
+      "archery": 0,
+      "magic": 33
+    },
+    "defenseStats": {
+      "crush": -10,
+      "slash": -13,
+      "stab": -10,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 690
+      },
+      {
+        "key": "kd_weapon_17",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_29": {
+    "name": "黑野猪",
+    "level": 40,
+    "hitPoints": 129,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 57,
+      "slash": 57,
+      "stab": 57,
+      "archery": 0,
+      "magic": 34
+    },
+    "defenseStats": {
+      "crush": -10,
+      "slash": -14,
+      "stab": -10,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 720
+      },
+      {
+        "key": "kd_weaponmagic_8",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_30": {
+    "name": "白野猪",
+    "level": 50,
+    "hitPoints": 133,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 59,
+      "slash": 59,
+      "stab": 59,
+      "archery": 0,
+      "magic": 35
+    },
+    "defenseStats": {
+      "crush": -11,
+      "slash": -14,
+      "stab": -11,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 740
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_31": {
+    "name": "大老鼠",
+    "level": 24,
+    "hitPoints": 138,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 61,
+      "slash": 61,
+      "stab": 61,
+      "archery": 0,
+      "magic": 36
+    },
+    "defenseStats": {
+      "crush": -11,
+      "slash": -15,
+      "stab": -11,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 770
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_32": {
+    "name": "祖玛弓箭手",
+    "level": 40,
+    "hitPoints": 142,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 63,
+      "slash": 63,
+      "stab": 63,
+      "archery": 0,
+      "magic": 37
+    },
+    "defenseStats": {
+      "crush": -11,
+      "slash": -15,
+      "stab": -11,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 790
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_33": {
+    "name": "祖玛雕像",
+    "level": 42,
+    "hitPoints": 146,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 65,
+      "slash": 65,
+      "stab": 65,
+      "archery": 0,
+      "magic": 39
+    },
+    "defenseStats": {
+      "crush": -12,
+      "slash": -16,
+      "stab": -12,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 820
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_34": {
+    "name": "祖玛卫士",
+    "level": 50,
+    "hitPoints": 150,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 67,
+      "slash": 67,
+      "stab": 67,
+      "archery": 0,
+      "magic": 40
+    },
+    "defenseStats": {
+      "crush": -12,
+      "slash": -16,
+      "stab": -12,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 840
+      },
+      {
+        "key": "kd_weapon_100",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_35": {
+    "name": "祖玛教主",
+    "level": 60,
+    "hitPoints": 4643,
+    "isBoss": true,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 69,
+      "slash": 69,
+      "stab": 69,
+      "archery": 0,
+      "magic": 41
+    },
+    "defenseStats": {
+      "crush": -13,
+      "slash": -17,
+      "stab": -13,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 100000,
+        "count": 870
+      },
+      {
+        "key": "kd_flask_heal",
+        "chance": 50000
+      },
+      {
+        "key": "kd_blessingoil",
+        "count": 1,
+        "chance": 5000
+      },
+      {
+        "key": "kd_protection",
+        "count": 1,
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_36": {
+    "name": "虹魔蝎卫",
+    "level": 60,
+    "hitPoints": 159,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 71,
+      "slash": 71,
+      "stab": 71,
+      "archery": 0,
+      "magic": 42
+    },
+    "defenseStats": {
+      "crush": -13,
+      "slash": -17,
+      "stab": -13,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 890
+      },
+      {
+        "key": "kd_weapon_78",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_37": {
+    "name": "虹魔猪卫",
+    "level": 60,
+    "hitPoints": 163,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 73,
+      "slash": 73,
+      "stab": 73,
+      "archery": 0,
+      "magic": 43
+    },
+    "defenseStats": {
+      "crush": -13,
+      "slash": -18,
+      "stab": -13,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 920
+      },
+      {
+        "key": "kd_weapon_56",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_38": {
+    "name": "虹魔教主",
+    "level": 60,
+    "hitPoints": 5022,
+    "isBoss": true,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 76,
+      "slash": 76,
+      "stab": 76,
+      "archery": 0,
+      "magic": 45
+    },
+    "defenseStats": {
+      "crush": -14,
+      "slash": -19,
+      "stab": -14,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 100000,
+        "count": 950
+      },
+      {
+        "key": "kd_flask_heal",
+        "chance": 50000
+      },
+      {
+        "key": "kd_blessingoil",
+        "count": 1,
+        "chance": 5000
+      },
+      {
+        "key": "kd_protection",
+        "count": 1,
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_39": {
+    "name": "牛魔斗士",
+    "level": 40,
+    "hitPoints": 171,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 77,
+      "slash": 77,
+      "stab": 77,
+      "archery": 0,
+      "magic": 46
+    },
+    "defenseStats": {
+      "crush": -14,
+      "slash": -19,
+      "stab": -14,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 970
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_40": {
+    "name": "牛魔侍卫",
+    "level": 40,
+    "hitPoints": 175,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 80,
+      "slash": 80,
+      "stab": 80,
+      "archery": 0,
+      "magic": 48
+    },
+    "defenseStats": {
+      "crush": -15,
+      "slash": -20,
+      "stab": -15,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1000
+      },
+      {
+        "key": "kd_weapon_24",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_41": {
+    "name": "牛魔将军",
+    "level": 55,
+    "hitPoints": 180,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 81,
+      "slash": 81,
+      "stab": 81,
+      "archery": 0,
+      "magic": 48
+    },
+    "defenseStats": {
+      "crush": -15,
+      "slash": -20,
+      "stab": -15,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1020
+      },
+      {
+        "key": "kd_weapon_26",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_42": {
+    "name": "牛魔法师",
+    "level": 40,
+    "hitPoints": 184,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 84,
+      "slash": 84,
+      "stab": 84,
+      "archery": 0,
+      "magic": 50
+    },
+    "defenseStats": {
+      "crush": -15,
+      "slash": -21,
+      "stab": -15,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1050
+      },
+      {
+        "key": "kd_weapon_33",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_43": {
+    "name": "牛魔祭司",
+    "level": 55,
+    "hitPoints": 188,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 85,
+      "slash": 85,
+      "stab": 85,
+      "archery": 0,
+      "magic": 51
+    },
+    "defenseStats": {
+      "crush": -16,
+      "slash": -21,
+      "stab": -16,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1070
+      },
+      {
+        "key": "kd_weapon_41",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_44": {
+    "name": "牛魔王",
+    "level": 60,
+    "hitPoints": 5777,
+    "isBoss": true,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 88,
+      "slash": 88,
+      "stab": 88,
+      "archery": 0,
+      "magic": 52
+    },
+    "defenseStats": {
+      "crush": -16,
+      "slash": -22,
+      "stab": -16,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 100000,
+        "count": 1100
+      },
+      {
+        "key": "kd_flask_heal",
+        "chance": 50000
+      },
+      {
+        "key": "kd_weapon_30",
+        "chance": 30000
+      },
+      {
+        "key": "kd_blessingoil",
+        "count": 1,
+        "chance": 5000
+      },
+      {
+        "key": "kd_protection",
+        "count": 1,
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_45": {
+    "name": "月魔蜘蛛",
+    "level": 52,
+    "hitPoints": 196,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 89,
+      "slash": 89,
+      "stab": 89,
+      "archery": 0,
+      "magic": 53
+    },
+    "defenseStats": {
+      "crush": -16,
+      "slash": -22,
+      "stab": -16,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1120
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_46": {
+    "name": "血僵尸",
+    "level": 55,
+    "hitPoints": 201,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 92,
+      "slash": 92,
+      "stab": 92,
+      "archery": 0,
+      "magic": 55
+    },
+    "defenseStats": {
+      "crush": -17,
+      "slash": -23,
+      "stab": -17,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1150
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_47": {
+    "name": "花吻蜘蛛",
+    "level": 54,
+    "hitPoints": 205,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 93,
+      "slash": 93,
+      "stab": 93,
+      "archery": 0,
+      "magic": 55
+    },
+    "defenseStats": {
+      "crush": -17,
+      "slash": -23,
+      "stab": -17,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1170
+      },
+      {
+        "key": "kd_weapon_22",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_48": {
+    "name": "黑锷蜘蛛",
+    "level": 53,
+    "hitPoints": 209,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 96,
+      "slash": 96,
+      "stab": 96,
+      "archery": 0,
+      "magic": 57
+    },
+    "defenseStats": {
+      "crush": -18,
+      "slash": -24,
+      "stab": -18,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1200
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_49": {
+    "name": "双头血魔",
+    "level": 55,
+    "hitPoints": 213,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 98,
+      "slash": 98,
+      "stab": 98,
+      "archery": 0,
+      "magic": 58
+    },
+    "defenseStats": {
+      "crush": -18,
+      "slash": -24,
+      "stab": -18,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1230
+      },
+      {
+        "key": "kd_weapon_23",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_50": {
+    "name": "双头金刚",
+    "level": 55,
+    "hitPoints": 217,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 100,
+      "slash": 100,
+      "stab": 100,
+      "archery": 0,
+      "magic": 60
+    },
+    "defenseStats": {
+      "crush": -18,
+      "slash": -25,
+      "stab": -18,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1250
+      },
+      {
+        "key": "kd_weapon_50",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_51": {
+    "name": "赤月恶魔",
+    "level": 60,
+    "hitPoints": 6660,
+    "isBoss": true,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 102,
+      "slash": 102,
+      "stab": 102,
+      "archery": 0,
+      "magic": 61
+    },
+    "defenseStats": {
+      "crush": -19,
+      "slash": -25,
+      "stab": -19,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 100000,
+        "count": 1280
+      },
+      {
+        "key": "kd_flask_heal",
+        "chance": 50000
+      },
+      {
+        "key": "kd_blessingoil",
+        "count": 1,
+        "chance": 5000
+      },
+      {
+        "key": "kd_protection",
+        "count": 1,
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_52": {
+    "name": "魔龙教主",
+    "level": 70,
+    "hitPoints": 6785,
+    "isBoss": true,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 104,
+      "slash": 104,
+      "stab": 104,
+      "archery": 0,
+      "magic": 62
+    },
+    "defenseStats": {
+      "crush": -19,
+      "slash": -26,
+      "stab": -19,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 100000,
+        "count": 1300
+      },
+      {
+        "key": "kd_flask_heal",
+        "chance": 50000
+      },
+      {
+        "key": "kd_weapon_39",
+        "chance": 30000
+      },
+      {
+        "key": "kd_blessingoil",
+        "count": 1,
+        "chance": 5000
+      },
+      {
+        "key": "kd_protection",
+        "count": 1,
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_53": {
+    "name": "魔龙巨蛾",
+    "level": 65,
+    "hitPoints": 230,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 106,
+      "slash": 106,
+      "stab": 106,
+      "archery": 0,
+      "magic": 63
+    },
+    "defenseStats": {
+      "crush": -19,
+      "slash": -26,
+      "stab": -19,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1330
+      },
+      {
+        "key": "kd_helmet_9",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_54": {
+    "name": "多角虫",
+    "level": 16,
+    "hitPoints": 234,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 108,
+      "slash": 108,
+      "stab": 108,
+      "archery": 0,
+      "magic": 64
+    },
+    "defenseStats": {
+      "crush": -20,
+      "slash": -27,
+      "stab": -20,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1350
+      },
+      {
+        "key": "kd_chestplate_12",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_55": {
+    "name": "巨型多角虫",
+    "level": 27,
+    "hitPoints": 238,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 110,
+      "slash": 110,
+      "stab": 110,
+      "archery": 0,
+      "magic": 66
+    },
+    "defenseStats": {
+      "crush": -20,
+      "slash": -27,
+      "stab": -20,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1380
+      },
+      {
+        "key": "kd_helmet_10",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_56": {
+    "name": "骷髅",
+    "level": 18,
+    "hitPoints": 243,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 112,
+      "slash": 112,
+      "stab": 112,
+      "archery": 0,
+      "magic": 67
+    },
+    "defenseStats": {
+      "crush": -21,
+      "slash": -28,
+      "stab": -21,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1400
+      },
+      {
+        "key": "kd_chestplate_12",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_57": {
+    "name": "强化骷髅",
+    "level": 143,
+    "hitPoints": 247,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 114,
+      "slash": 114,
+      "stab": 114,
+      "archery": 0,
+      "magic": 68
+    },
+    "defenseStats": {
+      "crush": -21,
+      "slash": -28,
+      "stab": -21,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1430
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_58": {
+    "name": "超强骷髅",
+    "level": 145,
+    "hitPoints": 251,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 116,
+      "slash": 116,
+      "stab": 116,
+      "archery": 0,
+      "magic": 69
+    },
+    "defenseStats": {
+      "crush": -21,
+      "slash": -29,
+      "stab": -21,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1450
+      },
+      {
+        "key": "kd_helmet_8",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_59": {
+    "name": "神兽",
+    "level": 43,
+    "hitPoints": 255,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 118,
+      "slash": 118,
+      "stab": 118,
+      "archery": 0,
+      "magic": 70
+    },
+    "defenseStats": {
+      "crush": -22,
+      "slash": -29,
+      "stab": -22,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1480
+      },
+      {
+        "key": "kd_chestplate_11",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_60": {
+    "name": "魔龙射手",
+    "level": 151,
+    "hitPoints": 259,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 120,
+      "slash": 120,
+      "stab": 120,
+      "archery": 0,
+      "magic": 72
+    },
+    "defenseStats": {
+      "crush": -22,
+      "slash": -30,
+      "stab": -22,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1510
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_61": {
+    "name": "魔龙破甲兵",
+    "level": 153,
+    "hitPoints": 264,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 122,
+      "slash": 122,
+      "stab": 122,
+      "archery": 0,
+      "magic": 73
+    },
+    "defenseStats": {
+      "crush": -22,
+      "slash": -30,
+      "stab": -22,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1530
+      },
+      {
+        "key": "kd_chestplate_50",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_62": {
+    "name": "魔龙刀兵",
+    "level": 156,
+    "hitPoints": 268,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 124,
+      "slash": 124,
+      "stab": 124,
+      "archery": 0,
+      "magic": 74
+    },
+    "defenseStats": {
+      "crush": -23,
+      "slash": -31,
+      "stab": -23,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1560
+      },
+      {
+        "key": "kd_weapon_83",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_63": {
+    "name": "雷龙蜘蛛",
+    "level": 158,
+    "hitPoints": 272,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 126,
+      "slash": 126,
+      "stab": 126,
+      "archery": 0,
+      "magic": 75
+    },
+    "defenseStats": {
+      "crush": -23,
+      "slash": -31,
+      "stab": -23,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1580
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_64": {
+    "name": "月灵",
+    "level": 161,
+    "hitPoints": 276,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 128,
+      "slash": 128,
+      "stab": 128,
+      "archery": 0,
+      "magic": 76
+    },
+    "defenseStats": {
+      "crush": -24,
+      "slash": -32,
+      "stab": -24,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1610
+      },
+      {
+        "key": "kd_weapon_85",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_65": {
+    "name": "尸王",
+    "level": 50,
+    "hitPoints": 280,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 130,
+      "slash": 130,
+      "stab": 130,
+      "archery": 0,
+      "magic": 78
+    },
+    "defenseStats": {
+      "crush": -24,
+      "slash": -32,
+      "stab": -24,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1630
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_66": {
+    "name": "楔蛾",
+    "level": 32,
+    "hitPoints": 285,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 132,
+      "slash": 132,
+      "stab": 132,
+      "archery": 0,
+      "magic": 79
+    },
+    "defenseStats": {
+      "crush": -24,
+      "slash": -33,
+      "stab": -24,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1660
+      },
+      {
+        "key": "kd_chestplate_14",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_67": {
+    "name": "石墓尸王",
+    "level": 55,
+    "hitPoints": 8675,
+    "isBoss": true,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 134,
+      "slash": 134,
+      "stab": 134,
+      "archery": 0,
+      "magic": 80
+    },
+    "defenseStats": {
+      "crush": -25,
+      "slash": -33,
+      "stab": -25,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 100000,
+        "count": 1680
+      },
+      {
+        "key": "kd_flask_heal",
+        "chance": 50000
+      },
+      {
+        "key": "kd_helmet_11",
+        "chance": 30000
+      },
+      {
+        "key": "kd_blessingoil",
+        "count": 1,
+        "chance": 5000
+      },
+      {
+        "key": "kd_protection",
+        "count": 1,
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_68": {
+    "name": "雷炎狼蛛",
+    "level": 80,
+    "hitPoints": 293,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 136,
+      "slash": 136,
+      "stab": 136,
+      "archery": 0,
+      "magic": 81
+    },
+    "defenseStats": {
+      "crush": -25,
+      "slash": -34,
+      "stab": -25,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1710
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_69": {
+    "name": "金仗蜘蛛",
+    "level": 75,
+    "hitPoints": 297,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 138,
+      "slash": 138,
+      "stab": 138,
+      "archery": 0,
+      "magic": 82
+    },
+    "defenseStats": {
+      "crush": -25,
+      "slash": -34,
+      "stab": -25,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1730
+      },
+      {
+        "key": "kd_chestplate_59",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_70": {
+    "name": "地狱蜘蛛",
+    "level": 176,
+    "hitPoints": 301,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 140,
+      "slash": 140,
+      "stab": 140,
+      "archery": 0,
+      "magic": 84
+    },
+    "defenseStats": {
+      "crush": -26,
+      "slash": -35,
+      "stab": -26,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1760
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_71": {
+    "name": "巨链蜘蛛",
+    "level": 178,
+    "hitPoints": 306,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 142,
+      "slash": 142,
+      "stab": 142,
+      "archery": 0,
+      "magic": 85
+    },
+    "defenseStats": {
+      "crush": -26,
+      "slash": -35,
+      "stab": -26,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1780
+      },
+      {
+        "key": "kd_helmet_13",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_72": {
+    "name": "超级火龙",
+    "level": 90,
+    "hitPoints": 9305,
+    "isBoss": true,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 144,
+      "slash": 144,
+      "stab": 144,
+      "archery": 0,
+      "magic": 86
+    },
+    "defenseStats": {
+      "crush": -27,
+      "slash": -36,
+      "stab": -27,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 100000,
+        "count": 1810
+      },
+      {
+        "key": "kd_flask_heal",
+        "chance": 50000
+      },
+      {
+        "key": "kd_boots_7",
+        "chance": 30000
+      },
+      {
+        "key": "kd_blessingoil",
+        "count": 1,
+        "chance": 5000
+      },
+      {
+        "key": "kd_protection",
+        "count": 1,
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_73": {
+    "name": "火翼龙",
+    "level": 85,
+    "hitPoints": 314,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 147,
+      "slash": 147,
+      "stab": 147,
+      "archery": 0,
+      "magic": 88
+    },
+    "defenseStats": {
+      "crush": -27,
+      "slash": -36,
+      "stab": -27,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1840
+      },
+      {
+        "key": "kd_chestplate_26",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_74": {
+    "name": "火龙守卫",
+    "level": 186,
+    "hitPoints": 318,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 148,
+      "slash": 148,
+      "stab": 148,
+      "archery": 0,
+      "magic": 88
+    },
+    "defenseStats": {
+      "crush": -27,
+      "slash": -37,
+      "stab": -27,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1860
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_75": {
+    "name": "火龙蜘蛛",
+    "level": 189,
+    "hitPoints": 322,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 151,
+      "slash": 151,
+      "stab": 151,
+      "archery": 0,
+      "magic": 90
+    },
+    "defenseStats": {
+      "crush": -28,
+      "slash": -37,
+      "stab": -28,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1890
+      },
+      {
+        "key": "kd_chestplate_26",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_76": {
+    "name": "龙",
+    "level": 191,
+    "hitPoints": 327,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 152,
+      "slash": 152,
+      "stab": 152,
+      "archery": 0,
+      "magic": 91
+    },
+    "defenseStats": {
+      "crush": -28,
+      "slash": -38,
+      "stab": -28,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1910
+      },
+      {
+        "key": "kd_chestplate_55",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_77": {
+    "name": "狂热火蜥蜴",
+    "level": 194,
+    "hitPoints": 331,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 155,
+      "slash": 155,
+      "stab": 155,
+      "archery": 0,
+      "magic": 93
+    },
+    "defenseStats": {
+      "crush": -29,
+      "slash": -38,
+      "stab": -29,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1940
+      },
+      {
+        "key": "kd_helmet_13",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_78": {
+    "name": "火狐狼妖",
+    "level": 100,
+    "hitPoints": 335,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 156,
+      "slash": 156,
+      "stab": 156,
+      "archery": 0,
+      "magic": 93
+    },
+    "defenseStats": {
+      "crush": -29,
+      "slash": -39,
+      "stab": -29,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1960
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_79": {
+    "name": "白狐狸",
+    "level": 95,
+    "hitPoints": 339,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 159,
+      "slash": 159,
+      "stab": 159,
+      "archery": 0,
+      "magic": 95
+    },
+    "defenseStats": {
+      "crush": -29,
+      "slash": -39,
+      "stab": -29,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 1990
+      },
+      {
+        "key": "kd_boots_10",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_80": {
+    "name": "弓箭怪",
+    "level": 201,
+    "hitPoints": 343,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 160,
+      "slash": 160,
+      "stab": 160,
+      "archery": 0,
+      "magic": 96
+    },
+    "defenseStats": {
+      "crush": -30,
+      "slash": -40,
+      "stab": -30,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2010
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_81": {
+    "name": "银斧狐卫",
+    "level": 204,
+    "hitPoints": 348,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 163,
+      "slash": 163,
+      "stab": 163,
+      "archery": 0,
+      "magic": 97
+    },
+    "defenseStats": {
+      "crush": -30,
+      "slash": -40,
+      "stab": -30,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2040
+      },
+      {
+        "key": "kd_chestplate_25",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_82": {
+    "name": "云霄鹿龙",
+    "level": 206,
+    "hitPoints": 352,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 164,
+      "slash": 164,
+      "stab": 164,
+      "archery": 0,
+      "magic": 98
+    },
+    "defenseStats": {
+      "crush": -30,
+      "slash": -41,
+      "stab": -30,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2060
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_83": {
+    "name": "幽甲龙鼋",
+    "level": 209,
+    "hitPoints": 356,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 167,
+      "slash": 167,
+      "stab": 167,
+      "archery": 0,
+      "magic": 100
+    },
+    "defenseStats": {
+      "crush": -31,
+      "slash": -41,
+      "stab": -31,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2090
+      },
+      {
+        "key": "kd_boots_10",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_84": {
+    "name": "狞尾狮魔",
+    "level": 212,
+    "hitPoints": 360,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 169,
+      "slash": 169,
+      "stab": 169,
+      "archery": 0,
+      "magic": 101
+    },
+    "defenseStats": {
+      "crush": -31,
+      "slash": -42,
+      "stab": -31,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2120
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_85": {
+    "name": "黑熊精",
+    "level": 214,
+    "hitPoints": 364,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 171,
+      "slash": 171,
+      "stab": 171,
+      "archery": 0,
+      "magic": 102
+    },
+    "defenseStats": {
+      "crush": -32,
+      "slash": -42,
+      "stab": -32,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2140
+      },
+      {
+        "key": "kd_chestplate_47",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_86": {
+    "name": "虎先锋",
+    "level": 217,
+    "hitPoints": 368,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 173,
+      "slash": 173,
+      "stab": 173,
+      "archery": 0,
+      "magic": 103
+    },
+    "defenseStats": {
+      "crush": -32,
+      "slash": -43,
+      "stab": -32,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2170
+      },
+      {
+        "key": "kd_boots_10",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_87": {
+    "name": "金池长老",
+    "level": 219,
+    "hitPoints": 373,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 175,
+      "slash": 175,
+      "stab": 175,
+      "archery": 0,
+      "magic": 105
+    },
+    "defenseStats": {
+      "crush": -32,
+      "slash": -43,
+      "stab": -32,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2190
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_88": {
+    "name": "猪八戒",
+    "level": 222,
+    "hitPoints": 377,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 177,
+      "slash": 177,
+      "stab": 177,
+      "archery": 0,
+      "magic": 106
+    },
+    "defenseStats": {
+      "crush": -33,
+      "slash": -44,
+      "stab": -33,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2220
+      },
+      {
+        "key": "kd_boots_9",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_89": {
+    "name": "超级牛魔王",
+    "level": 224,
+    "hitPoints": 11447,
+    "isBoss": true,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 179,
+      "slash": 179,
+      "stab": 179,
+      "archery": 0,
+      "magic": 107
+    },
+    "defenseStats": {
+      "crush": -33,
+      "slash": -44,
+      "stab": -33,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 100000,
+        "count": 2240
+      },
+      {
+        "key": "kd_flask_heal",
+        "chance": 50000
+      },
+      {
+        "key": "kd_helmet_16",
+        "chance": 30000
+      },
+      {
+        "key": "kd_blessingoil",
+        "count": 1,
+        "chance": 5000
+      },
+      {
+        "key": "kd_protection",
+        "count": 1,
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_90": {
+    "name": "东方持国天王",
+    "level": 227,
+    "hitPoints": 385,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 181,
+      "slash": 181,
+      "stab": 181,
+      "archery": 0,
+      "magic": 108
+    },
+    "defenseStats": {
+      "crush": -34,
+      "slash": -45,
+      "stab": -34,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2270
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_91": {
+    "name": "南方增长天王",
+    "level": 229,
+    "hitPoints": 390,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 183,
+      "slash": 183,
+      "stab": 183,
+      "archery": 0,
+      "magic": 109
+    },
+    "defenseStats": {
+      "crush": -34,
+      "slash": -45,
+      "stab": -34,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2290
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_92": {
+    "name": "西方广目天王",
+    "level": 232,
+    "hitPoints": 394,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 185,
+      "slash": 185,
+      "stab": 185,
+      "archery": 0,
+      "magic": 111
+    },
+    "defenseStats": {
+      "crush": -34,
+      "slash": -46,
+      "stab": -34,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2320
+      },
+      {
+        "key": "kd_weaponmagic_6",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_93": {
+    "name": "北方多闻天王",
+    "level": 234,
+    "hitPoints": 398,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 187,
+      "slash": 187,
+      "stab": 187,
+      "archery": 0,
+      "magic": 112
+    },
+    "defenseStats": {
+      "crush": -35,
+      "slash": -46,
+      "stab": -35,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2340
+      },
+      {
+        "key": "kd_weapon_46",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_94": {
+    "name": "秦始皇",
+    "level": 100,
+    "hitPoints": 12077,
+    "isBoss": true,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 189,
+      "slash": 189,
+      "stab": 189,
+      "archery": 0,
+      "magic": 113
+    },
+    "defenseStats": {
+      "crush": -35,
+      "slash": -47,
+      "stab": -35,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 100000,
+        "count": 2370
+      },
+      {
+        "key": "kd_flask_heal",
+        "chance": 50000
+      },
+      {
+        "key": "kd_boots_13",
+        "chance": 30000
+      },
+      {
+        "key": "kd_blessingoil",
+        "count": 1,
+        "chance": 5000
+      },
+      {
+        "key": "kd_protection",
+        "count": 1,
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_95": {
+    "name": "秦俑甲士",
+    "level": 239,
+    "hitPoints": 406,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 191,
+      "slash": 191,
+      "stab": 191,
+      "archery": 0,
+      "magic": 114
+    },
+    "defenseStats": {
+      "crush": -35,
+      "slash": -47,
+      "stab": -35,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2390
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_96": {
+    "name": "破阵锐士",
+    "level": 242,
+    "hitPoints": 411,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 193,
+      "slash": 193,
+      "stab": 193,
+      "archery": 0,
+      "magic": 115
+    },
+    "defenseStats": {
+      "crush": -36,
+      "slash": -48,
+      "stab": -36,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2420
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_97": {
+    "name": "财神",
+    "level": 60,
+    "hitPoints": 415,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 196,
+      "slash": 196,
+      "stab": 196,
+      "archery": 0,
+      "magic": 117
+    },
+    "defenseStats": {
+      "crush": -36,
+      "slash": -49,
+      "stab": -36,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2450
+      },
+      {
+        "key": "kd_chestplate_22",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_98": {
+    "name": "苦行僧",
+    "level": 247,
+    "hitPoints": 419,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 197,
+      "slash": 197,
+      "stab": 197,
+      "archery": 0,
+      "magic": 118
+    },
+    "defenseStats": {
+      "crush": -37,
+      "slash": -49,
+      "stab": -37,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2470
+      },
+      {
+        "key": "kd_boots_13",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_99": {
+    "name": "伏魔金刚",
+    "level": 105,
+    "hitPoints": 423,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 200,
+      "slash": 200,
+      "stab": 200,
+      "archery": 0,
+      "magic": 120
+    },
+    "defenseStats": {
+      "crush": -37,
+      "slash": -50,
+      "stab": -37,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2500
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_100": {
+    "name": "金翼武僧",
+    "level": 252,
+    "hitPoints": 427,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 201,
+      "slash": 201,
+      "stab": 201,
+      "archery": 0,
+      "magic": 120
+    },
+    "defenseStats": {
+      "crush": -37,
+      "slash": -50,
+      "stab": -37,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2520
+      },
+      {
+        "key": "kd_boots_14",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_101": {
+    "name": "大日如来",
+    "level": 110,
+    "hitPoints": 12960,
+    "isBoss": true,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 204,
+      "slash": 204,
+      "stab": 204,
+      "archery": 0,
+      "magic": 122
+    },
+    "defenseStats": {
+      "crush": -38,
+      "slash": -51,
+      "stab": -38,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 100000,
+        "count": 2550
+      },
+      {
+        "key": "kd_flask_heal",
+        "chance": 50000
+      },
+      {
+        "key": "kd_blessingoil",
+        "count": 1,
+        "chance": 5000
+      },
+      {
+        "key": "kd_protection",
+        "count": 1,
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_102": {
+    "name": "变异月灵",
+    "level": 257,
+    "hitPoints": 436,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 205,
+      "slash": 205,
+      "stab": 205,
+      "archery": 0,
+      "magic": 123
+    },
+    "defenseStats": {
+      "crush": -38,
+      "slash": -51,
+      "stab": -38,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2570
+      },
+      {
+        "key": "kd_chestplate_61",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_103": {
+    "name": "世界BOSS",
+    "level": 260,
+    "hitPoints": 13211,
+    "isBoss": true,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 208,
+      "slash": 208,
+      "stab": 208,
+      "archery": 0,
+      "magic": 124
+    },
+    "defenseStats": {
+      "crush": -39,
+      "slash": -52,
+      "stab": -39,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 100000,
+        "count": 2600
+      },
+      {
+        "key": "kd_flask_heal",
+        "chance": 50000
+      },
+      {
+        "key": "kd_blessingoil",
+        "count": 1,
+        "chance": 5000
+      },
+      {
+        "key": "kd_protection",
+        "count": 1,
+        "chance": 2000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_104": {
+    "name": "棘刺海螺",
+    "level": 262,
+    "hitPoints": 444,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 209,
+      "slash": 209,
+      "stab": 209,
+      "archery": 0,
+      "magic": 125
+    },
+    "defenseStats": {
+      "crush": -39,
+      "slash": -52,
+      "stab": -39,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2620
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_105": {
+    "name": "巨腹魔鱼",
+    "level": 115,
+    "hitPoints": 448,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 212,
+      "slash": 212,
+      "stab": 212,
+      "archery": 0,
+      "magic": 127
+    },
+    "defenseStats": {
+      "crush": -39,
+      "slash": -53,
+      "stab": -39,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2650
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_106": {
+    "name": "岩甲龟",
+    "level": 267,
+    "hitPoints": 453,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 213,
+      "slash": 213,
+      "stab": 213,
+      "archery": 0,
+      "magic": 127
+    },
+    "defenseStats": {
+      "crush": -40,
+      "slash": -53,
+      "stab": -40,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2670
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_107": {
+    "name": "蓝瞳深渊兽",
+    "level": 120,
+    "hitPoints": 457,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 216,
+      "slash": 216,
+      "stab": 216,
+      "archery": 0,
+      "magic": 129
+    },
+    "defenseStats": {
+      "crush": -40,
+      "slash": -54,
+      "stab": -40,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2700
+      },
+      {
+        "key": "kd_helmet_33",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_108": {
+    "name": "银鳞叉卫",
+    "level": 273,
+    "hitPoints": 461,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 218,
+      "slash": 218,
+      "stab": 218,
+      "archery": 0,
+      "magic": 130
+    },
+    "defenseStats": {
+      "crush": -40,
+      "slash": -54,
+      "stab": -40,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2730
+      },
+      {
+        "key": "kd_boots_28",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_109": {
+    "name": "碧鳞龙蜥",
+    "level": 275,
+    "hitPoints": 465,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 220,
+      "slash": 220,
+      "stab": 220,
+      "archery": 0,
+      "magic": 132
+    },
+    "defenseStats": {
+      "crush": -41,
+      "slash": -55,
+      "stab": -41,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2750
+      },
+      {
+        "key": "kd_chestplate_74",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_110": {
+    "name": "远古海尊者",
+    "level": 125,
+    "hitPoints": 469,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 222,
+      "slash": 222,
+      "stab": 222,
+      "archery": 0,
+      "magic": 133
+    },
+    "defenseStats": {
+      "crush": -41,
+      "slash": -55,
+      "stab": -41,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2780
+      },
+      {
+        "key": "kd_helmet_29",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_111": {
+    "name": "守卫",
+    "level": 280,
+    "hitPoints": 474,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 224,
+      "slash": 224,
+      "stab": 224,
+      "archery": 0,
+      "magic": 134
+    },
+    "defenseStats": {
+      "crush": -42,
+      "slash": -56,
+      "stab": -42,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2800
+      },
+      {
+        "key": "kd_boots_32",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_112": {
+    "name": "校尉",
+    "level": 283,
+    "hitPoints": 478,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 226,
+      "slash": 226,
+      "stab": 226,
+      "archery": 0,
+      "magic": 135
+    },
+    "defenseStats": {
+      "crush": -42,
+      "slash": -56,
+      "stab": -42,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2830
+      },
+      {
+        "key": "kd_chestplate_71",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_113": {
+    "name": "虎豹骑",
+    "level": 285,
+    "hitPoints": 482,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 228,
+      "slash": 228,
+      "stab": 228,
+      "archery": 0,
+      "magic": 136
+    },
+    "defenseStats": {
+      "crush": -42,
+      "slash": -57,
+      "stab": -42,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2850
+      },
+      {
+        "key": "kd_weaponmagic_14",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_114": {
+    "name": "超级虎卫",
+    "level": 288,
+    "hitPoints": 486,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 230,
+      "slash": 230,
+      "stab": 230,
+      "archery": 0,
+      "magic": 138
+    },
+    "defenseStats": {
+      "crush": -43,
+      "slash": -57,
+      "stab": -43,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2880
+      },
+      {
+        "key": "kd_weaponmagic_8",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_115": {
+    "name": "超级鹰卫",
+    "level": 290,
+    "hitPoints": 490,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 232,
+      "slash": 232,
+      "stab": 232,
+      "archery": 0,
+      "magic": 139
+    },
+    "defenseStats": {
+      "crush": -43,
+      "slash": -58,
+      "stab": -43,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2900
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_116": {
+    "name": "暴风斧灵",
+    "level": 293,
+    "hitPoints": 495,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 234,
+      "slash": 234,
+      "stab": 234,
+      "archery": 0,
+      "magic": 140
+    },
+    "defenseStats": {
+      "crush": -43,
+      "slash": -58,
+      "stab": -43,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2930
+      },
+      {
+        "key": "kd_chestplate_73",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_117": {
+    "name": "幻音笛灵",
+    "level": 295,
+    "hitPoints": 499,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 236,
+      "slash": 236,
+      "stab": 236,
+      "archery": 0,
+      "magic": 141
+    },
+    "defenseStats": {
+      "crush": -44,
+      "slash": -59,
+      "stab": -44,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2950
+      },
+      {
+        "key": "kd_boots_24",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  },
+  "kd_mob_118": {
+    "name": "梦幻龙神",
+    "level": 298,
+    "hitPoints": 503,
+    "isBoss": false,
+    "aggroRange": 4,
+    "attackRate": 1400,
+    "movementSpeed": 450,
+    "respawnDelay": 30000,
+    "attackStats": {
+      "crush": 238,
+      "slash": 238,
+      "stab": 238,
+      "archery": 0,
+      "magic": 142
+    },
+    "defenseStats": {
+      "crush": -44,
+      "slash": -59,
+      "stab": -44,
+      "archery": 0,
+      "magic": 0
+    },
+    "drops": [
+      {
+        "key": "gold",
+        "chance": 30000,
+        "count": 2980
+      },
+      {
+        "key": "kd_weapon_38",
+        "chance": 8000
+      }
+    ],
+    "dropTables": [
+      "ordinary"
+    ]
+  }
+}
